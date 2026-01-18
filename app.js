@@ -1,114 +1,67 @@
-// Reads vocab.csv (unit,german,spanish) and runs flashcards with learn/retry/done.
-// Progress is saved on this device using localStorage.
-
-const CSV_PATH = "vocab.csv";
-const LS_KEY = "flashcards_status_v1"; // stores status per card id
+const CSV_URL = 'vocab.csv';
+const LS_KEY = 'flashcard_progress';
 
 const unitSelect = document.getElementById("unitSelect");
-const statsEl = document.getElementById("stats");
-const frontText = document.getElementById("frontText");
-const hint = document.getElementById("hint");
+const cardText = document.getElementById("cardText");
+const hintText = document.getElementById("hintText");
 const showBtn = document.getElementById("showBtn");
 const wrongBtn = document.getElementById("wrongBtn");
 const rightBtn = document.getElementById("rightBtn");
+const resetBtn = document.getElementById("resetBtn");
+const progressText = document.getElementById("progressText");
 
-let rows = [];
-let byUnit = new Map();
-let statusMap = loadStatus();
-let currentUnit = "";
-let currentQueue = [];
+let allCards = [];
+let currentCards = [];
 let currentCard = null;
+let progress = loadProgress();
 let revealed = false;
 
-function loadStatus() {
-  try { return JSON.parse(localStorage.getItem(LS_KEY) || "{}"); }
+function loadProgress() {
+  try { return JSON.parse(localStorage.getItem(LS_KEY)) || {}; }
   catch { return {}; }
 }
-function saveStatus() {
-  localStorage.setItem(LS_KEY, JSON.stringify(statusMap));
+
+function saveProgress() {
+  localStorage.setItem(LS_KEY, JSON.stringify(progress));
 }
 
 function parseCSV(text) {
-  // Simple CSV parser (handles commas + quotes reasonably).
-  const lines = text.replace(/\r/g, "").split("\n").filter(l => l.trim().length);
-  const headers = splitCSVLine(lines[0]).map(h => h.trim().toLowerCase());
-  const out = [];
-  for (let i=1; i<lines.length; i++) {
-    const cols = splitCSVLine(lines[i]);
-    const obj = {};
-    headers.forEach((h, idx) => obj[h] = (cols[idx] ?? "").trim());
-    if (obj.unit && obj.german && obj.spanish) out.push(obj);
-  }
-  return out;
-}
-
-function splitCSVLine(line) {
-  const res = [];
-  let cur = "";
-  let inQ = false;
-  for (let i=0; i<line.length; i++) {
-    const ch = line[i];
-    if (ch === '"' ) {
-      if (inQ && line[i+1] === '"') { cur += '"'; i++; }
-      else inQ = !inQ;
-    } else if (ch === "," && !inQ) {
-      res.push(cur); cur = "";
-    } else {
-      cur += ch;
-    }
-  }
-  res.push(cur);
-  return res;
-}
-
-function cardId(r, idx) {
-  // stable id: unit|german|spanish
-  return `${r.unit}|||${r.german}|||${r.spanish}`;
-}
-
-function getStatus(id) {
-  return statusMap[id] || "learn";
-}
-function setStatus(id, val) {
-  statusMap[id] = val;
-  saveStatus();
+  const lines = text.trim().split("\n");
+  const headers = lines[0].split(",");
+  return lines.slice(1).map(line => {
+    const parts = line.split(",");
+    return {
+      unit: parts[0],
+      german: parts[1],
+      spanish: parts[2],
+      id: parts.join("||")
+    };
+  });
 }
 
 function buildUnits() {
-  byUnit = new Map();
-  rows.forEach((r, idx) => {
-    const u = r.unit;
-    const id = cardId(r, idx);
-    const entry = { ...r, id };
-    if (!byUnit.has(u)) byUnit.set(u, []);
-    byUnit.get(u).push(entry);
-  });
-
+  const units = [...new Set(allCards.map(c => c.unit))];
   unitSelect.innerHTML = "";
-  [...byUnit.keys()].sort().forEach(u => {
+  units.forEach(unit => {
     const opt = document.createElement("option");
-    opt.value = u; opt.textContent = u;
+    opt.value = unit;
+    opt.textContent = "Lektion " + unit;
     unitSelect.appendChild(opt);
   });
-
-  currentUnit = unitSelect.value || [...byUnit.keys()][0] || "";
 }
 
-function rebuildQueue() {
-  const list = byUnit.get(currentUnit) || [];
-  // keep learn + retry, drop done
-  currentQueue = list.filter(c => ["learn","retry"].includes(getStatus(c.id)));
-  // shuffle
-  for (let i=currentQueue.length-1; i>0; i--) {
-    const j = Math.floor(Math.random()*(i+1));
-    [currentQueue[i], currentQueue[j]] = [currentQueue[j], currentQueue[i]];
+function filterCards() {
+  const selectedUnit = unitSelect.value;
+  const cards = allCards.filter(c => c.unit === selectedUnit);
+  currentCards = cards.filter(c => progress[c.id] !== "done");
+  shuffle(currentCards);
+}
+
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
   }
-}
-
-function updateStats() {
-  const all = byUnit.get(currentUnit) || [];
-  const done = all.filter(c => getStatus(c.id) === "done").length;
-  statsEl.textContent = `${done}/${all.length} done`;
 }
 
 function showNextCard() {
@@ -117,58 +70,71 @@ function showNextCard() {
   rightBtn.disabled = true;
   showBtn.disabled = false;
 
-  rebuildQueue();
-  updateStats();
-
-  if (currentQueue.length === 0) {
-    frontText.textContent = "All done 🎉";
-    hint.textContent = "Reset by clearing Safari website data or editing statuses in the CSV.";
-    currentCard = null;
-    showBtn.disabled = true;
+  if (currentCards.length === 0) {
+    cardText.textContent = "🎉 Alles erledigt!";
+    hintText.textContent = "Super gemacht!";
+    progressText.textContent = "";
     return;
   }
 
-  currentCard = currentQueue[0];
-  frontText.textContent = currentCard.german; // front = German
-  hint.textContent = "Tap Show to reveal Spanish";
+  currentCard = currentCards[0];
+  cardText.textContent = currentCard.german;
+  hintText.textContent = "Was heißt das auf Spanisch?";
+  updateProgressText();
 }
 
-function reveal() {
+function revealAnswer() {
   if (!currentCard) return;
+  cardText.textContent = currentCard.spanish;
+  hintText.textContent = currentCard.german;
   revealed = true;
-  frontText.textContent = currentCard.spanish;
-  hint.textContent = "Mark Right or Wrong";
-  showBtn.disabled = true;
   wrongBtn.disabled = false;
   rightBtn.disabled = false;
+  showBtn.disabled = true;
 }
 
-function mark(val) {
+function mark(answer) {
   if (!currentCard) return;
-  if (val === "right") setStatus(currentCard.id, "done");
-  if (val === "wrong") setStatus(currentCard.id, "retry");
+  if (answer === "right") progress[currentCard.id] = "done";
+  saveProgress();
+  currentCards.shift();
   showNextCard();
+}
+
+function updateProgressText() {
+  const total = allCards.filter(c => c.unit === unitSelect.value).length;
+  const done = total - currentCards.length;
+  progressText.textContent = `${done} von ${total} gelernt`;
+}
+
+function resetProgress() {
+  if (confirm("Willst du wirklich alles zurücksetzen?")) {
+    progress = {};
+    saveProgress();
+    filterCards();
+    showNextCard();
+  }
 }
 
 async function init() {
-  const resp = await fetch(CSV_PATH, { cache: "no-store" });
-  const text = await resp.text();
-  rows = parseCSV(text);
+  const res = await fetch(CSV_URL);
+  const text = await res.text();
+  allCards = parseCSV(text);
 
   buildUnits();
   unitSelect.addEventListener("change", () => {
-    currentUnit = unitSelect.value;
+    filterCards();
     showNextCard();
   });
 
-  showBtn.addEventListener("click", reveal);
+  showBtn.addEventListener("click", revealAnswer);
   wrongBtn.addEventListener("click", () => mark("wrong"));
   rightBtn.addEventListener("click", () => mark("right"));
+  resetBtn.addEventListener("click", resetProgress);
 
+  unitSelect.value = unitSelect.options[0]?.value;
+  filterCards();
   showNextCard();
 }
 
-init().catch(err => {
-  frontText.textContent = "Error loading vocab.csv";
-  hint.textContent = String(err);
-});
+init();
