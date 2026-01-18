@@ -1,956 +1,955 @@
-unit,Deutsch,Spanisch,Status,flip
-Unidad 1,Hallo,¬°Hola!,learn,FALSE
-Unidad 1,Wie geht‚Äôs?,¬øQu√© tal?,learn,FALSE
-Unidad 1,Guten Morgen,¬°Buenos d√≠as!,learn,FALSE
-Unidad 1,Guten Tag,Buenas tardes,learn,FALSE
-Unidad 1,Gute Nacht,¬°Buenas noches!,learn,FALSE
-Unidad 1,ich hei√üe ‚Ä¶,Me llamo ‚Ä¶,learn,FALSE
-Unidad 1,und,y,learn,FALSE
-Unidad 1,ich bin,soy,learn,FALSE
-Unidad 1,von / aus,de,learn,FALSE
-Unidad 1,ich bin aus ‚Ä¶,soy de ‚Ä¶,learn,FALSE
-Unidad 1,du,t√∫,learn,FALSE
-Unidad 1,Wie ‚Ä¶ ?,¬øC√≥mo ‚Ä¶ ?,learn,FALSE
-Unidad 1,Wie hei√üt du?,¬øC√≥mo te llamas?,learn,FALSE
-Unidad 1,ich,yo,learn,FALSE
-Unidad 1,auch,tambi√©n,learn,FALSE
-Unidad 1,Sch√ºler(in) / Student(in),el/la estudiante,learn,FALSE
-Unidad 1,Lehrer(in),el profesor / la profesora,learn,FALSE
-Unidad 1,Spanisch,el espa√±ol,learn,FALSE
-Unidad 1,aber,pero,learn,FALSE
-Unidad 1,ich lebe / wohne,vivo,learn,FALSE
-Unidad 1,in / auf,en,learn,FALSE
-Unidad 1,Wo ‚Ä¶ ?,¬øD√≥nde ‚Ä¶ ?,learn,FALSE
-Unidad 1,Woher bist du?,¬øDe d√≥nde eres?,learn,FALSE
-Unidad 1,sehr,muy,learn,FALSE
-Unidad 1,gut,bien,learn,FALSE
-Unidad 1,Danke,Gracias,learn,FALSE
-Unidad 1,auf Deutsch,en alem√°n,learn,FALSE
-Unidad 1,man sagt ‚Ä¶,se dice ‚Ä¶,learn,FALSE
-Unidad 1,Guten Tag,Guten Tag,learn,FALSE
-Unidad 1,Guten Abend,Buenas tardes,learn,FALSE
-Unidad 1,Gute Nacht,¬°Buenas noches!,learn,FALSE
-Unidad 1,Wie geht es dir?,¬øC√≥mo est√°s?,learn,FALSE
-Unidad 1,sehr gut,muy bien,learn,FALSE
-Unidad 1,Wo lebst du?,¬øD√≥nde vives?,learn,FALSE
-Unidad 1,der Dialog,el di√°logo,learn,FALSE
-Unidad 1,das Foto,la foto,learn,FALSE
-Unidad 1,Frau,se√±ora,learn,FALSE
-Unidad 1,Herr,se√±or,learn,FALSE
-Unidad 1,Sie (Anrede),usted / ustedes,learn,FALSE
-Unidad 1,Wie geht es Ihnen?,¬øC√≥mo est√° usted?,learn,FALSE
-Unidad 1,ja,s√≠,learn,FALSE
-Unidad 1,gut,bueno,learn,FALSE
-Unidad 1,so so,as√≠ as√≠,learn,FALSE
-Unidad 1,viel Stress,mucho estr√©s,learn,FALSE
-Unidad 1,also,pues,learn,FALSE
-Unidad 1,Toll!,¬°√Ånimo!,learn,FALSE
-Unidad 1,Bis sp√§ter!,¬°Hasta luego!,learn,FALSE
-Unidad 1,Tsch√ºss,¬°Adi√≥s!,learn,FALSE
-Unidad 1,O.K.,Vale,learn,FALSE
-Unidad 1,der Kuss,el beso,learn,FALSE
-Unidad 1,Bis bald!,¬°Hasta pronto!,learn,FALSE
-Unidad 1,Bis zum n√§chsten Mal,¬°Hasta la pr√≥xima!,learn,FALSE
-Unidad 1,super,genial,learn,FALSE
-Unidad 1,schlecht,mal,learn,FALSE
-Unidad 1,sehr schlecht,fatal,learn,FALSE
-Unidad 1,der Platz,la plaza,learn,FALSE
-Unidad 1,das Stadion,el estadio,learn,FALSE
-Unidad 1,die Tapas,la tapa,learn,FALSE
-Unidad 1,die U-Bahn,el metro,learn,FALSE
-Unidad 1,das Museum,el museo,learn,FALSE
-Unidad 1,der Park,el parque,learn,FALSE
-Unidad 1,die Stra√üe,la calle,learn,FALSE
-Unidad 1,der Junge,el chico,learn,FALSE
-Unidad 1,das M√§dchen,la chica,learn,FALSE
-Unidad 1,das Problem,el problema,learn,FALSE
-Unidad 1,der Freund / die Freundin,el amigo / la amiga,learn,FALSE
-Unidad 1,das Telefon,el tel√©fono,learn,FALSE
-Unidad 1,der Strand,la playa,learn,FALSE
-Unidad 1,das Restaurant,el restaurante,learn,FALSE
-Unidad 1,die Gitarre,la guitarra,learn,FALSE
-Unidad 1,die Bar,el bar,learn,FALSE
-Unidad 1,man schreibt,se escribe,learn,FALSE
-Unidad 1,der Name,el nombre,learn,FALSE
-Unidad 1,der Nachname,el apellido,learn,FALSE
-Unidad 1,mit,con,learn,FALSE
-Unidad 1,Umlaut,dos puntos,learn,FALSE
-Unidad 1,der Akzent,el acento,learn,FALSE
-Unidad 1,die Hauptstadt,la capital,learn,FALSE
-Unidad 1,Wie alt bist du?,¬øCu√°ntos a√±os tienes?,learn,FALSE
-Unidad 1,Jahre,a√±os,learn,FALSE
-Unidad 1,die Telefonnummer,el n√∫mero de tel√©fono,learn,FALSE
-Unidad 1,das Handy,el m√≥vil,learn,FALSE
-Unidad 1,mein / meine,mi,learn,FALSE
-Unidad 1,die Adresse,la direcci√≥n,learn,FALSE
-Unidad 1,die E-Mail,el correo electr√≥nico,learn,FALSE
-Unidad 1,das @-Zeichen,la arroba,learn,FALSE
-Unidad 1,der Punkt,el punto,learn,FALSE
-Unidad 1,der Bindestrich,el guion,learn,FALSE
-Unidad 1,der Unterstrich,el guion bajo,learn,FALSE
-Unidad 2,die Familie,la familia,learn,FALSE
-Unidad 2,meine (Pl.),mis,learn,FALSE
-Unidad 2,der Hund,el perro,learn,FALSE
-Unidad 2,der Vater,el padre,learn,FALSE
-Unidad 2,die Mutter,la madre,learn,FALSE
-Unidad 2,der Bruder / die Schwester,el hermano / la hermana,learn,FALSE
-Unidad 2,die Stadt,la ciudad,learn,FALSE
-Unidad 2,der feste Freund / die feste Freundin,el novio / la novia,learn,FALSE
-Unidad 2,der beste Freund / die beste Freundin,el mejor amigo / la mejor amiga,learn,FALSE
-Unidad 2,der Klassenkamerad / die Klassenkameradin,el compa√±ero de clase / la compa√±era de clase,learn,FALSE
-Unidad 2,er/sie hei√üt ‚Ä¶,se llama ‚Ä¶,learn,FALSE
-Unidad 2,haben,tener,learn,FALSE
-Unidad 2,Wie hei√üt ‚Ä¶?,¬øC√≥mo se llama ‚Ä¶?,learn,FALSE
-Unidad 2,das Haustier,la mascota,learn,FALSE
-Unidad 2,Hast du ‚Ä¶?,¬øTienes ‚Ä¶?,learn,FALSE
-Unidad 2,ich habe,tengo,learn,FALSE
-Unidad 2,nein / nicht,no,learn,FALSE
-Unidad 2,die Geschwister,los hermanos,learn,FALSE
-Unidad 2,"das stimmt doch, oder?",¬øVerdad?,learn,FALSE
-Unidad 2,Wer ‚Ä¶ ? / Wer (Pl.) ‚Ä¶ ?,¬øQui√©n ‚Ä¶ ? / ¬øQui√©nes ‚Ä¶ ?,learn,FALSE
-Unidad 2,sein,ser,learn,FALSE
-Unidad 2,der Gro√üvater,el abuelo,learn,FALSE
-Unidad 2,die Gro√ümutter,la abuela,learn,FALSE
-Unidad 2,der Onkel,el t√≠o,learn,FALSE
-Unidad 2,die Tante,la t√≠a,learn,FALSE
-Unidad 2,der Cousin / die Cousine,el primo / la prima,learn,FALSE
-Unidad 2,die Eltern,los padres,learn,FALSE
-Unidad 2,die Gro√üeltern,los abuelos,learn,FALSE
-Unidad 2,sprechen / reden,hablar,learn,FALSE
-Unidad 2,die Sprache,el idioma,learn,FALSE
-Unidad 2,Englisch,el ingl√©s,learn,FALSE
-Unidad 2,Katalanisch,el catal√°n,learn,FALSE
-Unidad 2,arbeiten,trabajar,learn,FALSE
-Unidad 2,das Gymnasium,el instituto,learn,FALSE
-Unidad 2,der Sohn,el hijo,learn,FALSE
-Unidad 2,die Tochter,la hija,learn,FALSE
-Unidad 2,die Kinder,los hijos,learn,FALSE
-Unidad 2,der Ingenieur / die Ingenieurin,el ingeniero / la ingeniera,learn,FALSE
-Unidad 2,Deutsch,el alem√°n,learn,FALSE
-Unidad 2,sehr schlecht,muy mal,learn,FALSE
-Unidad 2,der Partner / die Partnerin,la pareja,learn,FALSE
-Unidad 2,der Fotograf / die Fotografin,el fot√≥grafo / la fot√≥grafa,learn,FALSE
-Unidad 2,kochen,cocinar,learn,FALSE
-Unidad 2,immer,siempre,learn,FALSE
-Unidad 2,h√∂ren,escuchar,learn,FALSE
-Unidad 2,die Musik,la m√∫sica,learn,FALSE
-Unidad 2,lernen / studieren,estudiar,learn,FALSE
-Unidad 2,ein bisschen,un poco,learn,FALSE
-Unidad 2,Franz√∂sisch,el franc√©s,learn,FALSE
-Unidad 2,verbringen,pasar,learn,FALSE
-Unidad 2,die Ferien / der Urlaub,las vacaciones,learn,FALSE
-Unidad 2,der Sommer,el verano,learn,FALSE
-Unidad 2,nur,solo,learn,FALSE
-Unidad 2,die Katze,el gato,learn,FALSE
-Unidad 2,Das ist nicht richtig.,No es correcto.,learn,FALSE
-Unidad 2,sein (Possessiv),su,learn,FALSE
-Unidad 2,dein(e),tus,learn,FALSE
-Unidad 2,Welche ‚Ä¶ ?,¬øQu√© ‚Ä¶ ?,learn,FALSE
-Unidad 2,die Person,la persona,learn,FALSE
-Unidad 2,das Haus,la casa,learn,FALSE
-Unidad 2,feiern,celebrar,learn,FALSE
-Unidad 2,die Party / das Fest,la fiesta,learn,FALSE
-Unidad 2,Lust haben,tener ganas,learn,FALSE
-Unidad 2,der Geburtstag,el cumplea√±os,learn,FALSE
-Unidad 2,hier,aqu√≠,learn,FALSE
-Unidad 2,das ist ‚Ä¶,este / esta es ‚Ä¶,learn,FALSE
-Unidad 2,wie,como,learn,FALSE
-Unidad 2,die Zeit,el tiempo,learn,FALSE
-Unidad 2,die Freizeit,el tiempo libre,learn,FALSE
-Unidad 2,tanzen,bailar,learn,FALSE
-Unidad 2,der Salsa,la salsa,learn,FALSE
-Unidad 2,lesen,leer,learn,FALSE
-Unidad 2,der Comic,el c√≥mic,learn,FALSE
-Unidad 2,spielen (Instrument),tocar,learn,FALSE
-Unidad 2,der Horror,el horror,learn,FALSE
-Unidad 2,weil,porque,learn,FALSE
-Unidad 2,wohnen / leben,vivir,learn,FALSE
-Unidad 2,schreiben,escribir,learn,FALSE
-Unidad 2,die Nachricht,el mensaje,learn,FALSE
-Unidad 2,den ganzen Tag,todo el d√≠a,learn,FALSE
-Unidad 2,dort,all√≠,learn,FALSE
-Unidad 2,toll! / wie toll!,¬°Qu√© guay!,learn,FALSE
-Unidad 3,das (Stadt-)Viertel,el barrio,learn,FALSE
-Unidad 3,das Dorf,el pueblo,learn,FALSE
-Unidad 3,die Wohnung,el piso,learn,FALSE
-Unidad 3,es gibt,hay,learn,FALSE
-Unidad 3,die Diskothek,la discoteca,learn,FALSE
-Unidad 3,das Kino,el cine,learn,FALSE
-Unidad 3,das Schwimmbad / der Pool,la piscina,learn,FALSE
-Unidad 3,der Supermarkt,el supermercado,learn,FALSE
-Unidad 3,der Laden / das Gesch√§ft,la tienda,learn,FALSE
-Unidad 3,die Kleidung,la ropa,learn,FALSE
-Unidad 3,das Bekleidungsgesch√§ft,la tienda de ropa,learn,FALSE
-Unidad 3,die U-Bahn-Station,la parada de metro,learn,FALSE
-Unidad 3,das Einkaufszentrum,el centro comercial,learn,FALSE
-Unidad 3,viel,"mucho, -a",learn,FALSE
-Unidad 3,wenig,"poco, -a",learn,FALSE
-Unidad 3,deswegen / deshalb,por eso,learn,FALSE
-Unidad 3,laut,"ruidoso, -a",learn,FALSE
-Unidad 3,alternativ,"alternativo, -a",learn,FALSE
-Unidad 3,interessant,interesante,learn,FALSE
-Unidad 3,zum Beispiel,por ejemplo,learn,FALSE
-Unidad 3,sch√∂n,"bonito, -a",learn,FALSE
-Unidad 3,alt,"antiguo, -a",learn,FALSE
-Unidad 3,modern,"moderno, -a",learn,FALSE
-Unidad 3,klein,"peque√±o, -a",learn,FALSE
-Unidad 3,der Satz,la frase,learn,FALSE
-Unidad 3,h√§sslich,"feo, -a",learn,FALSE
-Unidad 3,langweilig,"aburrido, -a",learn,FALSE
-Unidad 3,gro√ü,grande,learn,FALSE
-Unidad 3,ruhig,"tranquilo, -a",learn,FALSE
-Unidad 3,anders / unterschiedlich,diferente,learn,FALSE
-Unidad 3,das Zentrum,el centro,learn,FALSE
-Unidad 3,sich befinden / sein,estar,learn,FALSE
-Unidad 3,da,ah√≠,learn,FALSE
-Unidad 3,der Kilometer,el kil√≥metro,learn,FALSE
-Unidad 3,toll / klasse,guay,learn,FALSE
-Unidad 3,in der N√§he von,cerca de,learn,FALSE
-Unidad 3,ber√ºhmt,"famoso, -a",learn,FALSE
-Unidad 3,das Geb√§ude,el edificio,learn,FALSE
-Unidad 3,der Lieblings-,"favorito, -a",learn,FALSE
-Unidad 3,die Leute,la gente,learn,FALSE
-Unidad 3,das Land,el pa√≠s,learn,FALSE
-Unidad 3,au√üerdem,adem√°s,learn,FALSE
-Unidad 3,sich treffen / verabreden,quedar,learn,FALSE
-Unidad 3,die Woche,la semana,learn,FALSE
-Unidad 3,das Wochenende,el fin de semana,learn,FALSE
-Unidad 3,trinken / essen,tomar,learn,FALSE
-Unidad 3,der Bahnhof,la estaci√≥n,learn,FALSE
-Unidad 3,der Zug,el tren,learn,FALSE
-Unidad 3,drinnen,dentro,learn,FALSE
-Unidad 3,der Garten,el jard√≠n,learn,FALSE
-Unidad 3,die Pflanze,la planta,learn,FALSE
-Unidad 3,neben,al lado de,learn,FALSE
-Unidad 3,die Kunst,el arte,learn,FALSE
-Unidad 3,die Aktivit√§t,la actividad,learn,FALSE
-Unidad 3,kulturell,cultural,learn,FALSE
-Unidad 3,jung,joven,learn,FALSE
-Unidad 3,der Tourist / die Touristin,el turista / la turista,learn,FALSE
-Unidad 3,neu,"nuevo, -a",learn,FALSE
-Unidad 3,der √∂ffentliche Nahverkehr,el transporte p√∫blico,learn,FALSE
-Unidad 3,gut,"bueno, -a",learn,FALSE
-Unidad 3,der Fluss,el r√≠o,learn,FALSE
-Unidad 3,perfekt / ideal,"perfecto, -a",learn,FALSE
-Unidad 3,f√ºr,para,learn,FALSE
-Unidad 3,der Spaziergang,el paseo,learn,FALSE
-Unidad 3,das Fahrrad,la bicicleta,learn,FALSE
-Unidad 3,multikulturell,multicultural,learn,FALSE
-Unidad 3,die Universit√§t,la universidad,learn,FALSE
-Unidad 3,die Eisdiele,la helader√≠a,learn,FALSE
-Unidad 3,die Apotheke,la farmacia,learn,FALSE
-Unidad 3,hinter,detr√°s de,learn,FALSE
-Unidad 3,gegen√ºber von,enfrente de,learn,FALSE
-Unidad 3,links von,a la izquierda de,learn,FALSE
-Unidad 3,weit weg von,lejos de,learn,FALSE
-Unidad 3,auf,encima de,learn,FALSE
-Unidad 3,unter,debajo de,learn,FALSE
-Unidad 3,vor,delante de,learn,FALSE
-Unidad 3,zwischen,entre,learn,FALSE
-Unidad 3,rechts von,a la derecha de,learn,FALSE
-Unidad 3,das Wohnzimmer,el sal√≥n,learn,FALSE
-Unidad 3,das Bad / die Toilette,el ba√±o,learn,FALSE
-Unidad 3,das Zimmer,la habitaci√≥n,learn,FALSE
-Unidad 3,die K√ºche,la cocina,learn,FALSE
-Unidad 3,das Bett,la cama,learn,FALSE
-Unidad 3,der Schrank,el armario,learn,FALSE
-Unidad 3,der Computer,el ordenador,learn,FALSE
-Unidad 3,der Balkon,el balc√≥n,learn,FALSE
-Unidad 3,der Stuhl,la silla,learn,FALSE
-Unidad 3,der Tisch,la mesa,learn,FALSE
-Unidad 3,der Fernseher,el televisor,learn,FALSE
-Unidad 3,das Sofa,el sof√°,learn,FALSE
-Unidad 3,gehen / fahren,ir,learn,FALSE
-Unidad 3,der Bus,el autob√∫s,learn,FALSE
-Unidad 3,das Auto,el coche,learn,FALSE
-Unidad 3,nach / zu,a,learn,FALSE
-Unidad 3,zu Fu√ü,a pie,learn,FALSE
-Unidad 3,Entschuldigung,Perd√≥n,learn,FALSE
-Unidad 3,geradeaus,todo recto,learn,FALSE
-Unidad 3,abbiegen,girar,learn,FALSE
-Unidad 3,bis,hasta,learn,FALSE
-Unidad 3,√ºberqueren,cruzar,learn,FALSE
-Unidad 3,nehmen,tomar,learn,FALSE
-Unidad 3,am Ende von,al final de,learn,FALSE
-Unidad 3,Vielen Dank,Muchas gracias,learn,FALSE
-Unidad 3,die Linie,la l√≠nea,learn,FALSE
-Unidad 4,mir gef√§llt etw. / ich mag etw.,me gusta algo,learn,FALSE
-Unidad 4,nichts,nada,learn,FALSE
-Unidad 4,sich ausruhen / eine Pause machen,descansar,learn,FALSE
-Unidad 4,faul,"vago, -a",learn,FALSE
-Unidad 4,die Turnhalle / das Fitnessstudio,el gimnasio,learn,FALSE
-Unidad 4,machen (unregelm√§√üig),hacer,learn,FALSE
-Unidad 4,der Sport,el deporte,learn,FALSE
-Unidad 4,Sport treiben,hacer deporte,learn,FALSE
-Unidad 4,das Buch,el libro,learn,FALSE
-Unidad 4,normalerweise,normalmente,learn,FALSE
-Unidad 4,spielen (mit jdm),jugar (a),learn,FALSE
-Unidad 4,der Fu√üball,el f√∫tbol,learn,FALSE
-Unidad 4,reisen,viajar,learn,FALSE
-Unidad 4,die Jugendlichen,los j√≥venes,learn,FALSE
-Unidad 4,benutzen / verwenden,usar,learn,FALSE
-Unidad 4,sehen / anschauen,ver,learn,FALSE
-Unidad 4,das Fernsehen,la televisi√≥n,learn,FALSE
-Unidad 4,das Konzert,el concierto,learn,FALSE
-Unidad 4,das Radio,la radio,learn,FALSE
-Unidad 4,die Zeitung,el peri√≥dico,learn,FALSE
-Unidad 4,die Zeitschrift,la revista,learn,FALSE
-Unidad 4,das Theater,el teatro,learn,FALSE
-Unidad 4,sehr / viel (Adverb),mucho (adv.),learn,FALSE
-Unidad 4,ich auch,a m√≠ tambi√©n,learn,FALSE
-Unidad 4,ich auch nicht,a m√≠ tampoco,learn,FALSE
-Unidad 4,gefallen / m√∂gen (Frage),¬øTe gusta ‚Ä¶?,learn,FALSE
-Unidad 4,das Essen / die Mahlzeit,la comida,learn,FALSE
-Unidad 4,mexikanisch,"mexicano, -a",learn,FALSE
-Unidad 4,der Kaffee,el caf√©,learn,FALSE
-Unidad 4,die Milch,la leche,learn,FALSE
-Unidad 4,das Lied,la canci√≥n,learn,FALSE
-Unidad 4,der Hamburger,la hamburguesa,learn,FALSE
-Unidad 4,chatten,chatear,learn,FALSE
-Unidad 4,der Tango,el tango,learn,FALSE
-Unidad 4,die Schokolade,el chocolate,learn,FALSE
-Unidad 4,mir gef√§llt etw. sehr / ich mache etw. sehr gerne,me encanta algo,learn,FALSE
-Unidad 4,die Kultur,la cultura,learn,FALSE
-Unidad 4,andere Aktivit√§ten,otras actividades,learn,FALSE
-Unidad 4,der Reisef√ºhrer,la gu√≠a,learn,FALSE
-Unidad 4,f√ºr,por,learn,FALSE
-Unidad 4,das Geld,el dinero,learn,FALSE
-Unidad 4,lecker,"rico, -a",learn,FALSE
-Unidad 4,essen,comer,learn,FALSE
-Unidad 4,der Churro,el churro,learn,FALSE
-Unidad 4,das Caf√© / die Cafeteria,la cafeter√≠a,learn,FALSE
-Unidad 4,das Fu√üballspiel,el partido de f√∫tbol,learn,FALSE
-Unidad 4,die Sonne,el sol,learn,FALSE
-Unidad 4,sich sonnen,tomar el sol,learn,FALSE
-Unidad 4,cool finden / gut gefallen,molar,learn,FALSE
-Unidad 4,der Flohmarkt,el mercadillo,learn,FALSE
-Unidad 4,besuchen,visitar,learn,FALSE
-Unidad 4,der Sonntag,el domingo,learn,FALSE
-Unidad 4,ausgehen,salir,learn,FALSE
-Unidad 4,der Vergn√ºgungspark / Freizeitpark,el parque de atracciones,learn,FALSE
-Unidad 4,das Musical,el musical,learn,FALSE
-Unidad 4,ich w√ºrde gerne ‚Ä¶,me gustar√≠a ‚Ä¶,learn,FALSE
-Unidad 4,k√∂nnen / d√ºrfen,poder,learn,FALSE
-Unidad 4,surfen,el surf,learn,FALSE
-Unidad 4,nie,nunca,learn,FALSE
-Unidad 4,das Mal,la vez,learn,FALSE
-Unidad 4,pro Woche,a la semana,learn,FALSE
-Unidad 4,manchmal,a veces,learn,FALSE
-Unidad 4,fast,casi,learn,FALSE
-Unidad 4,die Zeichnung,el dibujo,learn,FALSE
-Unidad 4,vor (zeitlich),menos,learn,FALSE
-Unidad 4,wie sp√§t ist es?,¬øQu√© hora es?,learn,FALSE
-Unidad 4,Viertel,cuarto,learn,FALSE
-Unidad 4,morgens,de la ma√±ana,learn,FALSE
-Unidad 4,nachmittags / abends,de la tarde,learn,FALSE
-Unidad 4,nachts,de la noche,learn,FALSE
-Unidad 4,um wie viel Uhr ‚Ä¶?,¬øA qu√© hora ‚Ä¶?,learn,FALSE
-Unidad 4,der Montag,el lunes,learn,FALSE
-Unidad 4,der Dienstag,el martes,learn,FALSE
-Unidad 4,der Mittwoch,el mi√©rcoles,learn,FALSE
-Unidad 4,der Donnerstag,el jueves,learn,FALSE
-Unidad 4,der Freitag,el viernes,learn,FALSE
-Unidad 4,der Samstag,el s√°bado,learn,FALSE
-Unidad 4,am Morgen,por la ma√±ana,learn,FALSE
-Unidad 4,am Nachmittag,por la tarde,learn,FALSE
-Unidad 4,tun m√ºssen,tener que,learn,FALSE
-Unidad 4,das Eis,el helado,learn,FALSE
-Unidad 4,Lust haben,tener ganas,learn,FALSE
-Unidad 4,und (vor i / hi),e,learn,FALSE
-Unidad 4,von ‚Ä¶ bis,de ‚Ä¶ a,learn,FALSE
-Unidad 4,der Kuss,el besito,learn,FALSE
-Unidad 4,die √úberraschung,la sorpresa,learn,FALSE
-Unidad 4,die Eintrittskarte,la entrada,learn,FALSE
-Unidad 4,warum,¬øPor qu√© ‚Ä¶?,learn,FALSE
-Unidad 4,zusammen,"juntos, -as",learn,FALSE
-Unidad 4,wir sehen uns!,¬°Nos vemos!,learn,FALSE
-Unidad 4,kaufen,comprar,learn,FALSE
-Unidad 4,das Geschenk,el regalo,learn,FALSE
-Unidad 4,wann,¬øCu√°ndo ‚Ä¶?,learn,FALSE
-Unidad 4,einkaufen gehen,ir de compras,learn,FALSE
-Unidad 4,danach,despu√©s,learn,FALSE
-Unidad 4,der Film,la pel√≠cula,learn,FALSE
-Unidad 4,was h√§ltst du davon?,¬øQu√© te parece?,learn,FALSE
-Unidad 4,es tut mir leid,lo siento,learn,FALSE
-Unidad 5,der Alltag,el d√≠a a d√≠a,learn,FALSE
-Unidad 5,fr√ºhst√ºcken,desayunar,learn,FALSE
-Unidad 5,das Fr√ºhst√ºck,el desayuno,learn,FALSE
-Unidad 5,der Keks,la galleta,learn,FALSE
-Unidad 5,auf etw./jdn warten,esperar algo / a alguien,learn,FALSE
-Unidad 5,die Hausaufgaben,los deberes,learn,FALSE
-Unidad 5,die Zwischenmahlzeit (am Nachmittag),la merienda,learn,FALSE
-Unidad 5,zu Abend essen,cenar,learn,FALSE
-Unidad 5,schlafen,dormir,learn,FALSE
-Unidad 5,aufstehen,levantarse,learn,FALSE
-Unidad 5,(sich) duschen,ducharse,learn,FALSE
-Unidad 5,(sich) anziehen,ponerse algo,learn,FALSE
-Unidad 5,sich waschen,lavarse,learn,FALSE
-Unidad 5,der Zahn,el diente,learn,FALSE
-Unidad 5,sich die Z√§hne putzen,lavarse los dientes,learn,FALSE
-Unidad 5,der Unterricht / die Klasse,la clase,learn,FALSE
-Unidad 5,zur√ºckkommen / zur√ºckkehren,volver,learn,FALSE
-Unidad 5,der Teller,el plato,learn,FALSE
-Unidad 5,abwaschen,lavar los platos,learn,FALSE
-Unidad 5,am Abend / nachts,por la noche,learn,FALSE
-Unidad 5,ausgehen,salir,learn,FALSE
-Unidad 5,der Schlafanzug,el pijama,learn,FALSE
-Unidad 5,gehen / weggehen,irse,learn,FALSE
-Unidad 5,nach (Richtung),despu√©s de,learn,FALSE
-Unidad 5,zu Fu√ü,a pie,learn,FALSE
-Unidad 5,vor,antes de,learn,FALSE
-Unidad 5,zuerst,primero,learn,FALSE
-Unidad 5,dann / danach,entonces,learn,FALSE
-Unidad 5,zum Schluss / am Ende,al final,learn,FALSE
-Unidad 5,selten,pocas veces,learn,FALSE
-Unidad 5,oft,muchas veces,learn,FALSE
-Unidad 5,die Socke,el calcet√≠n,learn,FALSE
-Unidad 5,das belegte Br√∂tchen,el bocadillo,learn,FALSE
-Unidad 5,der Sch√ºler / die Sch√ºlerin,el alumno / la alumna,learn,FALSE
-Unidad 5,die Information,la informaci√≥n,learn,FALSE
-Unidad 5,wichtig,importante,learn,FALSE
-Unidad 5,der Sch√ºleraustausch,el intercambio,learn,FALSE
-Unidad 5,Vorsicht! / Achtung!,¬°Cuidado!,learn,FALSE
-Unidad 5,sich vorstellen,presentarse,learn,FALSE
-Unidad 5,die Person,la persona,learn,FALSE
-Unidad 5,unbekannt,"desconocido, -a",learn,FALSE
-Unidad 5,jdm etw. geben,dar algo a alguien,learn,FALSE
-Unidad 5,die Hand,la mano,learn,FALSE
-Unidad 5,der Schuh,el zapato,learn,FALSE
-Unidad 5,um etw. zu tun,para hacer algo,learn,FALSE
-Unidad 5,hineingehen / eintreten,entrar,learn,FALSE
-Unidad 5,etw. tragen,llevar,learn,FALSE
-Unidad 5,ohne,sin,learn,FALSE
-Unidad 5,das Loch,el agujero,learn,FALSE
-Unidad 5,das Fr√ºhst√ºck,el desayuno,learn,FALSE
-Unidad 5,fr√ºhst√ºcken,desayunar,learn,FALSE
-Unidad 5,das M√ºsli / die Fr√ºhst√ºcksflocken,los cereales,learn,FALSE
-Unidad 5,das Obst,la fruta,learn,FALSE
-Unidad 5,das Brot,el pan,learn,FALSE
-Unidad 5,der K√§se,el queso,learn,FALSE
-Unidad 5,die Butter,la mantequilla,learn,FALSE
-Unidad 5,die Marmelade,la mermelada,learn,FALSE
-Unidad 5,bleiben,quedarse,learn,FALSE
-Unidad 5,die Wurst,el fiambre,learn,FALSE
-Unidad 5,aufstehen!,¬°Arriba!,learn,FALSE
-Unidad 5,glauben / meinen,creer,learn,FALSE
-Unidad 5,schwierig,dif√≠cil,learn,FALSE
-Unidad 5,fr√ºh,temprano,learn,FALSE
-Unidad 5,brauchen,necesitar,learn,FALSE
-Unidad 5,vorbereiten,preparar,learn,FALSE
-Unidad 5,die Pause,el recreo,learn,FALSE
-Unidad 5,umdenken,cambiar,learn,FALSE
-Unidad 5,das Handy,el chip,learn,FALSE
-Unidad 5,die Frage,la pregunta,learn,FALSE
-Unidad 5,der Gru√ü,el saludo,learn,FALSE
-Unidad 5,mit jdm einverstanden sein,estar de acuerdo con,learn,FALSE
-Unidad 5,die Tafel,la pizarra,learn,FALSE
-Unidad 5,das Klassenzimmer,el aula,learn,FALSE
-Unidad 5,das Labor,el laboratorio,learn,FALSE
-Unidad 5,die Bibliothek,la biblioteca,learn,FALSE
-Unidad 5,die Informatik,la Inform√°tica,learn,FALSE
-Unidad 5,der Computerraum,el aula de inform√°tica,learn,FALSE
-Unidad 5,das Sekretariat,la secretar√≠a,learn,FALSE
-Unidad 5,der Schulhof,el patio,learn,FALSE
-Unidad 5,unser / eure,"nuestro, -a / vuestro, -a",learn,FALSE
-Unidad 5,die Wirtschaft,la Econom√≠a,learn,FALSE
-Unidad 5,Mathematik,las Matem√°ticas,learn,FALSE
-Unidad 5,Sport (Schulfach),la Educaci√≥n F√≠sica,learn,FALSE
-Unidad 5,Spanisch (Schulfach),Lengua y Literatura,learn,FALSE
-Unidad 5,Geschichte,la Historia,learn,FALSE
-Unidad 5,Kunst / Zeichnen,el Dibujo,learn,FALSE
-Unidad 5,Philosophie,la Filosof√≠a,learn,FALSE
-Unidad 5,das Unterrichtsfach,la asignatura,learn,FALSE
-Unidad 5,der Stundenplan,el horario,learn,FALSE
-Unidad 5,wollen,querer,learn,FALSE
-Unidad 5,√§ndern,cambiar,learn,FALSE
-Unidad 5,anfangen / beginnen,empezar,learn,FALSE
-Unidad 5,(be)enden,terminar,learn,FALSE
-Unidad 5,lieber m√∂gen,preferir,learn,FALSE
-Unidad 5,die Minute,el minuto,learn,FALSE
-Unidad 5,die Stunde,la hora,learn,FALSE
-Unidad 5,die Pr√ºfung / Klassenarbeit,el examen,learn,FALSE
-Unidad 5,nat√ºrlich,por supuesto,learn,FALSE
-Unidad 5,der Anschluss,la conexi√≥n,learn,FALSE
-Unidad 5,das Internet,(el/la) Internet,learn,FALSE
-Unidad 5,so / auf diese Weise,as√≠,learn,FALSE
-Unidad 5,laut / nach,seg√∫n,learn,FALSE
-Unidad 6,der Monat,el mes,learn,FALSE
-Unidad 6,Januar,enero,learn,FALSE
-Unidad 6,Februar,febrero,learn,FALSE
-Unidad 6,M√§rz,marzo,learn,FALSE
-Unidad 6,April,abril,learn,FALSE
-Unidad 6,Mai,mayo,learn,FALSE
-Unidad 6,Juni,junio,learn,FALSE
-Unidad 6,Juli,julio,learn,FALSE
-Unidad 6,August,agosto,learn,FALSE
-Unidad 6,September,septiembre,learn,FALSE
-Unidad 6,Oktober,octubre,learn,FALSE
-Unidad 6,November,noviembre,learn,FALSE
-Unidad 6,Dezember,diciembre,learn,FALSE
-Unidad 6,der Kurs / das Schuljahr,el curso,learn,FALSE
-Unidad 6,man muss,hay que,learn,FALSE
-Unidad 6,etw. putzen / sauber machen,limpiar algo,learn,FALSE
-Unidad 6,der Gast,el invitado / la invitada,learn,FALSE
-Unidad 6,etw. trinken,beber algo,learn,FALSE
-Unidad 6,einkaufen,hacer la compra,learn,FALSE
-Unidad 6,die Einkaufsliste,la lista de la compra,learn,FALSE
-Unidad 6,organisieren,organizar,learn,FALSE
-Unidad 6,der Ort / der Platz,el lugar,learn,FALSE
-Unidad 6,etw./jdn suchen,buscar algo / a alguien,learn,FALSE
-Unidad 6,wenn / falls,si,learn,FALSE
-Unidad 6,an etw./jdn denken,pensar en algo / alguien,learn,FALSE
-Unidad 6,wie viel,"cu√°nto, -a",learn,FALSE
-Unidad 6,die Einladung,la invitaci√≥n,learn,FALSE
-Unidad 6,jdn einladen,invitar a alguien,learn,FALSE
-Unidad 6,kommen,venir,learn,FALSE
-Unidad 6,das Getr√§nk,la bebida,learn,FALSE
-Unidad 6,etwas,algo,learn,FALSE
-Unidad 6,die Pizza,la pizza,learn,FALSE
-Unidad 6,der Salat,la ensalada,learn,FALSE
-Unidad 6,die Pommes frites / Chips,las patatas fritas,learn,FALSE
-Unidad 6,etw. hinlegen / setzen / stellen,poner algo,learn,FALSE
-Unidad 6,das Wasser,el agua,learn,FALSE
-Unidad 6,der Saft,el zumo,learn,FALSE
-Unidad 6,das Erfrischungsgetr√§nk,el refresco,learn,FALSE
-Unidad 6,etw. dekorieren / schm√ºcken,decorar algo,learn,FALSE
-Unidad 6,notwendig,"necesario, -a",learn,FALSE
-Unidad 6,das Spiel,el juego,learn,FALSE
-Unidad 6,lustig,"divertido, -a",learn,FALSE
-Unidad 6,mehr,m√°s,learn,FALSE
-Unidad 6,die Hilfe,la ayuda,learn,FALSE
-Unidad 6,die Arbeit,el trabajo,learn,FALSE
-Unidad 6,jdm bei etw. helfen,ayudar a alguien,learn,FALSE
-Unidad 6,das Gem√ºse,la verdura,learn,FALSE
-Unidad 6,das Fleisch,la carne,learn,FALSE
-Unidad 6,der Fisch,el pescado,learn,FALSE
-Unidad 6,das Milchprodukt,el producto l√°cteo,learn,FALSE
-Unidad 6,die Tomate,el tomate,learn,FALSE
-Unidad 6,die Orange,la naranja,learn,FALSE
-Unidad 6,die Kartoffel,la patata,learn,FALSE
-Unidad 6,das H√§hnchen,el pollo,learn,FALSE
-Unidad 6,der Knoblauch,el ajo,learn,FALSE
-Unidad 6,der Kopfsalat,la lechuga,learn,FALSE
-Unidad 6,das √ñl,el aceite,learn,FALSE
-Unidad 6,der Reis,el arroz,learn,FALSE
-Unidad 6,der Schinken,el jam√≥n,learn,FALSE
-Unidad 6,das Salz,la sal,learn,FALSE
-Unidad 6,der Zucker,el az√∫car,learn,FALSE
-Unidad 6,die Karotte,la zanahoria,learn,FALSE
-Unidad 6,die Zwiebel,la cebolla,learn,FALSE
-Unidad 6,die Olive,la aceituna,learn,FALSE
-Unidad 6,die Paprika,el pimiento,learn,FALSE
-Unidad 6,das Ei,el huevo,learn,FALSE
-Unidad 6,die Avocado,el aguacate,learn,FALSE
-Unidad 6,die Ananas,la pi√±a,learn,FALSE
-Unidad 6,der Honig,la miel,learn,FALSE
-Unidad 6,der Thunfisch,el at√∫n,learn,FALSE
-Unidad 6,der Joghurt,el yogur,learn,FALSE
-Unidad 6,die Gurke,el pepino,learn,FALSE
-Unidad 6,die Banane,el pl√°tano,learn,FALSE
-Unidad 6,die Tortilla,la tortilla,learn,FALSE
-Unidad 6,das Kilo,el kilo,learn,FALSE
-Unidad 6,der Liter,el litro,learn,FALSE
-Unidad 6,das Dutzend,la docena,learn,FALSE
-Unidad 6,die Packung,el paquete,learn,FALSE
-Unidad 6,die Dose,la lata,learn,FALSE
-Unidad 6,die Flasche,la botella,learn,FALSE
-Unidad 6,die T√ºte,la bolsa,learn,FALSE
-Unidad 6,das Glas,el bote,learn,FALSE
-Unidad 6,kosten,costar,learn,FALSE
-Unidad 6,der Euro,el euro,learn,FALSE
-Unidad 6,der Cent,el c√©ntimo,learn,FALSE
-Unidad 6,alles,todo,learn,FALSE
-Unidad 6,das Tagesmen√º,el men√∫ del d√≠a,learn,FALSE
-Unidad 6,das Gericht / der Gang,el plato,learn,FALSE
-Unidad 6,die Vorspeise,el primer plato,learn,FALSE
-Unidad 6,die Suppe,la sopa,learn,FALSE
-Unidad 6,gemischt,"mixto, -a",learn,FALSE
-Unidad 6,patatas bravas,las patatas bravas,learn,FALSE
-Unidad 6,die Krokette,la croqueta,learn,FALSE
-Unidad 6,das Hauptgericht,el segundo plato,learn,FALSE
-Unidad 6,gebraten / gegrillt,"asado, -a",learn,FALSE
-Unidad 6,der Tintenfisch,el calamar,learn,FALSE
-Unidad 6,das Filet / Schnitzel,el filete,learn,FALSE
-Unidad 6,das Schwein,el cerdo,learn,FALSE
-Unidad 6,der Nachtisch / das Dessert,el postre,learn,FALSE
-Unidad 6,der (Karamell-)Pudding,el flan,learn,FALSE
-Unidad 6,der Obstsalat,la macedonia de frutas,learn,FALSE
-Unidad 6,der Milchreis,el arroz con leche,learn,FALSE
-Unidad 6,der Kellner / die Kellnerin,el camarero / la camarera,learn,FALSE
-Unidad 6,die gef√ºllte Teigtasche,la empanadilla,learn,FALSE
-Unidad 6,der russische Salat,la ensaladilla rusa,learn,FALSE
-Unidad 6,noch ein(e),"otro, otra",learn,FALSE
-Unidad 6,eine Zutat haben,llevar algo,learn,FALSE
-Unidad 6,bestellen / verlangen,pedir algo,learn,FALSE
-Unidad 6,etw./jdn (mit)bringen,traer algo / a alguien,learn,FALSE
-Unidad 6,die Idee,la idea,learn,FALSE
-Unidad 6,sich etw. teilen,compartir algo,learn,FALSE
-Unidad 6,schlecht,"malo, -a",learn,FALSE
-Unidad 6,die Kohlens√§ure,el gas,learn,FALSE
-Unidad 6,jetzt / sofort,ahora,learn,FALSE
-Unidad 6,salzig,"salado, -a",learn,FALSE
-Unidad 6,fade / ungesalzen,"soso, -a",learn,FALSE
-Unidad 6,zu (+ Adjektiv),demasiado,learn,FALSE
-Unidad 6,scharf,picante,learn,FALSE
-Unidad 6,die Portion,la raci√≥n,learn,FALSE
-Unidad 6,der Kabeljau / Stockfisch,el bacalao,learn,FALSE
-Unidad 6,jdm etw. sagen,decir algo a alguien,learn,FALSE
-Unidad 6,die Rechnung,la cuenta,learn,FALSE
-Unidad 6,das Chilipulver / der Chili,el chile,learn,FALSE
-Unidad 6,die Zutat,el ingrediente,learn,FALSE
-Unidad 6,der Mais,el ma√≠z,learn,FALSE
-Unidad 6,der Champignon,el champi√±√≥n,learn,FALSE
-Unidad 6,die Salami,el salami,learn,FALSE
-Unidad 6,kalt,"fr√≠o, -a",learn,FALSE
-Unidad 6,warm / hei√ü,caliente,learn,FALSE
-Unidad 7,die Reise,el viaje,learn,FALSE
-Unidad 7,allein,"solo, -a",learn,FALSE
-Unidad 7,der Fr√ºhling,la primavera,learn,FALSE
-Unidad 7,der Herbst,el oto√±o,learn,FALSE
-Unidad 7,der Winter,el invierno,learn,FALSE
-Unidad 7,wohin?,¬øAd√≥nde?,learn,FALSE
-Unidad 7,der Berg,la monta√±a,learn,FALSE
-Unidad 7,das Gasthaus,el hostal,learn,FALSE
-Unidad 7,der Campingplatz,el camping,learn,FALSE
-Unidad 7,das (Ferien-)Apartment,el apartamento,learn,FALSE
-Unidad 7,das Flugzeug,el avi√≥n,learn,FALSE
-Unidad 7,das Schiff,el barco,learn,FALSE
-Unidad 7,die Sehensw√ºrdigkeit,el monumento,learn,FALSE
-Unidad 7,Ski fahren,esquiar,learn,FALSE
-Unidad 7,die Burg,el castillo,learn,FALSE
-Unidad 7,die W√ºste,el desierto,learn,FALSE
-Unidad 7,das Tier,el animal,learn,FALSE
-Unidad 7,die Kirche,la iglesia,learn,FALSE
-Unidad 7,der Wald,el bosque,learn,FALSE
-Unidad 7,der Turm,la torre,learn,FALSE
-Unidad 7,der Baum,el √°rbol,learn,FALSE
-Unidad 7,das Meer,el mar,learn,FALSE
-Unidad 7,der Schnee,la nieve,learn,FALSE
-Unidad 7,der See,el lago,learn,FALSE
-Unidad 7,im Vordergrund,en primer plano,learn,FALSE
-Unidad 7,im Hintergrund,al fondo,learn,FALSE
-Unidad 7,der S√ºden,el sur,learn,FALSE
-Unidad 7,der Norden,el norte,learn,FALSE
-Unidad 7,der Osten,el este,learn,FALSE
-Unidad 7,der Westen,el oeste,learn,FALSE
-Unidad 7,die Region,la regi√≥n,learn,FALSE
-Unidad 7,bev√∂lkert,"poblado, -a",learn,FALSE
-Unidad 7,eine Million,un mill√≥n,learn,FALSE
-Unidad 7,der Einwohner / die Einwohnerin,el/la habitante,learn,FALSE
-Unidad 7,die Provinz,la provincia,learn,FALSE
-Unidad 7,hoch / gro√ü,"alto, -a",learn,FALSE
-Unidad 7,der Meter,el metro,learn,FALSE
-Unidad 7,die K√ºste,la costa,learn,FALSE
-Unidad 7,lang,"largo, -a",learn,FALSE
-Unidad 7,das Wetter,el tiempo,learn,FALSE
-Unidad 7,pro Jahr,al a√±o,learn,FALSE
-Unidad 7,etw. erzeugen / produzieren,producir algo,learn,FALSE
-Unidad 7,das Produkt,el producto,learn,FALSE
-Unidad 7,vor allem,sobre todo,learn,FALSE
-Unidad 7,die Olive,la oliva,learn,FALSE
-Unidad 7,die Tonne,la tonelada,learn,FALSE
-Unidad 7,besucht,"visitado, -a",learn,FALSE
-Unidad 7,besuchen,visitar,learn,FALSE
-Unidad 7,ungef√§hr,"unos, -as",learn,FALSE
-Unidad 7,die Moschee,la mezquita,learn,FALSE
-Unidad 7,der Dom / die Kathedrale,la catedral,learn,FALSE
-Unidad 7,der Tourismus,el turismo,learn,FALSE
-Unidad 7,wegen,por,learn,FALSE
-Unidad 7,jede(r),cada,learn,FALSE
-Unidad 7,morgen,ma√±ana,learn,FALSE
-Unidad 7,jdm etw. erz√§hlen,contar algo a alguien,learn,FALSE
-Unidad 7,von hier aus,desde aqu√≠,learn,FALSE
-Unidad 7,die Option / die Wahl,la opci√≥n,learn,FALSE
-Unidad 7,ankommen,llegar,learn,FALSE
-Unidad 7,die Fahrkarte / das Ticket,el billete,learn,FALSE
-Unidad 7,billig / preiswert,"barato, -a",learn,FALSE
-Unidad 7,jdm etw. empfehlen,recomendar algo a alguien,learn,FALSE
-Unidad 7,praktisch,"pr√°ctico, -a",learn,FALSE
-Unidad 7,schnell,"r√°pido, -a",learn,FALSE
-Unidad 7,dauern,durar,learn,FALSE
-Unidad 7,√∂kologisch / umweltfreundlich,"ecol√≥gico, -a",learn,FALSE
-Unidad 7,der n√§chste,siguiente,learn,FALSE
-Unidad 7,etw. mieten,alquilar algo,learn,FALSE
-Unidad 7,bequem,"c√≥modo, -a",learn,FALSE
-Unidad 7,teuer,"caro, -a",learn,FALSE
-Unidad 7,etw. nehmen,coger algo,learn,FALSE
-Unidad 7,√ºber,sobre,learn,FALSE
-Unidad 7,der Blog,el blog,learn,FALSE
-Unidad 7,langsam,"lento, -a",learn,FALSE
-Unidad 7,einzeln,individual,learn,FALSE
-Unidad 7,Doppel-,doble,learn,FALSE
-Unidad 7,die Klimaanlage,el aire acondicionado,learn,FALSE
-Unidad 7,der Dienst / die Dienstleistung,el servicio,learn,FALSE
-Unidad 7,der Parkplatz,el aparcamiento,learn,FALSE
-Unidad 7,die Rezeption,la recepci√≥n,learn,FALSE
-Unidad 7,etw. erlauben,permitir algo,learn,FALSE
-Unidad 7,das Geschoss / der Stock,el piso,learn,FALSE
-Unidad 7,etw. fragen,preguntar algo,learn,FALSE
-Unidad 7,die Sonne scheint,hace sol,learn,FALSE
-Unidad 7,es ist windig,hace viento,learn,FALSE
-Unidad 7,es regnet,llover,learn,FALSE
-Unidad 7,schneien,nevar,learn,FALSE
-Unidad 7,es ist bew√∂lkt,est√° nublado,learn,FALSE
-Unidad 7,Nebel,niebla,learn,FALSE
-Unidad 7,Grad unter Null,bajo cero,learn,FALSE
-Unidad 7,es ist warm,hace calor,learn,FALSE
-Unidad 7,es ist kalt,hace fr√≠o,learn,FALSE
-Unidad 7,gestern,ayer,learn,FALSE
-Unidad 7,vor (+ Zeitraum),hace,learn,FALSE
-Unidad 7,etw. bemerken,notar algo,learn,FALSE
-Unidad 7,rot,"rojo, -a",learn,FALSE
-Unidad 7,letzte(r),"pasado, -a",learn,FALSE
-Unidad 7,als,cuando,learn,FALSE
-Unidad 7,wirken / scheinen,parecer,learn,FALSE
-Unidad 7,etw./jdn vergessen,olvidarse de algo / alguien,learn,FALSE
-Unidad 7,v√∂llig,totalmente,learn,FALSE
-Unidad 7,etw. reservieren,reservar algo,learn,FALSE
-Unidad 7,vorher,antes,learn,FALSE
-Unidad 7,jemand,alguien,learn,FALSE
-Unidad 7,der/die/das ganze,todo el / toda la,learn,FALSE
-Unidad 7,typisch,"t√≠pico, -a",learn,FALSE
-Unidad 7,spazieren gehen,pasear,learn,FALSE
-Unidad 7,der Spaziergang,el paseo,learn,FALSE
-Unidad 7,alle,todos / todas,learn,FALSE
-Unidad 7,wandern,hacer senderismo,learn,FALSE
-Unidad 7,tauchen / schnorcheln,bucear,learn,FALSE
-Unidad 7,der Koffer,la maleta,learn,FALSE
-Unidad 8,etw. verdienen,ganar algo,learn,FALSE
-Unidad 8,etw. bilden / formen,formar algo,learn,FALSE
-Unidad 8,etw. ausw√§hlen,elegir algo,learn,FALSE
-Unidad 8,der Beruf,la profesi√≥n,learn,FALSE
-Unidad 8,die Erfahrung,la experiencia,learn,FALSE
-Unidad 8,das Komma,la coma,learn,FALSE
-Unidad 8,Prozent,el ‚Ä¶ por ciento,learn,FALSE
-Unidad 8,die H√§lfte,la mitad,learn,FALSE
-Unidad 8,die Mehrheit / die meisten,la mayor√≠a,learn,FALSE
-Unidad 8,das B√ºro,la oficina,learn,FALSE
-Unidad 8,der Sekret√§r / die Sekret√§rin,el secretario / la secretaria,learn,FALSE
-Unidad 8,der Polizist / die Polizistin,el/la polic√≠a,learn,FALSE
-Unidad 8,der Blogger / die Bloggerin,el bloguero / la bloguera,learn,FALSE
-Unidad 8,der Betreuer / die Betreuerin,el monitor / la monitora,learn,FALSE
-Unidad 8,das Camp,el campamento,learn,FALSE
-Unidad 8,der Modedesigner / die Modedesignerin,el/la dise√±ador(a) de moda,learn,FALSE
-Unidad 8,der Rettungsschwimmer / die Rettungsschwimmerin,el/la socorrista,learn,FALSE
-Unidad 8,der Verk√§ufer / die Verk√§uferin,el dependiente / la dependienta,learn,FALSE
-Unidad 8,der Webdesigner / die Webdesignerin,el/la dise√±ador(a) de p√°ginas web,learn,FALSE
-Unidad 8,kreativ,"creativo, -a",learn,FALSE
-Unidad 8,flexibel,flexible,learn,FALSE
-Unidad 8,kontaktfreudig / offen,"comunicativo, -a",learn,FALSE
-Unidad 8,sportlich,deportista,learn,FALSE
-Unidad 8,der Sport,el deporte,learn,FALSE
-Unidad 8,etw. wissen / k√∂nnen,saber algo,learn,FALSE
-Unidad 8,das Team / die Mannschaft,el equipo,learn,FALSE
-Unidad 8,teamf√§hig sein,trabajar en equipo,learn,FALSE
-Unidad 8,das Kind,el ni√±o / la ni√±a,learn,FALSE
-Unidad 8,die Kenntnisse,los conocimientos,learn,FALSE
-Unidad 8,die Biologie,la biolog√≠a,learn,FALSE
-Unidad 8,das Geburtsdatum,la fecha de nacimiento,learn,FALSE
-Unidad 8,die Ausbildung,la formaci√≥n,learn,FALSE
-Unidad 8,der/die/das (Relativpronomen),que,learn,FALSE
-Unidad 8,triumphieren,triunfar,learn,FALSE
-Unidad 8,die Welt,el mundo,learn,FALSE
-Unidad 8,um etw. k√§mpfen,luchar por algo,learn,FALSE
-Unidad 8,der Traum,el sue√±o,learn,FALSE
-Unidad 8,niemand,nadie,learn,FALSE
-Unidad 8,anhalten / Halt machen,parar,learn,FALSE
-Unidad 8,die Haltestelle,la parada,learn,FALSE
-Unidad 8,geboren werden,nacer,learn,FALSE
-Unidad 8,die Geburt,el nacimiento,learn,FALSE
-Unidad 8,seit,desde,learn,FALSE
-Unidad 8,etw. zeichnen,dibujar algo,learn,FALSE
-Unidad 8,die Zeichnung,el dibujo,learn,FALSE
-Unidad 8,das Design,el dise√±o,learn,FALSE
-Unidad 8,etw. entdecken,descubrir algo,learn,FALSE
-Unidad 8,die Leidenschaft,la pasi√≥n,learn,FALSE
-Unidad 8,die Schule,el colegio,learn,FALSE
-Unidad 8,sp√§t,tarde,learn,FALSE
-Unidad 8,die Epoche / die Zeit,la √©poca,learn,FALSE
-Unidad 8,der Albtraum,la pesadilla,learn,FALSE
-Unidad 8,etw. erleiden,sufrir algo,learn,FALSE
-Unidad 8,das Mobbing,el acoso (escolar),learn,FALSE
-Unidad 8,trotzdem,sin embargo,learn,FALSE
-Unidad 8,jdn unterst√ºtzen,apoyar a alguien,learn,FALSE
-Unidad 8,die Oberstufe,el Bachillerato,learn,FALSE
-Unidad 8,das (Universit√§ts-)Studium,la carrera,learn,FALSE
-Unidad 8,genie√üen,disfrutar,learn,FALSE
-Unidad 8,das Leben,la vida,learn,FALSE
-Unidad 8,etw. beenden,terminar de hacer algo,learn,FALSE
-Unidad 8,die Gelegenheit / die Chance,la oportunidad,learn,FALSE
-Unidad 8,an etw. teilnehmen,participar en algo,learn,FALSE
-Unidad 8,etw. lassen / aufgeben,dejar algo,learn,FALSE
-Unidad 8,sich etw./jdm widmen,dedicarse a algo / alguien,learn,FALSE
-Unidad 8,einfach,f√°cil,learn,FALSE
-Unidad 8,schwierig,dif√≠cil,learn,FALSE
-Unidad 8,das Kost√ºm / der Anzug,el traje,learn,FALSE
-Unidad 8,die Unterst√ºtzung,el apoyo,learn,FALSE
-Unidad 8,etw. √∂ffnen,abrir algo,learn,FALSE
-Unidad 8,der Kunde / die Kundin,el cliente / la clienta,learn,FALSE
-Unidad 8,der Erfolg,el √©xito,learn,FALSE
-Unidad 8,etw. hochladen,subir algo,learn,FALSE
-Unidad 8,das soziale Netzwerk,la red social,learn,FALSE
-Unidad 8,pl√∂tzlich,de repente,learn,FALSE
-Unidad 8,die Frau / Ehefrau,la mujer,learn,FALSE
-Unidad 8,der Mann,el hombre,learn,FALSE
-Unidad 8,zurzeit,actualmente,learn,FALSE
-Unidad 8,der letzte,"√∫ltimo, -a",learn,FALSE
-Unidad 8,von ‚Ä¶ bis,desde ‚Ä¶ hasta,learn,FALSE
-Unidad 8,der Lebenslauf,el curr√≠culum,learn,FALSE
-Unidad 8,beruflich,profesional,learn,FALSE
-Unidad 8,die Muttersprache,la lengua materna,learn,FALSE
-Unidad 8,das Anschreiben,la carta de presentaci√≥n,learn,FALSE
-Unidad 8,das Niveau,el nivel,learn,FALSE
-Unidad 8,der Betreff / die Angelegenheit,el asunto,learn,FALSE
-Unidad 8,sehr geehrte(r),"estimado, -a",learn,FALSE
-Unidad 8,die Antwort,la respuesta,learn,FALSE
-Unidad 8,die Anzeige,el anuncio,learn,FALSE
-Unidad 8,gerade etw. getan haben,acabar de hacer algo,learn,FALSE
-Unidad 8,flei√üig / arbeitsam,"trabajador, -a",learn,FALSE
-Unidad 8,verantwortungsbewusst,responsable,learn,FALSE
-Unidad 8,jdn kennen / kennenlernen,conocer a alguien,learn,FALSE
-Unidad 8,seit (+ Zeitraum),desde hace,learn,FALSE
-Unidad 8,Mit freundlichen Gr√º√üen,Atentamente,learn,FALSE
-Unidad 8,die Bluse,la blusa,learn,FALSE
-Unidad 8,der Rock,la falda,learn,FALSE
-Unidad 8,die Sportschuhe,las zapatillas de deporte,learn,FALSE
-Unidad 8,der Schuh,el zapato,learn,FALSE
-Unidad 8,das Hemd,la camisa,learn,FALSE
-Unidad 8,der Pullover,el jersey,learn,FALSE
-Unidad 8,die Jeanshose,los vaqueros,learn,FALSE
-Unidad 8,der Mantel,el abrigo,learn,FALSE
-Unidad 8,das Kleid,el vestido,learn,FALSE
-Unidad 8,der Schal,la bufanda,learn,FALSE
-Unidad 8,die Jacke,la chaqueta,learn,FALSE
-Unidad 8,die Hose,el pantal√≥n,learn,FALSE
-Unidad 8,das T-Shirt,la camiseta,learn,FALSE
-Unidad 8,kurz,"corto, -a",learn,FALSE
-Unidad 8,breit / weit,"ancho, -a",learn,FALSE
-Unidad 8,eng,"estrecho, -a",learn,FALSE
-Unidad 8,elegant,elegante,learn,FALSE
-Unidad 8,klassisch,"cl√°sico, -a",learn,FALSE
-Unidad 8,modern,"moderno, -a",learn,FALSE
-Unidad 8,formell,formal,learn,FALSE
-Unidad 8,etw. mit etw. verbinden,relacionar algo con algo,learn,FALSE
-Unidad 8,die Farbe,el color,learn,FALSE
-Unidad 8,schwarz,"negro, -a",learn,FALSE
-Unidad 8,blau,azul,learn,FALSE
-Unidad 8,rosa,rosa,learn,FALSE
-Unidad 8,gr√ºn,verde,learn,FALSE
-Unidad 8,gelb,"amarillo, -a",learn,FALSE
-Unidad 8,wei√ü,"blanco, -a",learn,FALSE
-Unidad 8,lila,lila,learn,FALSE
-Unidad 8,orange,naranja,learn,FALSE
-Unidad 8,grau,gris,learn,FALSE
-Unidad 8,braun,marr√≥n,learn,FALSE
-Unidad 8,das Vorstellungsgespr√§ch,la entrevista (de trabajo),learn,FALSE
-Unidad 8,einige,"algunos, -as",learn,FALSE
-Unidad 8,die Firma,la empresa,learn,FALSE
-Unidad 8,der Stil,el estilo,learn,FALSE
-Unidad 8,jdm etw. zeigen,mostrar algo a alguien,learn,FALSE
-Unidad 8,dieser / diese / dieses,"este, esta",learn,FALSE
-Unidad 8,jener / jene,"aquel, aquella",learn,FALSE
-Unidad 8,welche(r/s)?,¬øCu√°l‚Ä¶?,learn,FALSE
-Unidad 9,das Projekt,el proyecto,learn,FALSE
-Unidad 9,an etw. grenzen,limitar (con ‚Ä¶),learn,FALSE
-Unidad 9,der Regenwald / der Dschungel,la selva,learn,FALSE
-Unidad 9,der Kondor,el c√≥ndor,learn,FALSE
-Unidad 9,der Soldat / die Soldatin,el/la soldado,learn,FALSE
-Unidad 9,die Eroberung,la conquista,learn,FALSE
-Unidad 9,das Reich,el imperio,learn,FALSE
-Unidad 9,der Anf√ºhrer / die Anf√ºhrerin,el/la l√≠der,learn,FALSE
-Unidad 9,jdn t√∂ten,matar a alguien,learn,FALSE
-Unidad 9,die Kolonie,la colonia,learn,FALSE
-Unidad 9,der Pr√§sident / die Pr√§sidentin,el presidente / la presidenta,learn,FALSE
-Unidad 9,indigen / eingeboren,ind√≠gena,learn,FALSE
-Unidad 9,etw. erreichen / schaffen,lograr algo,learn,FALSE
-Unidad 9,die Unabh√§ngigkeit,la independencia,learn,FALSE
-Unidad 9,w√§hrend,durante,learn,FALSE
-Unidad 9,das Jahrhundert,el siglo,learn,FALSE
-Unidad 9,passieren / geschehen,pasar,learn,FALSE
-Unidad 9,das Territorium / das Gebiet,el territorio,learn,FALSE
-Unidad 9,die Religion,la religi√≥n,learn,FALSE
-Unidad 9,die Architektur,la arquitectura,learn,FALSE
-Unidad 9,die Erziehung,la educaci√≥n,learn,FALSE
-Unidad 9,etw. einnehmen / besetzen,ocupar algo,learn,FALSE
-Unidad 9,der Teil,la parte,learn,FALSE
-Unidad 9,der Gott / die G√∂ttin,el dios / la diosa,learn,FALSE
-Unidad 9,das Meerschweinchen,el conejillo de Indias,learn,FALSE
-Unidad 9,fr√ºher / damals,antes,learn,FALSE
-Unidad 9,etw. anbauen,cultivar algo,learn,FALSE
-Unidad 9,schon,ya,learn,FALSE
-Unidad 9,der Adlige / die Adlige,el/la noble,learn,FALSE
-Unidad 9,das Wissen,el saber,learn,FALSE
-Unidad 9,etw. lernen,aprender (a hacer) algo,learn,FALSE
-Unidad 9,sich um jdn k√ºmmern,cuidar algo / a alguien,learn,FALSE
-Unidad 9,die Fl√∂te,la flauta,learn,FALSE
-Unidad 9,der Knochen,el hueso,learn,FALSE
-Unidad 9,menschlich,"humano, -a",learn,FALSE
-Unidad 9,das Quechua,el quechua,learn,FALSE
-Unidad 9,immer noch,todav√≠a,learn,FALSE
-Unidad 9,etw. (er)bauen,construir algo,learn,FALSE
-Unidad 9,die Br√ºcke,el puente,learn,FALSE
-Unidad 9,die H√§ngebr√ºcke,el puente colgante,learn,FALSE
-Unidad 9,das System,el sistema,learn,FALSE
-Unidad 9,der Knoten,el nudo,learn,FALSE
-Unidad 9,mit jdm kommunizieren,comunicarse con alguien,learn,FALSE
-Unidad 9,etw. bedeuten,significar algo,learn,FALSE
-Unidad 9,das Pferd,el caballo,learn,FALSE
-Unidad 9,das Rad,la rueda,learn,FALSE
-Unidad 9,rennen / laufen,correr,learn,FALSE
-Unidad 9,die Gruppe,el grupo,learn,FALSE
-Unidad 9,wo (Relativpronomen),donde,learn,FALSE
-Unidad 9,die Wahrheit,la verdad,learn,FALSE
-Unidad 9,verkleidet,"disfrazado, -a",learn,FALSE
-Unidad 9,fliegen,volar,learn,FALSE
-Unidad 9,etw./jdn mitnehmen,llevarse algo / a alguien,learn,FALSE
-Unidad 9,die Schlucht,el barranco,learn,FALSE
-Unidad 9,gl√ºcklich,feliz,learn,FALSE
-Unidad 9,weinen,llorar,learn,FALSE
-Unidad 9,etw./jdn vermissen,echar de menos algo / a alguien,learn,FALSE
-Unidad 9,der Vogel,el p√°jaro,learn,FALSE
-Unidad 9,jdm antworten,contestar algo a alguien,learn,FALSE
-Unidad 9,die Blume,la flor,learn,FALSE
-Unidad 9,jdn befreien,liberar a alguien,learn,FALSE
-Unidad 9,frei,libre,learn,FALSE
-Unidad 9,der Esel,el burro,learn,FALSE
-Unidad 9,alt,"viejo, -a",learn,FALSE
-Unidad 9,sterben,morir(se),learn,FALSE
-Unidad 9,geboren werden,nacer,learn,FALSE
-Unidad 9,w√§hrend,mientras,learn,FALSE
-Unidad 9,die Kr√∂te,el sapo,learn,FALSE
-Unidad 9,das Haar,el pelo,learn,FALSE
-Unidad 9,blond,"rubio, -a",learn,FALSE
-Unidad 9,dunkelhaarig,"moreno, -a",learn,FALSE
-Unidad 9,kastanienbraun,"casta√±o, -a",learn,FALSE
-Unidad 9,rothaarig,"pelirrojo, -a",learn,FALSE
-Unidad 9,die Haut,la piel,learn,FALSE
-Unidad 9,hell,"claro, -a",learn,FALSE
-Unidad 9,das Auge,el ojo,learn,FALSE
-Unidad 9,die Brille,las gafas,learn,FALSE
-Unidad 9,der Bart,la barba,learn,FALSE
-Unidad 9,klein (K√∂rpergr√∂√üe),"bajo, -a",learn,FALSE
-Unidad 9,schlank,"delgado, -a",learn,FALSE
-Unidad 9,dick,"gordo, -a",learn,FALSE
-Unidad 9,d√ºnn,delgado,learn,FALSE
-Unidad 9,der/die Freiwillige,el voluntario / la voluntaria,learn,FALSE
-Unidad 9,peruanisch,"peruano, -a",learn,FALSE
-Unidad 9,NGO,ONG,learn,FALSE
-Unidad 9,etw./jdn finden,encontrar algo / a alguien,learn,FALSE
-Unidad 9,jdm etw. unterrichten,ense√±ar algo a alguien,learn,FALSE
-Unidad 9,die Gesellschaftsschicht,la clase social,learn,FALSE
-Unidad 9,wohlhabend,"acomodado, -a",learn,FALSE
-Unidad 9,arm,pobre,learn,FALSE
-Unidad 9,der/die Quechua-Indianer(in),el/la quechua,learn,FALSE
-Unidad 9,das Volk,el pueblo,learn,FALSE
-Unidad 9,die Integration,la integraci√≥n,learn,FALSE
-Unidad 9,bedauerlich,lamentable,learn,FALSE
-Unidad 9,die Lage / die Situation,la situaci√≥n,learn,FALSE
-Unidad 9,kompliziert,"complicado, -a",learn,FALSE
-Unidad 9,(zu Fu√ü) gehen,andar,learn,FALSE
-Unidad 9,der Alkohol,el alcohol,learn,FALSE
-Unidad 9,die Gewalt,la violencia,learn,FALSE
-Unidad 9,das Feld,el campo,learn,FALSE
-Unidad 9,das Ziel,el objetivo,learn,FALSE
-Unidad 9,die Zukunft,el futuro,learn,FALSE
-Unidad 9,jdm etw. erkl√§ren,explicar algo a alguien,learn,FALSE
-
+Unit,Deutsch,Spanisch
+Unidad 1,Hallo,°Hola!
+Unidad 1,Wie gehtís?,øQuÈ tal?
+Unidad 1,Guten Morgen,°Buenos dÌas!
+Unidad 1,Guten Tag,Buenas tardes
+Unidad 1,Gute Nacht,°Buenas noches!
+Unidad 1,ich heiﬂe Ö,Me llamo Ö
+Unidad 1,und,y
+Unidad 1,ich bin,soy
+Unidad 1,von / aus,de
+Unidad 1,ich bin aus Ö,soy de Ö
+Unidad 1,du,t˙
+Unidad 1,Wie Ö ?,øCÛmo Ö ?
+Unidad 1,Wie heiﬂt du?,øCÛmo te llamas?
+Unidad 1,ich,yo
+Unidad 1,auch,tambiÈn
+Unidad 1,Sch¸ler(in) / Student(in),el/la estudiante
+Unidad 1,Lehrer(in),el profesor / la profesora
+Unidad 1,Spanisch,el espaÒol
+Unidad 1,aber,pero
+Unidad 1,ich lebe / wohne,vivo
+Unidad 1,in / auf,en
+Unidad 1,Wo Ö ?,øDÛnde Ö ?
+Unidad 1,Woher bist du?,øDe dÛnde eres?
+Unidad 1,sehr,muy
+Unidad 1,gut,bien
+Unidad 1,Danke,Gracias
+Unidad 1,auf Deutsch,en alem·n
+Unidad 1,man sagt Ö,se dice Ö
+Unidad 1,Guten Tag,Guten Tag
+Unidad 1,Guten Abend,Buenas tardes
+Unidad 1,Gute Nacht,°Buenas noches!
+Unidad 1,Wie geht es dir?,øCÛmo est·s?
+Unidad 1,sehr gut,muy bien
+Unidad 1,Wo lebst du?,øDÛnde vives?
+Unidad 1,der Dialog,el di·logo
+Unidad 1,das Foto,la foto
+Unidad 1,Frau,seÒora
+Unidad 1,Herr,seÒor
+Unidad 1,Sie (Anrede),usted / ustedes
+Unidad 1,Wie geht es Ihnen?,øCÛmo est· usted?
+Unidad 1,ja,sÌ
+Unidad 1,gut,bueno
+Unidad 1,so so,asÌ asÌ
+Unidad 1,viel Stress,mucho estrÈs
+Unidad 1,also,pues
+Unidad 1,Toll!,°¡nimo!
+Unidad 1,Bis sp‰ter!,°Hasta luego!
+Unidad 1,Tsch¸ss,°AdiÛs!
+Unidad 1,O.K.,Vale
+Unidad 1,der Kuss,el beso
+Unidad 1,Bis bald!,°Hasta pronto!
+Unidad 1,Bis zum n‰chsten Mal,°Hasta la prÛxima!
+Unidad 1,super,genial
+Unidad 1,schlecht,mal
+Unidad 1,sehr schlecht,fatal
+Unidad 1,der Platz,la plaza
+Unidad 1,das Stadion,el estadio
+Unidad 1,die Tapas,la tapa
+Unidad 1,die U-Bahn,el metro
+Unidad 1,das Museum,el museo
+Unidad 1,der Park,el parque
+Unidad 1,die Straﬂe,la calle
+Unidad 1,der Junge,el chico
+Unidad 1,das M‰dchen,la chica
+Unidad 1,das Problem,el problema
+Unidad 1,der Freund / die Freundin,el amigo / la amiga
+Unidad 1,das Telefon,el telÈfono
+Unidad 1,der Strand,la playa
+Unidad 1,das Restaurant,el restaurante
+Unidad 1,die Gitarre,la guitarra
+Unidad 1,die Bar,el bar
+Unidad 1,man schreibt,se escribe
+Unidad 1,der Name,el nombre
+Unidad 1,der Nachname,el apellido
+Unidad 1,mit,con
+Unidad 1,Umlaut,dos puntos
+Unidad 1,der Akzent,el acento
+Unidad 1,die Hauptstadt,la capital
+Unidad 1,Wie alt bist du?,øCu·ntos aÒos tienes?
+Unidad 1,Jahre,aÒos
+Unidad 1,die Telefonnummer,el n˙mero de telÈfono
+Unidad 1,das Handy,el mÛvil
+Unidad 1,mein / meine,mi
+Unidad 1,die Adresse,la direcciÛn
+Unidad 1,die E-Mail,el correo electrÛnico
+Unidad 1,das @-Zeichen,la arroba
+Unidad 1,der Punkt,el punto
+Unidad 1,der Bindestrich,el guion
+Unidad 1,der Unterstrich,el guion bajo
+Unidad 2,die Familie,la familia
+Unidad 2,meine (Pl.),mis
+Unidad 2,der Hund,el perro
+Unidad 2,der Vater,el padre
+Unidad 2,die Mutter,la madre
+Unidad 2,der Bruder / die Schwester,el hermano / la hermana
+Unidad 2,die Stadt,la ciudad
+Unidad 2,der feste Freund / die feste Freundin,el novio / la novia
+Unidad 2,der beste Freund / die beste Freundin,el mejor amigo / la mejor amiga
+Unidad 2,der Klassenkamerad / die Klassenkameradin,el compaÒero de clase / la compaÒera de clase
+Unidad 2,er/sie heiﬂt Ö,se llama Ö
+Unidad 2,haben,tener
+Unidad 2,Wie heiﬂt Ö?,øCÛmo se llama Ö?
+Unidad 2,das Haustier,la mascota
+Unidad 2,Hast du Ö?,øTienes Ö?
+Unidad 2,ich habe,tengo
+Unidad 2,nein / nicht,no
+Unidad 2,die Geschwister,los hermanos
+Unidad 2,"das stimmt doch, oder?",øVerdad?
+Unidad 2,Wer Ö ? / Wer (Pl.) Ö ?,øQuiÈn Ö ? / øQuiÈnes Ö ?
+Unidad 2,sein,ser
+Unidad 2,der Groﬂvater,el abuelo
+Unidad 2,die Groﬂmutter,la abuela
+Unidad 2,der Onkel,el tÌo
+Unidad 2,die Tante,la tÌa
+Unidad 2,der Cousin / die Cousine,el primo / la prima
+Unidad 2,die Eltern,los padres
+Unidad 2,die Groﬂeltern,los abuelos
+Unidad 2,sprechen / reden,hablar
+Unidad 2,die Sprache,el idioma
+Unidad 2,Englisch,el inglÈs
+Unidad 2,Katalanisch,el catal·n
+Unidad 2,arbeiten,trabajar
+Unidad 2,das Gymnasium,el instituto
+Unidad 2,der Sohn,el hijo
+Unidad 2,die Tochter,la hija
+Unidad 2,die Kinder,los hijos
+Unidad 2,der Ingenieur / die Ingenieurin,el ingeniero / la ingeniera
+Unidad 2,Deutsch,el alem·n
+Unidad 2,sehr schlecht,muy mal
+Unidad 2,der Partner / die Partnerin,la pareja
+Unidad 2,der Fotograf / die Fotografin,el fotÛgrafo / la fotÛgrafa
+Unidad 2,kochen,cocinar
+Unidad 2,immer,siempre
+Unidad 2,hˆren,escuchar
+Unidad 2,die Musik,la m˙sica
+Unidad 2,lernen / studieren,estudiar
+Unidad 2,ein bisschen,un poco
+Unidad 2,Franzˆsisch,el francÈs
+Unidad 2,verbringen,pasar
+Unidad 2,die Ferien / der Urlaub,las vacaciones
+Unidad 2,der Sommer,el verano
+Unidad 2,nur,solo
+Unidad 2,die Katze,el gato
+Unidad 2,Das ist nicht richtig.,No es correcto.
+Unidad 2,sein (Possessiv),su
+Unidad 2,dein(e),tus
+Unidad 2,Welche Ö ?,øQuÈ Ö ?
+Unidad 2,die Person,la persona
+Unidad 2,das Haus,la casa
+Unidad 2,feiern,celebrar
+Unidad 2,die Party / das Fest,la fiesta
+Unidad 2,Lust haben,tener ganas
+Unidad 2,der Geburtstag,el cumpleaÒos
+Unidad 2,hier,aquÌ
+Unidad 2,das ist Ö,este / esta es Ö
+Unidad 2,wie,como
+Unidad 2,die Zeit,el tiempo
+Unidad 2,die Freizeit,el tiempo libre
+Unidad 2,tanzen,bailar
+Unidad 2,der Salsa,la salsa
+Unidad 2,lesen,leer
+Unidad 2,der Comic,el cÛmic
+Unidad 2,spielen (Instrument),tocar
+Unidad 2,der Horror,el horror
+Unidad 2,weil,porque
+Unidad 2,wohnen / leben,vivir
+Unidad 2,schreiben,escribir
+Unidad 2,die Nachricht,el mensaje
+Unidad 2,den ganzen Tag,todo el dÌa
+Unidad 2,dort,allÌ
+Unidad 2,toll! / wie toll!,°QuÈ guay!
+Unidad 3,das (Stadt-)Viertel,el barrio
+Unidad 3,das Dorf,el pueblo
+Unidad 3,die Wohnung,el piso
+Unidad 3,es gibt,hay
+Unidad 3,die Diskothek,la discoteca
+Unidad 3,das Kino,el cine
+Unidad 3,das Schwimmbad / der Pool,la piscina
+Unidad 3,der Supermarkt,el supermercado
+Unidad 3,der Laden / das Gesch‰ft,la tienda
+Unidad 3,die Kleidung,la ropa
+Unidad 3,das Bekleidungsgesch‰ft,la tienda de ropa
+Unidad 3,die U-Bahn-Station,la parada de metro
+Unidad 3,das Einkaufszentrum,el centro comercial
+Unidad 3,viel,"mucho, -a"
+Unidad 3,wenig,"poco, -a"
+Unidad 3,deswegen / deshalb,por eso
+Unidad 3,laut,"ruidoso, -a"
+Unidad 3,alternativ,"alternativo, -a"
+Unidad 3,interessant,interesante
+Unidad 3,zum Beispiel,por ejemplo
+Unidad 3,schˆn,"bonito, -a"
+Unidad 3,alt,"antiguo, -a"
+Unidad 3,modern,"moderno, -a"
+Unidad 3,klein,"pequeÒo, -a"
+Unidad 3,der Satz,la frase
+Unidad 3,h‰sslich,"feo, -a"
+Unidad 3,langweilig,"aburrido, -a"
+Unidad 3,groﬂ,grande
+Unidad 3,ruhig,"tranquilo, -a"
+Unidad 3,anders / unterschiedlich,diferente
+Unidad 3,das Zentrum,el centro
+Unidad 3,sich befinden / sein,estar
+Unidad 3,da,ahÌ
+Unidad 3,der Kilometer,el kilÛmetro
+Unidad 3,toll / klasse,guay
+Unidad 3,in der N‰he von,cerca de
+Unidad 3,ber¸hmt,"famoso, -a"
+Unidad 3,das Geb‰ude,el edificio
+Unidad 3,der Lieblings-,"favorito, -a"
+Unidad 3,die Leute,la gente
+Unidad 3,das Land,el paÌs
+Unidad 3,auﬂerdem,adem·s
+Unidad 3,sich treffen / verabreden,quedar
+Unidad 3,die Woche,la semana
+Unidad 3,das Wochenende,el fin de semana
+Unidad 3,trinken / essen,tomar
+Unidad 3,der Bahnhof,la estaciÛn
+Unidad 3,der Zug,el tren
+Unidad 3,drinnen,dentro
+Unidad 3,der Garten,el jardÌn
+Unidad 3,die Pflanze,la planta
+Unidad 3,neben,al lado de
+Unidad 3,die Kunst,el arte
+Unidad 3,die Aktivit‰t,la actividad
+Unidad 3,kulturell,cultural
+Unidad 3,jung,joven
+Unidad 3,der Tourist / die Touristin,el turista / la turista
+Unidad 3,neu,"nuevo, -a"
+Unidad 3,der ˆffentliche Nahverkehr,el transporte p˙blico
+Unidad 3,gut,"bueno, -a"
+Unidad 3,der Fluss,el rÌo
+Unidad 3,perfekt / ideal,"perfecto, -a"
+Unidad 3,f¸r,para
+Unidad 3,der Spaziergang,el paseo
+Unidad 3,das Fahrrad,la bicicleta
+Unidad 3,multikulturell,multicultural
+Unidad 3,die Universit‰t,la universidad
+Unidad 3,die Eisdiele,la heladerÌa
+Unidad 3,die Apotheke,la farmacia
+Unidad 3,hinter,detr·s de
+Unidad 3,gegen¸ber von,enfrente de
+Unidad 3,links von,a la izquierda de
+Unidad 3,weit weg von,lejos de
+Unidad 3,auf,encima de
+Unidad 3,unter,debajo de
+Unidad 3,vor,delante de
+Unidad 3,zwischen,entre
+Unidad 3,rechts von,a la derecha de
+Unidad 3,das Wohnzimmer,el salÛn
+Unidad 3,das Bad / die Toilette,el baÒo
+Unidad 3,das Zimmer,la habitaciÛn
+Unidad 3,die K¸che,la cocina
+Unidad 3,das Bett,la cama
+Unidad 3,der Schrank,el armario
+Unidad 3,der Computer,el ordenador
+Unidad 3,der Balkon,el balcÛn
+Unidad 3,der Stuhl,la silla
+Unidad 3,der Tisch,la mesa
+Unidad 3,der Fernseher,el televisor
+Unidad 3,das Sofa,el sof·
+Unidad 3,gehen / fahren,ir
+Unidad 3,der Bus,el autob˙s
+Unidad 3,das Auto,el coche
+Unidad 3,nach / zu,a
+Unidad 3,zu Fuﬂ,a pie
+Unidad 3,Entschuldigung,PerdÛn
+Unidad 3,geradeaus,todo recto
+Unidad 3,abbiegen,girar
+Unidad 3,bis,hasta
+Unidad 3,¸berqueren,cruzar
+Unidad 3,nehmen,tomar
+Unidad 3,am Ende von,al final de
+Unidad 3,Vielen Dank,Muchas gracias
+Unidad 3,die Linie,la lÌnea
+Unidad 4,mir gef‰llt etw. / ich mag etw.,me gusta algo
+Unidad 4,nichts,nada
+Unidad 4,sich ausruhen / eine Pause machen,descansar
+Unidad 4,faul,"vago, -a"
+Unidad 4,die Turnhalle / das Fitnessstudio,el gimnasio
+Unidad 4,machen (unregelm‰ﬂig),hacer
+Unidad 4,der Sport,el deporte
+Unidad 4,Sport treiben,hacer deporte
+Unidad 4,das Buch,el libro
+Unidad 4,normalerweise,normalmente
+Unidad 4,spielen (mit jdm),jugar (a)
+Unidad 4,der Fuﬂball,el f˙tbol
+Unidad 4,reisen,viajar
+Unidad 4,die Jugendlichen,los jÛvenes
+Unidad 4,benutzen / verwenden,usar
+Unidad 4,sehen / anschauen,ver
+Unidad 4,das Fernsehen,la televisiÛn
+Unidad 4,das Konzert,el concierto
+Unidad 4,das Radio,la radio
+Unidad 4,die Zeitung,el periÛdico
+Unidad 4,die Zeitschrift,la revista
+Unidad 4,das Theater,el teatro
+Unidad 4,sehr / viel (Adverb),mucho (adv.)
+Unidad 4,ich auch,a mÌ tambiÈn
+Unidad 4,ich auch nicht,a mÌ tampoco
+Unidad 4,gefallen / mˆgen (Frage),øTe gusta Ö?
+Unidad 4,das Essen / die Mahlzeit,la comida
+Unidad 4,mexikanisch,"mexicano, -a"
+Unidad 4,der Kaffee,el cafÈ
+Unidad 4,die Milch,la leche
+Unidad 4,das Lied,la canciÛn
+Unidad 4,der Hamburger,la hamburguesa
+Unidad 4,chatten,chatear
+Unidad 4,der Tango,el tango
+Unidad 4,die Schokolade,el chocolate
+Unidad 4,mir gef‰llt etw. sehr / ich mache etw. sehr gerne,me encanta algo
+Unidad 4,die Kultur,la cultura
+Unidad 4,andere Aktivit‰ten,otras actividades
+Unidad 4,der Reisef¸hrer,la guÌa
+Unidad 4,f¸r,por
+Unidad 4,das Geld,el dinero
+Unidad 4,lecker,"rico, -a"
+Unidad 4,essen,comer
+Unidad 4,der Churro,el churro
+Unidad 4,das CafÈ / die Cafeteria,la cafeterÌa
+Unidad 4,das Fuﬂballspiel,el partido de f˙tbol
+Unidad 4,die Sonne,el sol
+Unidad 4,sich sonnen,tomar el sol
+Unidad 4,cool finden / gut gefallen,molar
+Unidad 4,der Flohmarkt,el mercadillo
+Unidad 4,besuchen,visitar
+Unidad 4,der Sonntag,el domingo
+Unidad 4,ausgehen,salir
+Unidad 4,der Vergn¸gungspark / Freizeitpark,el parque de atracciones
+Unidad 4,das Musical,el musical
+Unidad 4,ich w¸rde gerne Ö,me gustarÌa Ö
+Unidad 4,kˆnnen / d¸rfen,poder
+Unidad 4,surfen,el surf
+Unidad 4,nie,nunca
+Unidad 4,das Mal,la vez
+Unidad 4,pro Woche,a la semana
+Unidad 4,manchmal,a veces
+Unidad 4,fast,casi
+Unidad 4,die Zeichnung,el dibujo
+Unidad 4,vor (zeitlich),menos
+Unidad 4,wie sp‰t ist es?,øQuÈ hora es?
+Unidad 4,Viertel,cuarto
+Unidad 4,morgens,de la maÒana
+Unidad 4,nachmittags / abends,de la tarde
+Unidad 4,nachts,de la noche
+Unidad 4,um wie viel Uhr Ö?,øA quÈ hora Ö?
+Unidad 4,der Montag,el lunes
+Unidad 4,der Dienstag,el martes
+Unidad 4,der Mittwoch,el miÈrcoles
+Unidad 4,der Donnerstag,el jueves
+Unidad 4,der Freitag,el viernes
+Unidad 4,der Samstag,el s·bado
+Unidad 4,am Morgen,por la maÒana
+Unidad 4,am Nachmittag,por la tarde
+Unidad 4,tun m¸ssen,tener que
+Unidad 4,das Eis,el helado
+Unidad 4,Lust haben,tener ganas
+Unidad 4,und (vor i / hi),e
+Unidad 4,von Ö bis,de Ö a
+Unidad 4,der Kuss,el besito
+Unidad 4,die ‹berraschung,la sorpresa
+Unidad 4,die Eintrittskarte,la entrada
+Unidad 4,warum,øPor quÈ Ö?
+Unidad 4,zusammen,"juntos, -as"
+Unidad 4,wir sehen uns!,°Nos vemos!
+Unidad 4,kaufen,comprar
+Unidad 4,das Geschenk,el regalo
+Unidad 4,wann,øCu·ndo Ö?
+Unidad 4,einkaufen gehen,ir de compras
+Unidad 4,danach,despuÈs
+Unidad 4,der Film,la pelÌcula
+Unidad 4,was h‰ltst du davon?,øQuÈ te parece?
+Unidad 4,es tut mir leid,lo siento
+Unidad 5,der Alltag,el dÌa a dÌa
+Unidad 5,fr¸hst¸cken,desayunar
+Unidad 5,das Fr¸hst¸ck,el desayuno
+Unidad 5,der Keks,la galleta
+Unidad 5,auf etw./jdn warten,esperar algo / a alguien
+Unidad 5,die Hausaufgaben,los deberes
+Unidad 5,die Zwischenmahlzeit (am Nachmittag),la merienda
+Unidad 5,zu Abend essen,cenar
+Unidad 5,schlafen,dormir
+Unidad 5,aufstehen,levantarse
+Unidad 5,(sich) duschen,ducharse
+Unidad 5,(sich) anziehen,ponerse algo
+Unidad 5,sich waschen,lavarse
+Unidad 5,der Zahn,el diente
+Unidad 5,sich die Z‰hne putzen,lavarse los dientes
+Unidad 5,der Unterricht / die Klasse,la clase
+Unidad 5,zur¸ckkommen / zur¸ckkehren,volver
+Unidad 5,der Teller,el plato
+Unidad 5,abwaschen,lavar los platos
+Unidad 5,am Abend / nachts,por la noche
+Unidad 5,ausgehen,salir
+Unidad 5,der Schlafanzug,el pijama
+Unidad 5,gehen / weggehen,irse
+Unidad 5,nach (Richtung),despuÈs de
+Unidad 5,zu Fuﬂ,a pie
+Unidad 5,vor,antes de
+Unidad 5,zuerst,primero
+Unidad 5,dann / danach,entonces
+Unidad 5,zum Schluss / am Ende,al final
+Unidad 5,selten,pocas veces
+Unidad 5,oft,muchas veces
+Unidad 5,die Socke,el calcetÌn
+Unidad 5,das belegte Brˆtchen,el bocadillo
+Unidad 5,der Sch¸ler / die Sch¸lerin,el alumno / la alumna
+Unidad 5,die Information,la informaciÛn
+Unidad 5,wichtig,importante
+Unidad 5,der Sch¸leraustausch,el intercambio
+Unidad 5,Vorsicht! / Achtung!,°Cuidado!
+Unidad 5,sich vorstellen,presentarse
+Unidad 5,die Person,la persona
+Unidad 5,unbekannt,"desconocido, -a"
+Unidad 5,jdm etw. geben,dar algo a alguien
+Unidad 5,die Hand,la mano
+Unidad 5,der Schuh,el zapato
+Unidad 5,um etw. zu tun,para hacer algo
+Unidad 5,hineingehen / eintreten,entrar
+Unidad 5,etw. tragen,llevar
+Unidad 5,ohne,sin
+Unidad 5,das Loch,el agujero
+Unidad 5,das Fr¸hst¸ck,el desayuno
+Unidad 5,fr¸hst¸cken,desayunar
+Unidad 5,das M¸sli / die Fr¸hst¸cksflocken,los cereales
+Unidad 5,das Obst,la fruta
+Unidad 5,das Brot,el pan
+Unidad 5,der K‰se,el queso
+Unidad 5,die Butter,la mantequilla
+Unidad 5,die Marmelade,la mermelada
+Unidad 5,bleiben,quedarse
+Unidad 5,die Wurst,el fiambre
+Unidad 5,aufstehen!,°Arriba!
+Unidad 5,glauben / meinen,creer
+Unidad 5,schwierig,difÌcil
+Unidad 5,fr¸h,temprano
+Unidad 5,brauchen,necesitar
+Unidad 5,vorbereiten,preparar
+Unidad 5,die Pause,el recreo
+Unidad 5,umdenken,cambiar
+Unidad 5,das Handy,el chip
+Unidad 5,die Frage,la pregunta
+Unidad 5,der Gruﬂ,el saludo
+Unidad 5,mit jdm einverstanden sein,estar de acuerdo con
+Unidad 5,die Tafel,la pizarra
+Unidad 5,das Klassenzimmer,el aula
+Unidad 5,das Labor,el laboratorio
+Unidad 5,die Bibliothek,la biblioteca
+Unidad 5,die Informatik,la Inform·tica
+Unidad 5,der Computerraum,el aula de inform·tica
+Unidad 5,das Sekretariat,la secretarÌa
+Unidad 5,der Schulhof,el patio
+Unidad 5,unser / eure,"nuestro, -a / vuestro, -a"
+Unidad 5,die Wirtschaft,la EconomÌa
+Unidad 5,Mathematik,las Matem·ticas
+Unidad 5,Sport (Schulfach),la EducaciÛn FÌsica
+Unidad 5,Spanisch (Schulfach),Lengua y Literatura
+Unidad 5,Geschichte,la Historia
+Unidad 5,Kunst / Zeichnen,el Dibujo
+Unidad 5,Philosophie,la FilosofÌa
+Unidad 5,das Unterrichtsfach,la asignatura
+Unidad 5,der Stundenplan,el horario
+Unidad 5,wollen,querer
+Unidad 5,‰ndern,cambiar
+Unidad 5,anfangen / beginnen,empezar
+Unidad 5,(be)enden,terminar
+Unidad 5,lieber mˆgen,preferir
+Unidad 5,die Minute,el minuto
+Unidad 5,die Stunde,la hora
+Unidad 5,die Pr¸fung / Klassenarbeit,el examen
+Unidad 5,nat¸rlich,por supuesto
+Unidad 5,der Anschluss,la conexiÛn
+Unidad 5,das Internet,(el/la) Internet
+Unidad 5,so / auf diese Weise,asÌ
+Unidad 5,laut / nach,seg˙n
+Unidad 6,der Monat,el mes
+Unidad 6,Januar,enero
+Unidad 6,Februar,febrero
+Unidad 6,M‰rz,marzo
+Unidad 6,April,abril
+Unidad 6,Mai,mayo
+Unidad 6,Juni,junio
+Unidad 6,Juli,julio
+Unidad 6,August,agosto
+Unidad 6,September,septiembre
+Unidad 6,Oktober,octubre
+Unidad 6,November,noviembre
+Unidad 6,Dezember,diciembre
+Unidad 6,der Kurs / das Schuljahr,el curso
+Unidad 6,man muss,hay que
+Unidad 6,etw. putzen / sauber machen,limpiar algo
+Unidad 6,der Gast,el invitado / la invitada
+Unidad 6,etw. trinken,beber algo
+Unidad 6,einkaufen,hacer la compra
+Unidad 6,die Einkaufsliste,la lista de la compra
+Unidad 6,organisieren,organizar
+Unidad 6,der Ort / der Platz,el lugar
+Unidad 6,etw./jdn suchen,buscar algo / a alguien
+Unidad 6,wenn / falls,si
+Unidad 6,an etw./jdn denken,pensar en algo / alguien
+Unidad 6,wie viel,"cu·nto, -a"
+Unidad 6,die Einladung,la invitaciÛn
+Unidad 6,jdn einladen,invitar a alguien
+Unidad 6,kommen,venir
+Unidad 6,das Getr‰nk,la bebida
+Unidad 6,etwas,algo
+Unidad 6,die Pizza,la pizza
+Unidad 6,der Salat,la ensalada
+Unidad 6,die Pommes frites / Chips,las patatas fritas
+Unidad 6,etw. hinlegen / setzen / stellen,poner algo
+Unidad 6,das Wasser,el agua
+Unidad 6,der Saft,el zumo
+Unidad 6,das Erfrischungsgetr‰nk,el refresco
+Unidad 6,etw. dekorieren / schm¸cken,decorar algo
+Unidad 6,notwendig,"necesario, -a"
+Unidad 6,das Spiel,el juego
+Unidad 6,lustig,"divertido, -a"
+Unidad 6,mehr,m·s
+Unidad 6,die Hilfe,la ayuda
+Unidad 6,die Arbeit,el trabajo
+Unidad 6,jdm bei etw. helfen,ayudar a alguien
+Unidad 6,das Gem¸se,la verdura
+Unidad 6,das Fleisch,la carne
+Unidad 6,der Fisch,el pescado
+Unidad 6,das Milchprodukt,el producto l·cteo
+Unidad 6,die Tomate,el tomate
+Unidad 6,die Orange,la naranja
+Unidad 6,die Kartoffel,la patata
+Unidad 6,das H‰hnchen,el pollo
+Unidad 6,der Knoblauch,el ajo
+Unidad 6,der Kopfsalat,la lechuga
+Unidad 6,das ÷l,el aceite
+Unidad 6,der Reis,el arroz
+Unidad 6,der Schinken,el jamÛn
+Unidad 6,das Salz,la sal
+Unidad 6,der Zucker,el az˙car
+Unidad 6,die Karotte,la zanahoria
+Unidad 6,die Zwiebel,la cebolla
+Unidad 6,die Olive,la aceituna
+Unidad 6,die Paprika,el pimiento
+Unidad 6,das Ei,el huevo
+Unidad 6,die Avocado,el aguacate
+Unidad 6,die Ananas,la piÒa
+Unidad 6,der Honig,la miel
+Unidad 6,der Thunfisch,el at˙n
+Unidad 6,der Joghurt,el yogur
+Unidad 6,die Gurke,el pepino
+Unidad 6,die Banane,el pl·tano
+Unidad 6,die Tortilla,la tortilla
+Unidad 6,das Kilo,el kilo
+Unidad 6,der Liter,el litro
+Unidad 6,das Dutzend,la docena
+Unidad 6,die Packung,el paquete
+Unidad 6,die Dose,la lata
+Unidad 6,die Flasche,la botella
+Unidad 6,die T¸te,la bolsa
+Unidad 6,das Glas,el bote
+Unidad 6,kosten,costar
+Unidad 6,der Euro,el euro
+Unidad 6,der Cent,el cÈntimo
+Unidad 6,alles,todo
+Unidad 6,das Tagesmen¸,el men˙ del dÌa
+Unidad 6,das Gericht / der Gang,el plato
+Unidad 6,die Vorspeise,el primer plato
+Unidad 6,die Suppe,la sopa
+Unidad 6,gemischt,"mixto, -a"
+Unidad 6,patatas bravas,las patatas bravas
+Unidad 6,die Krokette,la croqueta
+Unidad 6,das Hauptgericht,el segundo plato
+Unidad 6,gebraten / gegrillt,"asado, -a"
+Unidad 6,der Tintenfisch,el calamar
+Unidad 6,das Filet / Schnitzel,el filete
+Unidad 6,das Schwein,el cerdo
+Unidad 6,der Nachtisch / das Dessert,el postre
+Unidad 6,der (Karamell-)Pudding,el flan
+Unidad 6,der Obstsalat,la macedonia de frutas
+Unidad 6,der Milchreis,el arroz con leche
+Unidad 6,der Kellner / die Kellnerin,el camarero / la camarera
+Unidad 6,die gef¸llte Teigtasche,la empanadilla
+Unidad 6,der russische Salat,la ensaladilla rusa
+Unidad 6,noch ein(e),"otro, otra"
+Unidad 6,eine Zutat haben,llevar algo
+Unidad 6,bestellen / verlangen,pedir algo
+Unidad 6,etw./jdn (mit)bringen,traer algo / a alguien
+Unidad 6,die Idee,la idea
+Unidad 6,sich etw. teilen,compartir algo
+Unidad 6,schlecht,"malo, -a"
+Unidad 6,die Kohlens‰ure,el gas
+Unidad 6,jetzt / sofort,ahora
+Unidad 6,salzig,"salado, -a"
+Unidad 6,fade / ungesalzen,"soso, -a"
+Unidad 6,zu (+ Adjektiv),demasiado
+Unidad 6,scharf,picante
+Unidad 6,die Portion,la raciÛn
+Unidad 6,der Kabeljau / Stockfisch,el bacalao
+Unidad 6,jdm etw. sagen,decir algo a alguien
+Unidad 6,die Rechnung,la cuenta
+Unidad 6,das Chilipulver / der Chili,el chile
+Unidad 6,die Zutat,el ingrediente
+Unidad 6,der Mais,el maÌz
+Unidad 6,der Champignon,el champiÒÛn
+Unidad 6,die Salami,el salami
+Unidad 6,kalt,"frÌo, -a"
+Unidad 6,warm / heiﬂ,caliente
+Unidad 7,die Reise,el viaje
+Unidad 7,allein,"solo, -a"
+Unidad 7,der Fr¸hling,la primavera
+Unidad 7,der Herbst,el otoÒo
+Unidad 7,der Winter,el invierno
+Unidad 7,wohin?,øAdÛnde?
+Unidad 7,der Berg,la montaÒa
+Unidad 7,das Gasthaus,el hostal
+Unidad 7,der Campingplatz,el camping
+Unidad 7,das (Ferien-)Apartment,el apartamento
+Unidad 7,das Flugzeug,el aviÛn
+Unidad 7,das Schiff,el barco
+Unidad 7,die Sehensw¸rdigkeit,el monumento
+Unidad 7,Ski fahren,esquiar
+Unidad 7,die Burg,el castillo
+Unidad 7,die W¸ste,el desierto
+Unidad 7,das Tier,el animal
+Unidad 7,die Kirche,la iglesia
+Unidad 7,der Wald,el bosque
+Unidad 7,der Turm,la torre
+Unidad 7,der Baum,el ·rbol
+Unidad 7,das Meer,el mar
+Unidad 7,der Schnee,la nieve
+Unidad 7,der See,el lago
+Unidad 7,im Vordergrund,en primer plano
+Unidad 7,im Hintergrund,al fondo
+Unidad 7,der S¸den,el sur
+Unidad 7,der Norden,el norte
+Unidad 7,der Osten,el este
+Unidad 7,der Westen,el oeste
+Unidad 7,die Region,la regiÛn
+Unidad 7,bevˆlkert,"poblado, -a"
+Unidad 7,eine Million,un millÛn
+Unidad 7,der Einwohner / die Einwohnerin,el/la habitante
+Unidad 7,die Provinz,la provincia
+Unidad 7,hoch / groﬂ,"alto, -a"
+Unidad 7,der Meter,el metro
+Unidad 7,die K¸ste,la costa
+Unidad 7,lang,"largo, -a"
+Unidad 7,das Wetter,el tiempo
+Unidad 7,pro Jahr,al aÒo
+Unidad 7,etw. erzeugen / produzieren,producir algo
+Unidad 7,das Produkt,el producto
+Unidad 7,vor allem,sobre todo
+Unidad 7,die Olive,la oliva
+Unidad 7,die Tonne,la tonelada
+Unidad 7,besucht,"visitado, -a"
+Unidad 7,besuchen,visitar
+Unidad 7,ungef‰hr,"unos, -as"
+Unidad 7,die Moschee,la mezquita
+Unidad 7,der Dom / die Kathedrale,la catedral
+Unidad 7,der Tourismus,el turismo
+Unidad 7,wegen,por
+Unidad 7,jede(r),cada
+Unidad 7,morgen,maÒana
+Unidad 7,jdm etw. erz‰hlen,contar algo a alguien
+Unidad 7,von hier aus,desde aquÌ
+Unidad 7,die Option / die Wahl,la opciÛn
+Unidad 7,ankommen,llegar
+Unidad 7,die Fahrkarte / das Ticket,el billete
+Unidad 7,billig / preiswert,"barato, -a"
+Unidad 7,jdm etw. empfehlen,recomendar algo a alguien
+Unidad 7,praktisch,"pr·ctico, -a"
+Unidad 7,schnell,"r·pido, -a"
+Unidad 7,dauern,durar
+Unidad 7,ˆkologisch / umweltfreundlich,"ecolÛgico, -a"
+Unidad 7,der n‰chste,siguiente
+Unidad 7,etw. mieten,alquilar algo
+Unidad 7,bequem,"cÛmodo, -a"
+Unidad 7,teuer,"caro, -a"
+Unidad 7,etw. nehmen,coger algo
+Unidad 7,¸ber,sobre
+Unidad 7,der Blog,el blog
+Unidad 7,langsam,"lento, -a"
+Unidad 7,einzeln,individual
+Unidad 7,Doppel-,doble
+Unidad 7,die Klimaanlage,el aire acondicionado
+Unidad 7,der Dienst / die Dienstleistung,el servicio
+Unidad 7,der Parkplatz,el aparcamiento
+Unidad 7,die Rezeption,la recepciÛn
+Unidad 7,etw. erlauben,permitir algo
+Unidad 7,das Geschoss / der Stock,el piso
+Unidad 7,etw. fragen,preguntar algo
+Unidad 7,die Sonne scheint,hace sol
+Unidad 7,es ist windig,hace viento
+Unidad 7,es regnet,llover
+Unidad 7,schneien,nevar
+Unidad 7,es ist bewˆlkt,est· nublado
+Unidad 7,Nebel,niebla
+Unidad 7,Grad unter Null,bajo cero
+Unidad 7,es ist warm,hace calor
+Unidad 7,es ist kalt,hace frÌo
+Unidad 7,gestern,ayer
+Unidad 7,vor (+ Zeitraum),hace
+Unidad 7,etw. bemerken,notar algo
+Unidad 7,rot,"rojo, -a"
+Unidad 7,letzte(r),"pasado, -a"
+Unidad 7,als,cuando
+Unidad 7,wirken / scheinen,parecer
+Unidad 7,etw./jdn vergessen,olvidarse de algo / alguien
+Unidad 7,vˆllig,totalmente
+Unidad 7,etw. reservieren,reservar algo
+Unidad 7,vorher,antes
+Unidad 7,jemand,alguien
+Unidad 7,der/die/das ganze,todo el / toda la
+Unidad 7,typisch,"tÌpico, -a"
+Unidad 7,spazieren gehen,pasear
+Unidad 7,der Spaziergang,el paseo
+Unidad 7,alle,todos / todas
+Unidad 7,wandern,hacer senderismo
+Unidad 7,tauchen / schnorcheln,bucear
+Unidad 7,der Koffer,la maleta
+Unidad 8,etw. verdienen,ganar algo
+Unidad 8,etw. bilden / formen,formar algo
+Unidad 8,etw. ausw‰hlen,elegir algo
+Unidad 8,der Beruf,la profesiÛn
+Unidad 8,die Erfahrung,la experiencia
+Unidad 8,das Komma,la coma
+Unidad 8,Prozent,el Ö por ciento
+Unidad 8,die H‰lfte,la mitad
+Unidad 8,die Mehrheit / die meisten,la mayorÌa
+Unidad 8,das B¸ro,la oficina
+Unidad 8,der Sekret‰r / die Sekret‰rin,el secretario / la secretaria
+Unidad 8,der Polizist / die Polizistin,el/la policÌa
+Unidad 8,der Blogger / die Bloggerin,el bloguero / la bloguera
+Unidad 8,der Betreuer / die Betreuerin,el monitor / la monitora
+Unidad 8,das Camp,el campamento
+Unidad 8,der Modedesigner / die Modedesignerin,el/la diseÒador(a) de moda
+Unidad 8,der Rettungsschwimmer / die Rettungsschwimmerin,el/la socorrista
+Unidad 8,der Verk‰ufer / die Verk‰uferin,el dependiente / la dependienta
+Unidad 8,der Webdesigner / die Webdesignerin,el/la diseÒador(a) de p·ginas web
+Unidad 8,kreativ,"creativo, -a"
+Unidad 8,flexibel,flexible
+Unidad 8,kontaktfreudig / offen,"comunicativo, -a"
+Unidad 8,sportlich,deportista
+Unidad 8,der Sport,el deporte
+Unidad 8,etw. wissen / kˆnnen,saber algo
+Unidad 8,das Team / die Mannschaft,el equipo
+Unidad 8,teamf‰hig sein,trabajar en equipo
+Unidad 8,das Kind,el niÒo / la niÒa
+Unidad 8,die Kenntnisse,los conocimientos
+Unidad 8,die Biologie,la biologÌa
+Unidad 8,das Geburtsdatum,la fecha de nacimiento
+Unidad 8,die Ausbildung,la formaciÛn
+Unidad 8,der/die/das (Relativpronomen),que
+Unidad 8,triumphieren,triunfar
+Unidad 8,die Welt,el mundo
+Unidad 8,um etw. k‰mpfen,luchar por algo
+Unidad 8,der Traum,el sueÒo
+Unidad 8,niemand,nadie
+Unidad 8,anhalten / Halt machen,parar
+Unidad 8,die Haltestelle,la parada
+Unidad 8,geboren werden,nacer
+Unidad 8,die Geburt,el nacimiento
+Unidad 8,seit,desde
+Unidad 8,etw. zeichnen,dibujar algo
+Unidad 8,die Zeichnung,el dibujo
+Unidad 8,das Design,el diseÒo
+Unidad 8,etw. entdecken,descubrir algo
+Unidad 8,die Leidenschaft,la pasiÛn
+Unidad 8,die Schule,el colegio
+Unidad 8,sp‰t,tarde
+Unidad 8,die Epoche / die Zeit,la Època
+Unidad 8,der Albtraum,la pesadilla
+Unidad 8,etw. erleiden,sufrir algo
+Unidad 8,das Mobbing,el acoso (escolar)
+Unidad 8,trotzdem,sin embargo
+Unidad 8,jdn unterst¸tzen,apoyar a alguien
+Unidad 8,die Oberstufe,el Bachillerato
+Unidad 8,das (Universit‰ts-)Studium,la carrera
+Unidad 8,genieﬂen,disfrutar
+Unidad 8,das Leben,la vida
+Unidad 8,etw. beenden,terminar de hacer algo
+Unidad 8,die Gelegenheit / die Chance,la oportunidad
+Unidad 8,an etw. teilnehmen,participar en algo
+Unidad 8,etw. lassen / aufgeben,dejar algo
+Unidad 8,sich etw./jdm widmen,dedicarse a algo / alguien
+Unidad 8,einfach,f·cil
+Unidad 8,schwierig,difÌcil
+Unidad 8,das Kost¸m / der Anzug,el traje
+Unidad 8,die Unterst¸tzung,el apoyo
+Unidad 8,etw. ˆffnen,abrir algo
+Unidad 8,der Kunde / die Kundin,el cliente / la clienta
+Unidad 8,der Erfolg,el Èxito
+Unidad 8,etw. hochladen,subir algo
+Unidad 8,das soziale Netzwerk,la red social
+Unidad 8,plˆtzlich,de repente
+Unidad 8,die Frau / Ehefrau,la mujer
+Unidad 8,der Mann,el hombre
+Unidad 8,zurzeit,actualmente
+Unidad 8,der letzte,"˙ltimo, -a"
+Unidad 8,von Ö bis,desde Ö hasta
+Unidad 8,der Lebenslauf,el currÌculum
+Unidad 8,beruflich,profesional
+Unidad 8,die Muttersprache,la lengua materna
+Unidad 8,das Anschreiben,la carta de presentaciÛn
+Unidad 8,das Niveau,el nivel
+Unidad 8,der Betreff / die Angelegenheit,el asunto
+Unidad 8,sehr geehrte(r),"estimado, -a"
+Unidad 8,die Antwort,la respuesta
+Unidad 8,die Anzeige,el anuncio
+Unidad 8,gerade etw. getan haben,acabar de hacer algo
+Unidad 8,fleiﬂig / arbeitsam,"trabajador, -a"
+Unidad 8,verantwortungsbewusst,responsable
+Unidad 8,jdn kennen / kennenlernen,conocer a alguien
+Unidad 8,seit (+ Zeitraum),desde hace
+Unidad 8,Mit freundlichen Gr¸ﬂen,Atentamente
+Unidad 8,die Bluse,la blusa
+Unidad 8,der Rock,la falda
+Unidad 8,die Sportschuhe,las zapatillas de deporte
+Unidad 8,der Schuh,el zapato
+Unidad 8,das Hemd,la camisa
+Unidad 8,der Pullover,el jersey
+Unidad 8,die Jeanshose,los vaqueros
+Unidad 8,der Mantel,el abrigo
+Unidad 8,das Kleid,el vestido
+Unidad 8,der Schal,la bufanda
+Unidad 8,die Jacke,la chaqueta
+Unidad 8,die Hose,el pantalÛn
+Unidad 8,das T-Shirt,la camiseta
+Unidad 8,kurz,"corto, -a"
+Unidad 8,breit / weit,"ancho, -a"
+Unidad 8,eng,"estrecho, -a"
+Unidad 8,elegant,elegante
+Unidad 8,klassisch,"cl·sico, -a"
+Unidad 8,modern,"moderno, -a"
+Unidad 8,formell,formal
+Unidad 8,etw. mit etw. verbinden,relacionar algo con algo
+Unidad 8,die Farbe,el color
+Unidad 8,schwarz,"negro, -a"
+Unidad 8,blau,azul
+Unidad 8,rosa,rosa
+Unidad 8,gr¸n,verde
+Unidad 8,gelb,"amarillo, -a"
+Unidad 8,weiﬂ,"blanco, -a"
+Unidad 8,lila,lila
+Unidad 8,orange,naranja
+Unidad 8,grau,gris
+Unidad 8,braun,marrÛn
+Unidad 8,das Vorstellungsgespr‰ch,la entrevista (de trabajo)
+Unidad 8,einige,"algunos, -as"
+Unidad 8,die Firma,la empresa
+Unidad 8,der Stil,el estilo
+Unidad 8,jdm etw. zeigen,mostrar algo a alguien
+Unidad 8,dieser / diese / dieses,"este, esta"
+Unidad 8,jener / jene,"aquel, aquella"
+Unidad 8,welche(r/s)?,øCu·lÖ?
+Unidad 9,das Projekt,el proyecto
+Unidad 9,an etw. grenzen,limitar (con Ö)
+Unidad 9,der Regenwald / der Dschungel,la selva
+Unidad 9,der Kondor,el cÛndor
+Unidad 9,der Soldat / die Soldatin,el/la soldado
+Unidad 9,die Eroberung,la conquista
+Unidad 9,das Reich,el imperio
+Unidad 9,der Anf¸hrer / die Anf¸hrerin,el/la lÌder
+Unidad 9,jdn tˆten,matar a alguien
+Unidad 9,die Kolonie,la colonia
+Unidad 9,der Pr‰sident / die Pr‰sidentin,el presidente / la presidenta
+Unidad 9,indigen / eingeboren,indÌgena
+Unidad 9,etw. erreichen / schaffen,lograr algo
+Unidad 9,die Unabh‰ngigkeit,la independencia
+Unidad 9,w‰hrend,durante
+Unidad 9,das Jahrhundert,el siglo
+Unidad 9,passieren / geschehen,pasar
+Unidad 9,das Territorium / das Gebiet,el territorio
+Unidad 9,die Religion,la religiÛn
+Unidad 9,die Architektur,la arquitectura
+Unidad 9,die Erziehung,la educaciÛn
+Unidad 9,etw. einnehmen / besetzen,ocupar algo
+Unidad 9,der Teil,la parte
+Unidad 9,der Gott / die Gˆttin,el dios / la diosa
+Unidad 9,das Meerschweinchen,el conejillo de Indias
+Unidad 9,fr¸her / damals,antes
+Unidad 9,etw. anbauen,cultivar algo
+Unidad 9,schon,ya
+Unidad 9,der Adlige / die Adlige,el/la noble
+Unidad 9,das Wissen,el saber
+Unidad 9,etw. lernen,aprender (a hacer) algo
+Unidad 9,sich um jdn k¸mmern,cuidar algo / a alguien
+Unidad 9,die Flˆte,la flauta
+Unidad 9,der Knochen,el hueso
+Unidad 9,menschlich,"humano, -a"
+Unidad 9,das Quechua,el quechua
+Unidad 9,immer noch,todavÌa
+Unidad 9,etw. (er)bauen,construir algo
+Unidad 9,die Br¸cke,el puente
+Unidad 9,die H‰ngebr¸cke,el puente colgante
+Unidad 9,das System,el sistema
+Unidad 9,der Knoten,el nudo
+Unidad 9,mit jdm kommunizieren,comunicarse con alguien
+Unidad 9,etw. bedeuten,significar algo
+Unidad 9,das Pferd,el caballo
+Unidad 9,das Rad,la rueda
+Unidad 9,rennen / laufen,correr
+Unidad 9,die Gruppe,el grupo
+Unidad 9,wo (Relativpronomen),donde
+Unidad 9,die Wahrheit,la verdad
+Unidad 9,verkleidet,"disfrazado, -a"
+Unidad 9,fliegen,volar
+Unidad 9,etw./jdn mitnehmen,llevarse algo / a alguien
+Unidad 9,die Schlucht,el barranco
+Unidad 9,gl¸cklich,feliz
+Unidad 9,weinen,llorar
+Unidad 9,etw./jdn vermissen,echar de menos algo / a alguien
+Unidad 9,der Vogel,el p·jaro
+Unidad 9,jdm antworten,contestar algo a alguien
+Unidad 9,die Blume,la flor
+Unidad 9,jdn befreien,liberar a alguien
+Unidad 9,frei,libre
+Unidad 9,der Esel,el burro
+Unidad 9,alt,"viejo, -a"
+Unidad 9,sterben,morir(se)
+Unidad 9,geboren werden,nacer
+Unidad 9,w‰hrend,mientras
+Unidad 9,die Krˆte,el sapo
+Unidad 9,das Haar,el pelo
+Unidad 9,blond,"rubio, -a"
+Unidad 9,dunkelhaarig,"moreno, -a"
+Unidad 9,kastanienbraun,"castaÒo, -a"
+Unidad 9,rothaarig,"pelirrojo, -a"
+Unidad 9,die Haut,la piel
+Unidad 9,hell,"claro, -a"
+Unidad 9,das Auge,el ojo
+Unidad 9,die Brille,las gafas
+Unidad 9,der Bart,la barba
+Unidad 9,klein (Kˆrpergrˆﬂe),"bajo, -a"
+Unidad 9,schlank,"delgado, -a"
+Unidad 9,dick,"gordo, -a"
+Unidad 9,d¸nn,delgado
+Unidad 9,der/die Freiwillige,el voluntario / la voluntaria
+Unidad 9,peruanisch,"peruano, -a"
+Unidad 9,NGO,ONG
+Unidad 9,etw./jdn finden,encontrar algo / a alguien
+Unidad 9,jdm etw. unterrichten,enseÒar algo a alguien
+Unidad 9,die Gesellschaftsschicht,la clase social
+Unidad 9,wohlhabend,"acomodado, -a"
+Unidad 9,arm,pobre
+Unidad 9,der/die Quechua-Indianer(in),el/la quechua
+Unidad 9,das Volk,el pueblo
+Unidad 9,die Integration,la integraciÛn
+Unidad 9,bedauerlich,lamentable
+Unidad 9,die Lage / die Situation,la situaciÛn
+Unidad 9,kompliziert,"complicado, -a"
+Unidad 9,(zu Fuﬂ) gehen,andar
+Unidad 9,der Alkohol,el alcohol
+Unidad 9,die Gewalt,la violencia
+Unidad 9,das Feld,el campo
+Unidad 9,das Ziel,el objetivo
+Unidad 9,die Zukunft,el futuro
+Unidad 9,jdm etw. erkl‰ren,explicar algo a alguien
