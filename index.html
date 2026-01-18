@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Spanish Flashcards</title>
+  <style>
+    :root { color-scheme: dark; }
+    body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial;
+           background:#000; color:#fff; display:flex; min-height:100vh; }
+    .wrap { width:min(520px, 92vw); margin:auto; }
+    .top { display:flex; gap:10px; align-items:center; justify-content:space-between; margin-bottom:12px; }
+    select { width: 60%; padding:10px; border-radius:10px; border:1px solid #333; background:#111; color:#fff; }
+    .stats { font-size:14px; color:#aaa; }
+    .card { background:#111; border:1px solid #222; border-radius:18px; padding:30px 18px;
+            text-align:center; min-height:170px; display:flex; flex-direction:column; justify-content:center; }
+    .big { font-size:44px; font-weight:800; letter-spacing:.2px; line-height:1.05; }
+    .small { margin-top:14px; color:#aaa; font-size:14px; }
+    .row { display:flex; gap:10px; margin-top:14px; }
+    button { flex:1; padding:14px 12px; border-radius:14px; border:1px solid #333;
+             background:#111; color:#fff; font-weight:700; font-size:16px; }
+    button:disabled { opacity:.5; }
+    .btn-show { width:100%; margin-top:14px; }
+    .btn-wrong { border-color:#5a1c1c; }
+    .btn-right { border-color:#1f5a2a; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="top">
+      <select id="unitSelect"></select>
+      <div class="stats" id="stats"></div>
+    </div>
+
+    <div class="card" id="card">
+      <div class="big" id="frontText">Loading…</div>
+      <div class="small" id="hint"></div>
+    </div>
+
+    <button class="btn-show" id="showBtn">Show</button>
+
+    <div class="row">
+      <button class="btn-wrong" id="wrongBtn" disabled>Wrong</button>
+      <button class="btn-right" id="rightBtn" disabled>Right</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
