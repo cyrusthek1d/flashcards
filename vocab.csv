@@ -1,56 +1,56 @@
-Unit,Deutsch,Spanisch
-Unidad 1,Hallo,¡Hola!
-Unidad 1,Wie geht’s?,¿Qué tal?
-Unidad 1,Guten Morgen,¡Buenos días!
+unit,Deutsch,Spanisch
+Unidad 1,Hallo,Â¡Hola!
+Unidad 1,Wie gehtâ€™s?,Â¿QuÃ© tal?
+Unidad 1,Guten Morgen,Â¡Buenos dÃ­as!
 Unidad 1,Guten Tag,Buenas tardes
-Unidad 1,Gute Nacht,¡Buenas noches!
-Unidad 1,ich heiße …,Me llamo …
+Unidad 1,Gute Nacht,Â¡Buenas noches!
+Unidad 1,ich heiÃŸe â€¦,Me llamo â€¦
 Unidad 1,und,y
 Unidad 1,ich bin,soy
 Unidad 1,von / aus,de
-Unidad 1,ich bin aus …,soy de …
-Unidad 1,du,tú
-Unidad 1,Wie … ?,¿Cómo … ?
-Unidad 1,Wie heißt du?,¿Cómo te llamas?
+Unidad 1,ich bin aus â€¦,soy de â€¦
+Unidad 1,du,tÃº
+Unidad 1,Wie â€¦ ?,Â¿CÃ³mo â€¦ ?
+Unidad 1,Wie heiÃŸt du?,Â¿CÃ³mo te llamas?
 Unidad 1,ich,yo
-Unidad 1,auch,también
-Unidad 1,Schüler(in) / Student(in),el/la estudiante
+Unidad 1,auch,tambiÃ©n
+Unidad 1,SchÃ¼ler(in) / Student(in),el/la estudiante
 Unidad 1,Lehrer(in),el profesor / la profesora
-Unidad 1,Spanisch,el español
+Unidad 1,Spanisch,el espaÃ±ol
 Unidad 1,aber,pero
 Unidad 1,ich lebe / wohne,vivo
 Unidad 1,in / auf,en
-Unidad 1,Wo … ?,¿Dónde … ?
-Unidad 1,Woher bist du?,¿De dónde eres?
+Unidad 1,Wo â€¦ ?,Â¿DÃ³nde â€¦ ?
+Unidad 1,Woher bist du?,Â¿De dÃ³nde eres?
 Unidad 1,sehr,muy
 Unidad 1,gut,bien
 Unidad 1,Danke,Gracias
-Unidad 1,auf Deutsch,en alemán
-Unidad 1,man sagt …,se dice …
+Unidad 1,auf Deutsch,en alemÃ¡n
+Unidad 1,man sagt â€¦,se dice â€¦
 Unidad 1,Guten Tag,Guten Tag
 Unidad 1,Guten Abend,Buenas tardes
-Unidad 1,Gute Nacht,¡Buenas noches!
-Unidad 1,Wie geht es dir?,¿Cómo estás?
+Unidad 1,Gute Nacht,Â¡Buenas noches!
+Unidad 1,Wie geht es dir?,Â¿CÃ³mo estÃ¡s?
 Unidad 1,sehr gut,muy bien
-Unidad 1,Wo lebst du?,¿Dónde vives?
-Unidad 1,der Dialog,el diálogo
+Unidad 1,Wo lebst du?,Â¿DÃ³nde vives?
+Unidad 1,der Dialog,el diÃ¡logo
 Unidad 1,das Foto,la foto
-Unidad 1,Frau,señora
-Unidad 1,Herr,señor
+Unidad 1,Frau,seÃ±ora
+Unidad 1,Herr,seÃ±or
 Unidad 1,Sie (Anrede),usted / ustedes
-Unidad 1,Wie geht es Ihnen?,¿Cómo está usted?
-Unidad 1,ja,sí
+Unidad 1,Wie geht es Ihnen?,Â¿CÃ³mo estÃ¡ usted?
+Unidad 1,ja,sÃ­
 Unidad 1,gut,bueno
-Unidad 1,so so,así así
-Unidad 1,viel Stress,mucho estrés
+Unidad 1,so so,asÃ­ asÃ­
+Unidad 1,viel Stress,mucho estrÃ©s
 Unidad 1,also,pues
-Unidad 1,Toll!,¡Ánimo!
-Unidad 1,Bis später!,¡Hasta luego!
-Unidad 1,Tschüss,¡Adiós!
+Unidad 1,Toll!,Â¡Ãnimo!
+Unidad 1,Bis spÃ¤ter!,Â¡Hasta luego!
+Unidad 1,TschÃ¼ss,Â¡AdiÃ³s!
 Unidad 1,O.K.,Vale
 Unidad 1,der Kuss,el beso
-Unidad 1,Bis bald!,¡Hasta pronto!
-Unidad 1,Bis zum nächsten Mal,¡Hasta la próxima!
+Unidad 1,Bis bald!,Â¡Hasta pronto!
+Unidad 1,Bis zum nÃ¤chsten Mal,Â¡Hasta la prÃ³xima!
 Unidad 1,super,genial
 Unidad 1,schlecht,mal
 Unidad 1,sehr schlecht,fatal
@@ -60,12 +60,12 @@ Unidad 1,die Tapas,la tapa
 Unidad 1,die U-Bahn,el metro
 Unidad 1,das Museum,el museo
 Unidad 1,der Park,el parque
-Unidad 1,die Straße,la calle
+Unidad 1,die StraÃŸe,la calle
 Unidad 1,der Junge,el chico
-Unidad 1,das Mädchen,la chica
+Unidad 1,das MÃ¤dchen,la chica
 Unidad 1,das Problem,el problema
 Unidad 1,der Freund / die Freundin,el amigo / la amiga
-Unidad 1,das Telefon,el teléfono
+Unidad 1,das Telefon,el telÃ©fono
 Unidad 1,der Strand,la playa
 Unidad 1,das Restaurant,el restaurante
 Unidad 1,die Gitarre,la guitarra
@@ -77,13 +77,13 @@ Unidad 1,mit,con
 Unidad 1,Umlaut,dos puntos
 Unidad 1,der Akzent,el acento
 Unidad 1,die Hauptstadt,la capital
-Unidad 1,Wie alt bist du?,¿Cuántos años tienes?
-Unidad 1,Jahre,años
-Unidad 1,die Telefonnummer,el número de teléfono
-Unidad 1,das Handy,el móvil
+Unidad 1,Wie alt bist du?,Â¿CuÃ¡ntos aÃ±os tienes?
+Unidad 1,Jahre,aÃ±os
+Unidad 1,die Telefonnummer,el nÃºmero de telÃ©fono
+Unidad 1,das Handy,el mÃ³vil
 Unidad 1,mein / meine,mi
-Unidad 1,die Adresse,la dirección
-Unidad 1,die E-Mail,el correo electrónico
+Unidad 1,die Adresse,la direcciÃ³n
+Unidad 1,die E-Mail,el correo electrÃ³nico
 Unidad 1,das @-Zeichen,la arroba
 Unidad 1,der Punkt,el punto
 Unidad 1,der Bindestrich,el guion
@@ -97,46 +97,46 @@ Unidad 2,der Bruder / die Schwester,el hermano / la hermana
 Unidad 2,die Stadt,la ciudad
 Unidad 2,der feste Freund / die feste Freundin,el novio / la novia
 Unidad 2,der beste Freund / die beste Freundin,el mejor amigo / la mejor amiga
-Unidad 2,der Klassenkamerad / die Klassenkameradin,el compañero de clase / la compañera de clase
-Unidad 2,er/sie heißt …,se llama …
+Unidad 2,der Klassenkamerad / die Klassenkameradin,el compaÃ±ero de clase / la compaÃ±era de clase
+Unidad 2,er/sie heiÃŸt â€¦,se llama â€¦
 Unidad 2,haben,tener
-Unidad 2,Wie heißt …?,¿Cómo se llama …?
+Unidad 2,Wie heiÃŸt â€¦?,Â¿CÃ³mo se llama â€¦?
 Unidad 2,das Haustier,la mascota
-Unidad 2,Hast du …?,¿Tienes …?
+Unidad 2,Hast du â€¦?,Â¿Tienes â€¦?
 Unidad 2,ich habe,tengo
 Unidad 2,nein / nicht,no
 Unidad 2,die Geschwister,los hermanos
-Unidad 2,"das stimmt doch, oder?",¿Verdad?
-Unidad 2,Wer … ? / Wer (Pl.) … ?,¿Quién … ? / ¿Quiénes … ?
+Unidad 2,"das stimmt doch, oder?",Â¿Verdad?
+Unidad 2,Wer â€¦ ? / Wer (Pl.) â€¦ ?,Â¿QuiÃ©n â€¦ ? / Â¿QuiÃ©nes â€¦ ?
 Unidad 2,sein,ser
-Unidad 2,der Großvater,el abuelo
-Unidad 2,die Großmutter,la abuela
-Unidad 2,der Onkel,el tío
-Unidad 2,die Tante,la tía
+Unidad 2,der GroÃŸvater,el abuelo
+Unidad 2,die GroÃŸmutter,la abuela
+Unidad 2,der Onkel,el tÃ­o
+Unidad 2,die Tante,la tÃ­a
 Unidad 2,der Cousin / die Cousine,el primo / la prima
 Unidad 2,die Eltern,los padres
-Unidad 2,die Großeltern,los abuelos
+Unidad 2,die GroÃŸeltern,los abuelos
 Unidad 2,sprechen / reden,hablar
 Unidad 2,die Sprache,el idioma
-Unidad 2,Englisch,el inglés
-Unidad 2,Katalanisch,el catalán
+Unidad 2,Englisch,el inglÃ©s
+Unidad 2,Katalanisch,el catalÃ¡n
 Unidad 2,arbeiten,trabajar
 Unidad 2,das Gymnasium,el instituto
 Unidad 2,der Sohn,el hijo
 Unidad 2,die Tochter,la hija
 Unidad 2,die Kinder,los hijos
 Unidad 2,der Ingenieur / die Ingenieurin,el ingeniero / la ingeniera
-Unidad 2,Deutsch,el alemán
+Unidad 2,Deutsch,el alemÃ¡n
 Unidad 2,sehr schlecht,muy mal
 Unidad 2,der Partner / die Partnerin,la pareja
-Unidad 2,der Fotograf / die Fotografin,el fotógrafo / la fotógrafa
+Unidad 2,der Fotograf / die Fotografin,el fotÃ³grafo / la fotÃ³grafa
 Unidad 2,kochen,cocinar
 Unidad 2,immer,siempre
-Unidad 2,hören,escuchar
-Unidad 2,die Musik,la música
+Unidad 2,hÃ¶ren,escuchar
+Unidad 2,die Musik,la mÃºsica
 Unidad 2,lernen / studieren,estudiar
 Unidad 2,ein bisschen,un poco
-Unidad 2,Französisch,el francés
+Unidad 2,FranzÃ¶sisch,el francÃ©s
 Unidad 2,verbringen,pasar
 Unidad 2,die Ferien / der Urlaub,las vacaciones
 Unidad 2,der Sommer,el verano
@@ -145,31 +145,31 @@ Unidad 2,die Katze,el gato
 Unidad 2,Das ist nicht richtig.,No es correcto.
 Unidad 2,sein (Possessiv),su
 Unidad 2,dein(e),tus
-Unidad 2,Welche … ?,¿Qué … ?
+Unidad 2,Welche â€¦ ?,Â¿QuÃ© â€¦ ?
 Unidad 2,die Person,la persona
 Unidad 2,das Haus,la casa
 Unidad 2,feiern,celebrar
 Unidad 2,die Party / das Fest,la fiesta
 Unidad 2,Lust haben,tener ganas
-Unidad 2,der Geburtstag,el cumpleaños
-Unidad 2,hier,aquí
-Unidad 2,das ist …,este / esta es …
+Unidad 2,der Geburtstag,el cumpleaÃ±os
+Unidad 2,hier,aquÃ­
+Unidad 2,das ist â€¦,este / esta es â€¦
 Unidad 2,wie,como
 Unidad 2,die Zeit,el tiempo
 Unidad 2,die Freizeit,el tiempo libre
 Unidad 2,tanzen,bailar
 Unidad 2,der Salsa,la salsa
 Unidad 2,lesen,leer
-Unidad 2,der Comic,el cómic
+Unidad 2,der Comic,el cÃ³mic
 Unidad 2,spielen (Instrument),tocar
 Unidad 2,der Horror,el horror
 Unidad 2,weil,porque
 Unidad 2,wohnen / leben,vivir
 Unidad 2,schreiben,escribir
 Unidad 2,die Nachricht,el mensaje
-Unidad 2,den ganzen Tag,todo el día
-Unidad 2,dort,allí
-Unidad 2,toll! / wie toll!,¡Qué guay!
+Unidad 2,den ganzen Tag,todo el dÃ­a
+Unidad 2,dort,allÃ­
+Unidad 2,toll! / wie toll!,Â¡QuÃ© guay!
 Unidad 3,das (Stadt-)Viertel,el barrio
 Unidad 3,das Dorf,el pueblo
 Unidad 3,die Wohnung,el piso
@@ -178,9 +178,9 @@ Unidad 3,die Diskothek,la discoteca
 Unidad 3,das Kino,el cine
 Unidad 3,das Schwimmbad / der Pool,la piscina
 Unidad 3,der Supermarkt,el supermercado
-Unidad 3,der Laden / das Geschäft,la tienda
+Unidad 3,der Laden / das GeschÃ¤ft,la tienda
 Unidad 3,die Kleidung,la ropa
-Unidad 3,das Bekleidungsgeschäft,la tienda de ropa
+Unidad 3,das BekleidungsgeschÃ¤ft,la tienda de ropa
 Unidad 3,die U-Bahn-Station,la parada de metro
 Unidad 3,das Einkaufszentrum,el centro comercial
 Unidad 3,viel,"mucho, -a"
@@ -190,57 +190,57 @@ Unidad 3,laut,"ruidoso, -a"
 Unidad 3,alternativ,"alternativo, -a"
 Unidad 3,interessant,interesante
 Unidad 3,zum Beispiel,por ejemplo
-Unidad 3,schön,"bonito, -a"
+Unidad 3,schÃ¶n,"bonito, -a"
 Unidad 3,alt,"antiguo, -a"
 Unidad 3,modern,"moderno, -a"
-Unidad 3,klein,"pequeño, -a"
+Unidad 3,klein,"pequeÃ±o, -a"
 Unidad 3,der Satz,la frase
-Unidad 3,hässlich,"feo, -a"
+Unidad 3,hÃ¤sslich,"feo, -a"
 Unidad 3,langweilig,"aburrido, -a"
-Unidad 3,groß,grande
+Unidad 3,groÃŸ,grande
 Unidad 3,ruhig,"tranquilo, -a"
 Unidad 3,anders / unterschiedlich,diferente
 Unidad 3,das Zentrum,el centro
 Unidad 3,sich befinden / sein,estar
-Unidad 3,da,ahí
-Unidad 3,der Kilometer,el kilómetro
+Unidad 3,da,ahÃ­
+Unidad 3,der Kilometer,el kilÃ³metro
 Unidad 3,toll / klasse,guay
-Unidad 3,in der Nähe von,cerca de
-Unidad 3,berühmt,"famoso, -a"
-Unidad 3,das Gebäude,el edificio
+Unidad 3,in der NÃ¤he von,cerca de
+Unidad 3,berÃ¼hmt,"famoso, -a"
+Unidad 3,das GebÃ¤ude,el edificio
 Unidad 3,der Lieblings-,"favorito, -a"
 Unidad 3,die Leute,la gente
-Unidad 3,das Land,el país
-Unidad 3,außerdem,además
+Unidad 3,das Land,el paÃ­s
+Unidad 3,auÃŸerdem,ademÃ¡s
 Unidad 3,sich treffen / verabreden,quedar
 Unidad 3,die Woche,la semana
 Unidad 3,das Wochenende,el fin de semana
 Unidad 3,trinken / essen,tomar
-Unidad 3,der Bahnhof,la estación
+Unidad 3,der Bahnhof,la estaciÃ³n
 Unidad 3,der Zug,el tren
 Unidad 3,drinnen,dentro
-Unidad 3,der Garten,el jardín
+Unidad 3,der Garten,el jardÃ­n
 Unidad 3,die Pflanze,la planta
 Unidad 3,neben,al lado de
 Unidad 3,die Kunst,el arte
-Unidad 3,die Aktivität,la actividad
+Unidad 3,die AktivitÃ¤t,la actividad
 Unidad 3,kulturell,cultural
 Unidad 3,jung,joven
 Unidad 3,der Tourist / die Touristin,el turista / la turista
 Unidad 3,neu,"nuevo, -a"
-Unidad 3,der öffentliche Nahverkehr,el transporte público
+Unidad 3,der Ã¶ffentliche Nahverkehr,el transporte pÃºblico
 Unidad 3,gut,"bueno, -a"
-Unidad 3,der Fluss,el río
+Unidad 3,der Fluss,el rÃ­o
 Unidad 3,perfekt / ideal,"perfecto, -a"
-Unidad 3,für,para
+Unidad 3,fÃ¼r,para
 Unidad 3,der Spaziergang,el paseo
 Unidad 3,das Fahrrad,la bicicleta
 Unidad 3,multikulturell,multicultural
-Unidad 3,die Universität,la universidad
-Unidad 3,die Eisdiele,la heladería
+Unidad 3,die UniversitÃ¤t,la universidad
+Unidad 3,die Eisdiele,la heladerÃ­a
 Unidad 3,die Apotheke,la farmacia
-Unidad 3,hinter,detrás de
-Unidad 3,gegenüber von,enfrente de
+Unidad 3,hinter,detrÃ¡s de
+Unidad 3,gegenÃ¼ber von,enfrente de
 Unidad 3,links von,a la izquierda de
 Unidad 3,weit weg von,lejos de
 Unidad 3,auf,encima de
@@ -248,78 +248,78 @@ Unidad 3,unter,debajo de
 Unidad 3,vor,delante de
 Unidad 3,zwischen,entre
 Unidad 3,rechts von,a la derecha de
-Unidad 3,das Wohnzimmer,el salón
-Unidad 3,das Bad / die Toilette,el baño
-Unidad 3,das Zimmer,la habitación
-Unidad 3,die Küche,la cocina
+Unidad 3,das Wohnzimmer,el salÃ³n
+Unidad 3,das Bad / die Toilette,el baÃ±o
+Unidad 3,das Zimmer,la habitaciÃ³n
+Unidad 3,die KÃ¼che,la cocina
 Unidad 3,das Bett,la cama
 Unidad 3,der Schrank,el armario
 Unidad 3,der Computer,el ordenador
-Unidad 3,der Balkon,el balcón
+Unidad 3,der Balkon,el balcÃ³n
 Unidad 3,der Stuhl,la silla
 Unidad 3,der Tisch,la mesa
 Unidad 3,der Fernseher,el televisor
-Unidad 3,das Sofa,el sofá
+Unidad 3,das Sofa,el sofÃ¡
 Unidad 3,gehen / fahren,ir
-Unidad 3,der Bus,el autobús
+Unidad 3,der Bus,el autobÃºs
 Unidad 3,das Auto,el coche
 Unidad 3,nach / zu,a
-Unidad 3,zu Fuß,a pie
-Unidad 3,Entschuldigung,Perdón
+Unidad 3,zu FuÃŸ,a pie
+Unidad 3,Entschuldigung,PerdÃ³n
 Unidad 3,geradeaus,todo recto
 Unidad 3,abbiegen,girar
 Unidad 3,bis,hasta
-Unidad 3,überqueren,cruzar
+Unidad 3,Ã¼berqueren,cruzar
 Unidad 3,nehmen,tomar
 Unidad 3,am Ende von,al final de
 Unidad 3,Vielen Dank,Muchas gracias
-Unidad 3,die Linie,la línea
-Unidad 4,mir gefällt etw. / ich mag etw.,me gusta algo
+Unidad 3,die Linie,la lÃ­nea
+Unidad 4,mir gefÃ¤llt etw. / ich mag etw.,me gusta algo
 Unidad 4,nichts,nada
 Unidad 4,sich ausruhen / eine Pause machen,descansar
 Unidad 4,faul,"vago, -a"
 Unidad 4,die Turnhalle / das Fitnessstudio,el gimnasio
-Unidad 4,machen (unregelmäßig),hacer
+Unidad 4,machen (unregelmÃ¤ÃŸig),hacer
 Unidad 4,der Sport,el deporte
 Unidad 4,Sport treiben,hacer deporte
 Unidad 4,das Buch,el libro
 Unidad 4,normalerweise,normalmente
 Unidad 4,spielen (mit jdm),jugar (a)
-Unidad 4,der Fußball,el fútbol
+Unidad 4,der FuÃŸball,el fÃºtbol
 Unidad 4,reisen,viajar
-Unidad 4,die Jugendlichen,los jóvenes
+Unidad 4,die Jugendlichen,los jÃ³venes
 Unidad 4,benutzen / verwenden,usar
 Unidad 4,sehen / anschauen,ver
-Unidad 4,das Fernsehen,la televisión
+Unidad 4,das Fernsehen,la televisiÃ³n
 Unidad 4,das Konzert,el concierto
 Unidad 4,das Radio,la radio
-Unidad 4,die Zeitung,el periódico
+Unidad 4,die Zeitung,el periÃ³dico
 Unidad 4,die Zeitschrift,la revista
 Unidad 4,das Theater,el teatro
 Unidad 4,sehr / viel (Adverb),mucho (adv.)
-Unidad 4,ich auch,a mí también
-Unidad 4,ich auch nicht,a mí tampoco
-Unidad 4,gefallen / mögen (Frage),¿Te gusta …?
+Unidad 4,ich auch,a mÃ­ tambiÃ©n
+Unidad 4,ich auch nicht,a mÃ­ tampoco
+Unidad 4,gefallen / mÃ¶gen (Frage),Â¿Te gusta â€¦?
 Unidad 4,das Essen / die Mahlzeit,la comida
 Unidad 4,mexikanisch,"mexicano, -a"
-Unidad 4,der Kaffee,el café
+Unidad 4,der Kaffee,el cafÃ©
 Unidad 4,die Milch,la leche
-Unidad 4,das Lied,la canción
+Unidad 4,das Lied,la canciÃ³n
 Unidad 4,der Hamburger,la hamburguesa
 Unidad 4,chatten,chatear
 Unidad 4,der Tango,el tango
 Unidad 4,die Schokolade,el chocolate
-Unidad 4,mir gefällt etw. sehr / ich mache etw. sehr gerne,me encanta algo
+Unidad 4,mir gefÃ¤llt etw. sehr / ich mache etw. sehr gerne,me encanta algo
 Unidad 4,die Kultur,la cultura
-Unidad 4,andere Aktivitäten,otras actividades
-Unidad 4,der Reiseführer,la guía
-Unidad 4,für,por
+Unidad 4,andere AktivitÃ¤ten,otras actividades
+Unidad 4,der ReisefÃ¼hrer,la guÃ­a
+Unidad 4,fÃ¼r,por
 Unidad 4,das Geld,el dinero
 Unidad 4,lecker,"rico, -a"
 Unidad 4,essen,comer
 Unidad 4,der Churro,el churro
-Unidad 4,das Café / die Cafeteria,la cafetería
-Unidad 4,das Fußballspiel,el partido de fútbol
+Unidad 4,das CafÃ© / die Cafeteria,la cafeterÃ­a
+Unidad 4,das FuÃŸballspiel,el partido de fÃºtbol
 Unidad 4,die Sonne,el sol
 Unidad 4,sich sonnen,tomar el sol
 Unidad 4,cool finden / gut gefallen,molar
@@ -327,10 +327,10 @@ Unidad 4,der Flohmarkt,el mercadillo
 Unidad 4,besuchen,visitar
 Unidad 4,der Sonntag,el domingo
 Unidad 4,ausgehen,salir
-Unidad 4,der Vergnügungspark / Freizeitpark,el parque de atracciones
+Unidad 4,der VergnÃ¼gungspark / Freizeitpark,el parque de atracciones
 Unidad 4,das Musical,el musical
-Unidad 4,ich würde gerne …,me gustaría …
-Unidad 4,können / dürfen,poder
+Unidad 4,ich wÃ¼rde gerne â€¦,me gustarÃ­a â€¦
+Unidad 4,kÃ¶nnen / dÃ¼rfen,poder
 Unidad 4,surfen,el surf
 Unidad 4,nie,nunca
 Unidad 4,das Mal,la vez
@@ -339,42 +339,42 @@ Unidad 4,manchmal,a veces
 Unidad 4,fast,casi
 Unidad 4,die Zeichnung,el dibujo
 Unidad 4,vor (zeitlich),menos
-Unidad 4,wie spät ist es?,¿Qué hora es?
+Unidad 4,wie spÃ¤t ist es?,Â¿QuÃ© hora es?
 Unidad 4,Viertel,cuarto
-Unidad 4,morgens,de la mañana
+Unidad 4,morgens,de la maÃ±ana
 Unidad 4,nachmittags / abends,de la tarde
 Unidad 4,nachts,de la noche
-Unidad 4,um wie viel Uhr …?,¿A qué hora …?
+Unidad 4,um wie viel Uhr â€¦?,Â¿A quÃ© hora â€¦?
 Unidad 4,der Montag,el lunes
 Unidad 4,der Dienstag,el martes
-Unidad 4,der Mittwoch,el miércoles
+Unidad 4,der Mittwoch,el miÃ©rcoles
 Unidad 4,der Donnerstag,el jueves
 Unidad 4,der Freitag,el viernes
-Unidad 4,der Samstag,el sábado
-Unidad 4,am Morgen,por la mañana
+Unidad 4,der Samstag,el sÃ¡bado
+Unidad 4,am Morgen,por la maÃ±ana
 Unidad 4,am Nachmittag,por la tarde
-Unidad 4,tun müssen,tener que
+Unidad 4,tun mÃ¼ssen,tener que
 Unidad 4,das Eis,el helado
 Unidad 4,Lust haben,tener ganas
 Unidad 4,und (vor i / hi),e
-Unidad 4,von … bis,de … a
+Unidad 4,von â€¦ bis,de â€¦ a
 Unidad 4,der Kuss,el besito
-Unidad 4,die Überraschung,la sorpresa
+Unidad 4,die Ãœberraschung,la sorpresa
 Unidad 4,die Eintrittskarte,la entrada
-Unidad 4,warum,¿Por qué …?
+Unidad 4,warum,Â¿Por quÃ© â€¦?
 Unidad 4,zusammen,"juntos, -as"
-Unidad 4,wir sehen uns!,¡Nos vemos!
+Unidad 4,wir sehen uns!,Â¡Nos vemos!
 Unidad 4,kaufen,comprar
 Unidad 4,das Geschenk,el regalo
-Unidad 4,wann,¿Cuándo …?
+Unidad 4,wann,Â¿CuÃ¡ndo â€¦?
 Unidad 4,einkaufen gehen,ir de compras
-Unidad 4,danach,después
-Unidad 4,der Film,la película
-Unidad 4,was hältst du davon?,¿Qué te parece?
+Unidad 4,danach,despuÃ©s
+Unidad 4,der Film,la pelÃ­cula
+Unidad 4,was hÃ¤ltst du davon?,Â¿QuÃ© te parece?
 Unidad 4,es tut mir leid,lo siento
-Unidad 5,der Alltag,el día a día
-Unidad 5,frühstücken,desayunar
-Unidad 5,das Frühstück,el desayuno
+Unidad 5,der Alltag,el dÃ­a a dÃ­a
+Unidad 5,frÃ¼hstÃ¼cken,desayunar
+Unidad 5,das FrÃ¼hstÃ¼ck,el desayuno
 Unidad 5,der Keks,la galleta
 Unidad 5,auf etw./jdn warten,esperar algo / a alguien
 Unidad 5,die Hausaufgaben,los deberes
@@ -386,30 +386,30 @@ Unidad 5,(sich) duschen,ducharse
 Unidad 5,(sich) anziehen,ponerse algo
 Unidad 5,sich waschen,lavarse
 Unidad 5,der Zahn,el diente
-Unidad 5,sich die Zähne putzen,lavarse los dientes
+Unidad 5,sich die ZÃ¤hne putzen,lavarse los dientes
 Unidad 5,der Unterricht / die Klasse,la clase
-Unidad 5,zurückkommen / zurückkehren,volver
+Unidad 5,zurÃ¼ckkommen / zurÃ¼ckkehren,volver
 Unidad 5,der Teller,el plato
 Unidad 5,abwaschen,lavar los platos
 Unidad 5,am Abend / nachts,por la noche
 Unidad 5,ausgehen,salir
 Unidad 5,der Schlafanzug,el pijama
 Unidad 5,gehen / weggehen,irse
-Unidad 5,nach (Richtung),después de
-Unidad 5,zu Fuß,a pie
+Unidad 5,nach (Richtung),despuÃ©s de
+Unidad 5,zu FuÃŸ,a pie
 Unidad 5,vor,antes de
 Unidad 5,zuerst,primero
 Unidad 5,dann / danach,entonces
 Unidad 5,zum Schluss / am Ende,al final
 Unidad 5,selten,pocas veces
 Unidad 5,oft,muchas veces
-Unidad 5,die Socke,el calcetín
-Unidad 5,das belegte Brötchen,el bocadillo
-Unidad 5,der Schüler / die Schülerin,el alumno / la alumna
-Unidad 5,die Information,la información
+Unidad 5,die Socke,el calcetÃ­n
+Unidad 5,das belegte BrÃ¶tchen,el bocadillo
+Unidad 5,der SchÃ¼ler / die SchÃ¼lerin,el alumno / la alumna
+Unidad 5,die Information,la informaciÃ³n
 Unidad 5,wichtig,importante
-Unidad 5,der Schüleraustausch,el intercambio
-Unidad 5,Vorsicht! / Achtung!,¡Cuidado!
+Unidad 5,der SchÃ¼leraustausch,el intercambio
+Unidad 5,Vorsicht! / Achtung!,Â¡Cuidado!
 Unidad 5,sich vorstellen,presentarse
 Unidad 5,die Person,la persona
 Unidad 5,unbekannt,"desconocido, -a"
@@ -421,63 +421,63 @@ Unidad 5,hineingehen / eintreten,entrar
 Unidad 5,etw. tragen,llevar
 Unidad 5,ohne,sin
 Unidad 5,das Loch,el agujero
-Unidad 5,das Frühstück,el desayuno
-Unidad 5,frühstücken,desayunar
-Unidad 5,das Müsli / die Frühstücksflocken,los cereales
+Unidad 5,das FrÃ¼hstÃ¼ck,el desayuno
+Unidad 5,frÃ¼hstÃ¼cken,desayunar
+Unidad 5,das MÃ¼sli / die FrÃ¼hstÃ¼cksflocken,los cereales
 Unidad 5,das Obst,la fruta
 Unidad 5,das Brot,el pan
-Unidad 5,der Käse,el queso
+Unidad 5,der KÃ¤se,el queso
 Unidad 5,die Butter,la mantequilla
 Unidad 5,die Marmelade,la mermelada
 Unidad 5,bleiben,quedarse
 Unidad 5,die Wurst,el fiambre
-Unidad 5,aufstehen!,¡Arriba!
+Unidad 5,aufstehen!,Â¡Arriba!
 Unidad 5,glauben / meinen,creer
-Unidad 5,schwierig,difícil
-Unidad 5,früh,temprano
+Unidad 5,schwierig,difÃ­cil
+Unidad 5,frÃ¼h,temprano
 Unidad 5,brauchen,necesitar
 Unidad 5,vorbereiten,preparar
 Unidad 5,die Pause,el recreo
 Unidad 5,umdenken,cambiar
 Unidad 5,das Handy,el chip
 Unidad 5,die Frage,la pregunta
-Unidad 5,der Gruß,el saludo
+Unidad 5,der GruÃŸ,el saludo
 Unidad 5,mit jdm einverstanden sein,estar de acuerdo con
 Unidad 5,die Tafel,la pizarra
 Unidad 5,das Klassenzimmer,el aula
 Unidad 5,das Labor,el laboratorio
 Unidad 5,die Bibliothek,la biblioteca
-Unidad 5,die Informatik,la Informática
-Unidad 5,der Computerraum,el aula de informática
-Unidad 5,das Sekretariat,la secretaría
+Unidad 5,die Informatik,la InformÃ¡tica
+Unidad 5,der Computerraum,el aula de informÃ¡tica
+Unidad 5,das Sekretariat,la secretarÃ­a
 Unidad 5,der Schulhof,el patio
 Unidad 5,unser / eure,"nuestro, -a / vuestro, -a"
-Unidad 5,die Wirtschaft,la Economía
-Unidad 5,Mathematik,las Matemáticas
-Unidad 5,Sport (Schulfach),la Educación Física
+Unidad 5,die Wirtschaft,la EconomÃ­a
+Unidad 5,Mathematik,las MatemÃ¡ticas
+Unidad 5,Sport (Schulfach),la EducaciÃ³n FÃ­sica
 Unidad 5,Spanisch (Schulfach),Lengua y Literatura
 Unidad 5,Geschichte,la Historia
 Unidad 5,Kunst / Zeichnen,el Dibujo
-Unidad 5,Philosophie,la Filosofía
+Unidad 5,Philosophie,la FilosofÃ­a
 Unidad 5,das Unterrichtsfach,la asignatura
 Unidad 5,der Stundenplan,el horario
 Unidad 5,wollen,querer
-Unidad 5,ändern,cambiar
+Unidad 5,Ã¤ndern,cambiar
 Unidad 5,anfangen / beginnen,empezar
 Unidad 5,(be)enden,terminar
-Unidad 5,lieber mögen,preferir
+Unidad 5,lieber mÃ¶gen,preferir
 Unidad 5,die Minute,el minuto
 Unidad 5,die Stunde,la hora
-Unidad 5,die Prüfung / Klassenarbeit,el examen
-Unidad 5,natürlich,por supuesto
-Unidad 5,der Anschluss,la conexión
+Unidad 5,die PrÃ¼fung / Klassenarbeit,el examen
+Unidad 5,natÃ¼rlich,por supuesto
+Unidad 5,der Anschluss,la conexiÃ³n
 Unidad 5,das Internet,(el/la) Internet
-Unidad 5,so / auf diese Weise,así
-Unidad 5,laut / nach,según
+Unidad 5,so / auf diese Weise,asÃ­
+Unidad 5,laut / nach,segÃºn
 Unidad 6,der Monat,el mes
 Unidad 6,Januar,enero
 Unidad 6,Februar,febrero
-Unidad 6,März,marzo
+Unidad 6,MÃ¤rz,marzo
 Unidad 6,April,abril
 Unidad 6,Mai,mayo
 Unidad 6,Juni,junio
@@ -499,11 +499,11 @@ Unidad 6,der Ort / der Platz,el lugar
 Unidad 6,etw./jdn suchen,buscar algo / a alguien
 Unidad 6,wenn / falls,si
 Unidad 6,an etw./jdn denken,pensar en algo / alguien
-Unidad 6,wie viel,"cuánto, -a"
-Unidad 6,die Einladung,la invitación
+Unidad 6,wie viel,"cuÃ¡nto, -a"
+Unidad 6,die Einladung,la invitaciÃ³n
 Unidad 6,jdn einladen,invitar a alguien
 Unidad 6,kommen,venir
-Unidad 6,das Getränk,la bebida
+Unidad 6,das GetrÃ¤nk,la bebida
 Unidad 6,etwas,algo
 Unidad 6,die Pizza,la pizza
 Unidad 6,der Salat,la ensalada
@@ -511,42 +511,42 @@ Unidad 6,die Pommes frites / Chips,las patatas fritas
 Unidad 6,etw. hinlegen / setzen / stellen,poner algo
 Unidad 6,das Wasser,el agua
 Unidad 6,der Saft,el zumo
-Unidad 6,das Erfrischungsgetränk,el refresco
-Unidad 6,etw. dekorieren / schmücken,decorar algo
+Unidad 6,das ErfrischungsgetrÃ¤nk,el refresco
+Unidad 6,etw. dekorieren / schmÃ¼cken,decorar algo
 Unidad 6,notwendig,"necesario, -a"
 Unidad 6,das Spiel,el juego
 Unidad 6,lustig,"divertido, -a"
-Unidad 6,mehr,más
+Unidad 6,mehr,mÃ¡s
 Unidad 6,die Hilfe,la ayuda
 Unidad 6,die Arbeit,el trabajo
 Unidad 6,jdm bei etw. helfen,ayudar a alguien
-Unidad 6,das Gemüse,la verdura
+Unidad 6,das GemÃ¼se,la verdura
 Unidad 6,das Fleisch,la carne
 Unidad 6,der Fisch,el pescado
-Unidad 6,das Milchprodukt,el producto lácteo
+Unidad 6,das Milchprodukt,el producto lÃ¡cteo
 Unidad 6,die Tomate,el tomate
 Unidad 6,die Orange,la naranja
 Unidad 6,die Kartoffel,la patata
-Unidad 6,das Hähnchen,el pollo
+Unidad 6,das HÃ¤hnchen,el pollo
 Unidad 6,der Knoblauch,el ajo
 Unidad 6,der Kopfsalat,la lechuga
-Unidad 6,das Öl,el aceite
+Unidad 6,das Ã–l,el aceite
 Unidad 6,der Reis,el arroz
-Unidad 6,der Schinken,el jamón
+Unidad 6,der Schinken,el jamÃ³n
 Unidad 6,das Salz,la sal
-Unidad 6,der Zucker,el azúcar
+Unidad 6,der Zucker,el azÃºcar
 Unidad 6,die Karotte,la zanahoria
 Unidad 6,die Zwiebel,la cebolla
 Unidad 6,die Olive,la aceituna
 Unidad 6,die Paprika,el pimiento
 Unidad 6,das Ei,el huevo
 Unidad 6,die Avocado,el aguacate
-Unidad 6,die Ananas,la piña
+Unidad 6,die Ananas,la piÃ±a
 Unidad 6,der Honig,la miel
-Unidad 6,der Thunfisch,el atún
+Unidad 6,der Thunfisch,el atÃºn
 Unidad 6,der Joghurt,el yogur
 Unidad 6,die Gurke,el pepino
-Unidad 6,die Banane,el plátano
+Unidad 6,die Banane,el plÃ¡tano
 Unidad 6,die Tortilla,la tortilla
 Unidad 6,das Kilo,el kilo
 Unidad 6,der Liter,el litro
@@ -554,13 +554,13 @@ Unidad 6,das Dutzend,la docena
 Unidad 6,die Packung,el paquete
 Unidad 6,die Dose,la lata
 Unidad 6,die Flasche,la botella
-Unidad 6,die Tüte,la bolsa
+Unidad 6,die TÃ¼te,la bolsa
 Unidad 6,das Glas,el bote
 Unidad 6,kosten,costar
 Unidad 6,der Euro,el euro
-Unidad 6,der Cent,el céntimo
+Unidad 6,der Cent,el cÃ©ntimo
 Unidad 6,alles,todo
-Unidad 6,das Tagesmenü,el menú del día
+Unidad 6,das TagesmenÃ¼,el menÃº del dÃ­a
 Unidad 6,das Gericht / der Gang,el plato
 Unidad 6,die Vorspeise,el primer plato
 Unidad 6,die Suppe,la sopa
@@ -577,7 +577,7 @@ Unidad 6,der (Karamell-)Pudding,el flan
 Unidad 6,der Obstsalat,la macedonia de frutas
 Unidad 6,der Milchreis,el arroz con leche
 Unidad 6,der Kellner / die Kellnerin,el camarero / la camarera
-Unidad 6,die gefüllte Teigtasche,la empanadilla
+Unidad 6,die gefÃ¼llte Teigtasche,la empanadilla
 Unidad 6,der russische Salat,la ensaladilla rusa
 Unidad 6,noch ein(e),"otro, otra"
 Unidad 6,eine Zutat haben,llevar algo
@@ -586,64 +586,64 @@ Unidad 6,etw./jdn (mit)bringen,traer algo / a alguien
 Unidad 6,die Idee,la idea
 Unidad 6,sich etw. teilen,compartir algo
 Unidad 6,schlecht,"malo, -a"
-Unidad 6,die Kohlensäure,el gas
+Unidad 6,die KohlensÃ¤ure,el gas
 Unidad 6,jetzt / sofort,ahora
 Unidad 6,salzig,"salado, -a"
 Unidad 6,fade / ungesalzen,"soso, -a"
 Unidad 6,zu (+ Adjektiv),demasiado
 Unidad 6,scharf,picante
-Unidad 6,die Portion,la ración
+Unidad 6,die Portion,la raciÃ³n
 Unidad 6,der Kabeljau / Stockfisch,el bacalao
 Unidad 6,jdm etw. sagen,decir algo a alguien
 Unidad 6,die Rechnung,la cuenta
 Unidad 6,das Chilipulver / der Chili,el chile
 Unidad 6,die Zutat,el ingrediente
-Unidad 6,der Mais,el maíz
-Unidad 6,der Champignon,el champiñón
+Unidad 6,der Mais,el maÃ­z
+Unidad 6,der Champignon,el champiÃ±Ã³n
 Unidad 6,die Salami,el salami
-Unidad 6,kalt,"frío, -a"
-Unidad 6,warm / heiß,caliente
+Unidad 6,kalt,"frÃ­o, -a"
+Unidad 6,warm / heiÃŸ,caliente
 Unidad 7,die Reise,el viaje
 Unidad 7,allein,"solo, -a"
-Unidad 7,der Frühling,la primavera
-Unidad 7,der Herbst,el otoño
+Unidad 7,der FrÃ¼hling,la primavera
+Unidad 7,der Herbst,el otoÃ±o
 Unidad 7,der Winter,el invierno
-Unidad 7,wohin?,¿Adónde?
-Unidad 7,der Berg,la montaña
+Unidad 7,wohin?,Â¿AdÃ³nde?
+Unidad 7,der Berg,la montaÃ±a
 Unidad 7,das Gasthaus,el hostal
 Unidad 7,der Campingplatz,el camping
 Unidad 7,das (Ferien-)Apartment,el apartamento
-Unidad 7,das Flugzeug,el avión
+Unidad 7,das Flugzeug,el aviÃ³n
 Unidad 7,das Schiff,el barco
-Unidad 7,die Sehenswürdigkeit,el monumento
+Unidad 7,die SehenswÃ¼rdigkeit,el monumento
 Unidad 7,Ski fahren,esquiar
 Unidad 7,die Burg,el castillo
-Unidad 7,die Wüste,el desierto
+Unidad 7,die WÃ¼ste,el desierto
 Unidad 7,das Tier,el animal
 Unidad 7,die Kirche,la iglesia
 Unidad 7,der Wald,el bosque
 Unidad 7,der Turm,la torre
-Unidad 7,der Baum,el árbol
+Unidad 7,der Baum,el Ã¡rbol
 Unidad 7,das Meer,el mar
 Unidad 7,der Schnee,la nieve
 Unidad 7,der See,el lago
 Unidad 7,im Vordergrund,en primer plano
 Unidad 7,im Hintergrund,al fondo
-Unidad 7,der Süden,el sur
+Unidad 7,der SÃ¼den,el sur
 Unidad 7,der Norden,el norte
 Unidad 7,der Osten,el este
 Unidad 7,der Westen,el oeste
-Unidad 7,die Region,la región
-Unidad 7,bevölkert,"poblado, -a"
-Unidad 7,eine Million,un millón
+Unidad 7,die Region,la regiÃ³n
+Unidad 7,bevÃ¶lkert,"poblado, -a"
+Unidad 7,eine Million,un millÃ³n
 Unidad 7,der Einwohner / die Einwohnerin,el/la habitante
 Unidad 7,die Provinz,la provincia
-Unidad 7,hoch / groß,"alto, -a"
+Unidad 7,hoch / groÃŸ,"alto, -a"
 Unidad 7,der Meter,el metro
-Unidad 7,die Küste,la costa
+Unidad 7,die KÃ¼ste,la costa
 Unidad 7,lang,"largo, -a"
 Unidad 7,das Wetter,el tiempo
-Unidad 7,pro Jahr,al año
+Unidad 7,pro Jahr,al aÃ±o
 Unidad 7,etw. erzeugen / produzieren,producir algo
 Unidad 7,das Produkt,el producto
 Unidad 7,vor allem,sobre todo
@@ -651,30 +651,30 @@ Unidad 7,die Olive,la oliva
 Unidad 7,die Tonne,la tonelada
 Unidad 7,besucht,"visitado, -a"
 Unidad 7,besuchen,visitar
-Unidad 7,ungefähr,"unos, -as"
+Unidad 7,ungefÃ¤hr,"unos, -as"
 Unidad 7,die Moschee,la mezquita
 Unidad 7,der Dom / die Kathedrale,la catedral
 Unidad 7,der Tourismus,el turismo
 Unidad 7,wegen,por
 Unidad 7,jede(r),cada
-Unidad 7,morgen,mañana
-Unidad 7,jdm etw. erzählen,contar algo a alguien
-Unidad 7,von hier aus,desde aquí
-Unidad 7,die Option / die Wahl,la opción
+Unidad 7,morgen,maÃ±ana
+Unidad 7,jdm etw. erzÃ¤hlen,contar algo a alguien
+Unidad 7,von hier aus,desde aquÃ­
+Unidad 7,die Option / die Wahl,la opciÃ³n
 Unidad 7,ankommen,llegar
 Unidad 7,die Fahrkarte / das Ticket,el billete
 Unidad 7,billig / preiswert,"barato, -a"
 Unidad 7,jdm etw. empfehlen,recomendar algo a alguien
-Unidad 7,praktisch,"práctico, -a"
-Unidad 7,schnell,"rápido, -a"
+Unidad 7,praktisch,"prÃ¡ctico, -a"
+Unidad 7,schnell,"rÃ¡pido, -a"
 Unidad 7,dauern,durar
-Unidad 7,ökologisch / umweltfreundlich,"ecológico, -a"
-Unidad 7,der nächste,siguiente
+Unidad 7,Ã¶kologisch / umweltfreundlich,"ecolÃ³gico, -a"
+Unidad 7,der nÃ¤chste,siguiente
 Unidad 7,etw. mieten,alquilar algo
-Unidad 7,bequem,"cómodo, -a"
+Unidad 7,bequem,"cÃ³modo, -a"
 Unidad 7,teuer,"caro, -a"
 Unidad 7,etw. nehmen,coger algo
-Unidad 7,über,sobre
+Unidad 7,Ã¼ber,sobre
 Unidad 7,der Blog,el blog
 Unidad 7,langsam,"lento, -a"
 Unidad 7,einzeln,individual
@@ -682,7 +682,7 @@ Unidad 7,Doppel-,doble
 Unidad 7,die Klimaanlage,el aire acondicionado
 Unidad 7,der Dienst / die Dienstleistung,el servicio
 Unidad 7,der Parkplatz,el aparcamiento
-Unidad 7,die Rezeption,la recepción
+Unidad 7,die Rezeption,la recepciÃ³n
 Unidad 7,etw. erlauben,permitir algo
 Unidad 7,das Geschoss / der Stock,el piso
 Unidad 7,etw. fragen,preguntar algo
@@ -690,11 +690,11 @@ Unidad 7,die Sonne scheint,hace sol
 Unidad 7,es ist windig,hace viento
 Unidad 7,es regnet,llover
 Unidad 7,schneien,nevar
-Unidad 7,es ist bewölkt,está nublado
+Unidad 7,es ist bewÃ¶lkt,estÃ¡ nublado
 Unidad 7,Nebel,niebla
 Unidad 7,Grad unter Null,bajo cero
 Unidad 7,es ist warm,hace calor
-Unidad 7,es ist kalt,hace frío
+Unidad 7,es ist kalt,hace frÃ­o
 Unidad 7,gestern,ayer
 Unidad 7,vor (+ Zeitraum),hace
 Unidad 7,etw. bemerken,notar algo
@@ -703,12 +703,12 @@ Unidad 7,letzte(r),"pasado, -a"
 Unidad 7,als,cuando
 Unidad 7,wirken / scheinen,parecer
 Unidad 7,etw./jdn vergessen,olvidarse de algo / alguien
-Unidad 7,völlig,totalmente
+Unidad 7,vÃ¶llig,totalmente
 Unidad 7,etw. reservieren,reservar algo
 Unidad 7,vorher,antes
 Unidad 7,jemand,alguien
 Unidad 7,der/die/das ganze,todo el / toda la
-Unidad 7,typisch,"típico, -a"
+Unidad 7,typisch,"tÃ­pico, -a"
 Unidad 7,spazieren gehen,pasear
 Unidad 7,der Spaziergang,el paseo
 Unidad 7,alle,todos / todas
@@ -717,41 +717,41 @@ Unidad 7,tauchen / schnorcheln,bucear
 Unidad 7,der Koffer,la maleta
 Unidad 8,etw. verdienen,ganar algo
 Unidad 8,etw. bilden / formen,formar algo
-Unidad 8,etw. auswählen,elegir algo
-Unidad 8,der Beruf,la profesión
+Unidad 8,etw. auswÃ¤hlen,elegir algo
+Unidad 8,der Beruf,la profesiÃ³n
 Unidad 8,die Erfahrung,la experiencia
 Unidad 8,das Komma,la coma
-Unidad 8,Prozent,el … por ciento
-Unidad 8,die Hälfte,la mitad
-Unidad 8,die Mehrheit / die meisten,la mayoría
-Unidad 8,das Büro,la oficina
-Unidad 8,der Sekretär / die Sekretärin,el secretario / la secretaria
-Unidad 8,der Polizist / die Polizistin,el/la policía
+Unidad 8,Prozent,el â€¦ por ciento
+Unidad 8,die HÃ¤lfte,la mitad
+Unidad 8,die Mehrheit / die meisten,la mayorÃ­a
+Unidad 8,das BÃ¼ro,la oficina
+Unidad 8,der SekretÃ¤r / die SekretÃ¤rin,el secretario / la secretaria
+Unidad 8,der Polizist / die Polizistin,el/la policÃ­a
 Unidad 8,der Blogger / die Bloggerin,el bloguero / la bloguera
 Unidad 8,der Betreuer / die Betreuerin,el monitor / la monitora
 Unidad 8,das Camp,el campamento
-Unidad 8,der Modedesigner / die Modedesignerin,el/la diseñador(a) de moda
+Unidad 8,der Modedesigner / die Modedesignerin,el/la diseÃ±ador(a) de moda
 Unidad 8,der Rettungsschwimmer / die Rettungsschwimmerin,el/la socorrista
-Unidad 8,der Verkäufer / die Verkäuferin,el dependiente / la dependienta
-Unidad 8,der Webdesigner / die Webdesignerin,el/la diseñador(a) de páginas web
+Unidad 8,der VerkÃ¤ufer / die VerkÃ¤uferin,el dependiente / la dependienta
+Unidad 8,der Webdesigner / die Webdesignerin,el/la diseÃ±ador(a) de pÃ¡ginas web
 Unidad 8,kreativ,"creativo, -a"
 Unidad 8,flexibel,flexible
 Unidad 8,kontaktfreudig / offen,"comunicativo, -a"
 Unidad 8,sportlich,deportista
 Unidad 8,der Sport,el deporte
-Unidad 8,etw. wissen / können,saber algo
+Unidad 8,etw. wissen / kÃ¶nnen,saber algo
 Unidad 8,das Team / die Mannschaft,el equipo
-Unidad 8,teamfähig sein,trabajar en equipo
-Unidad 8,das Kind,el niño / la niña
+Unidad 8,teamfÃ¤hig sein,trabajar en equipo
+Unidad 8,das Kind,el niÃ±o / la niÃ±a
 Unidad 8,die Kenntnisse,los conocimientos
-Unidad 8,die Biologie,la biología
+Unidad 8,die Biologie,la biologÃ­a
 Unidad 8,das Geburtsdatum,la fecha de nacimiento
-Unidad 8,die Ausbildung,la formación
+Unidad 8,die Ausbildung,la formaciÃ³n
 Unidad 8,der/die/das (Relativpronomen),que
 Unidad 8,triumphieren,triunfar
 Unidad 8,die Welt,el mundo
-Unidad 8,um etw. kämpfen,luchar por algo
-Unidad 8,der Traum,el sueño
+Unidad 8,um etw. kÃ¤mpfen,luchar por algo
+Unidad 8,der Traum,el sueÃ±o
 Unidad 8,niemand,nadie
 Unidad 8,anhalten / Halt machen,parar
 Unidad 8,die Haltestelle,la parada
@@ -760,56 +760,56 @@ Unidad 8,die Geburt,el nacimiento
 Unidad 8,seit,desde
 Unidad 8,etw. zeichnen,dibujar algo
 Unidad 8,die Zeichnung,el dibujo
-Unidad 8,das Design,el diseño
+Unidad 8,das Design,el diseÃ±o
 Unidad 8,etw. entdecken,descubrir algo
-Unidad 8,die Leidenschaft,la pasión
+Unidad 8,die Leidenschaft,la pasiÃ³n
 Unidad 8,die Schule,el colegio
-Unidad 8,spät,tarde
-Unidad 8,die Epoche / die Zeit,la época
+Unidad 8,spÃ¤t,tarde
+Unidad 8,die Epoche / die Zeit,la Ã©poca
 Unidad 8,der Albtraum,la pesadilla
 Unidad 8,etw. erleiden,sufrir algo
 Unidad 8,das Mobbing,el acoso (escolar)
 Unidad 8,trotzdem,sin embargo
-Unidad 8,jdn unterstützen,apoyar a alguien
+Unidad 8,jdn unterstÃ¼tzen,apoyar a alguien
 Unidad 8,die Oberstufe,el Bachillerato
-Unidad 8,das (Universitäts-)Studium,la carrera
-Unidad 8,genießen,disfrutar
+Unidad 8,das (UniversitÃ¤ts-)Studium,la carrera
+Unidad 8,genieÃŸen,disfrutar
 Unidad 8,das Leben,la vida
 Unidad 8,etw. beenden,terminar de hacer algo
 Unidad 8,die Gelegenheit / die Chance,la oportunidad
 Unidad 8,an etw. teilnehmen,participar en algo
 Unidad 8,etw. lassen / aufgeben,dejar algo
 Unidad 8,sich etw./jdm widmen,dedicarse a algo / alguien
-Unidad 8,einfach,fácil
-Unidad 8,schwierig,difícil
-Unidad 8,das Kostüm / der Anzug,el traje
-Unidad 8,die Unterstützung,el apoyo
-Unidad 8,etw. öffnen,abrir algo
+Unidad 8,einfach,fÃ¡cil
+Unidad 8,schwierig,difÃ­cil
+Unidad 8,das KostÃ¼m / der Anzug,el traje
+Unidad 8,die UnterstÃ¼tzung,el apoyo
+Unidad 8,etw. Ã¶ffnen,abrir algo
 Unidad 8,der Kunde / die Kundin,el cliente / la clienta
-Unidad 8,der Erfolg,el éxito
+Unidad 8,der Erfolg,el Ã©xito
 Unidad 8,etw. hochladen,subir algo
 Unidad 8,das soziale Netzwerk,la red social
-Unidad 8,plötzlich,de repente
+Unidad 8,plÃ¶tzlich,de repente
 Unidad 8,die Frau / Ehefrau,la mujer
 Unidad 8,der Mann,el hombre
 Unidad 8,zurzeit,actualmente
-Unidad 8,der letzte,"último, -a"
-Unidad 8,von … bis,desde … hasta
-Unidad 8,der Lebenslauf,el currículum
+Unidad 8,der letzte,"Ãºltimo, -a"
+Unidad 8,von â€¦ bis,desde â€¦ hasta
+Unidad 8,der Lebenslauf,el currÃ­culum
 Unidad 8,beruflich,profesional
 Unidad 8,die Muttersprache,la lengua materna
-Unidad 8,das Anschreiben,la carta de presentación
+Unidad 8,das Anschreiben,la carta de presentaciÃ³n
 Unidad 8,das Niveau,el nivel
 Unidad 8,der Betreff / die Angelegenheit,el asunto
 Unidad 8,sehr geehrte(r),"estimado, -a"
 Unidad 8,die Antwort,la respuesta
 Unidad 8,die Anzeige,el anuncio
 Unidad 8,gerade etw. getan haben,acabar de hacer algo
-Unidad 8,fleißig / arbeitsam,"trabajador, -a"
+Unidad 8,fleiÃŸig / arbeitsam,"trabajador, -a"
 Unidad 8,verantwortungsbewusst,responsable
 Unidad 8,jdn kennen / kennenlernen,conocer a alguien
 Unidad 8,seit (+ Zeitraum),desde hace
-Unidad 8,Mit freundlichen Grüßen,Atentamente
+Unidad 8,Mit freundlichen GrÃ¼ÃŸen,Atentamente
 Unidad 8,die Bluse,la blusa
 Unidad 8,der Rock,la falda
 Unidad 8,die Sportschuhe,las zapatillas de deporte
@@ -821,13 +821,13 @@ Unidad 8,der Mantel,el abrigo
 Unidad 8,das Kleid,el vestido
 Unidad 8,der Schal,la bufanda
 Unidad 8,die Jacke,la chaqueta
-Unidad 8,die Hose,el pantalón
+Unidad 8,die Hose,el pantalÃ³n
 Unidad 8,das T-Shirt,la camiseta
 Unidad 8,kurz,"corto, -a"
 Unidad 8,breit / weit,"ancho, -a"
 Unidad 8,eng,"estrecho, -a"
 Unidad 8,elegant,elegante
-Unidad 8,klassisch,"clásico, -a"
+Unidad 8,klassisch,"clÃ¡sico, -a"
 Unidad 8,modern,"moderno, -a"
 Unidad 8,formell,formal
 Unidad 8,etw. mit etw. verbinden,relacionar algo con algo
@@ -835,61 +835,61 @@ Unidad 8,die Farbe,el color
 Unidad 8,schwarz,"negro, -a"
 Unidad 8,blau,azul
 Unidad 8,rosa,rosa
-Unidad 8,grün,verde
+Unidad 8,grÃ¼n,verde
 Unidad 8,gelb,"amarillo, -a"
-Unidad 8,weiß,"blanco, -a"
+Unidad 8,weiÃŸ,"blanco, -a"
 Unidad 8,lila,lila
 Unidad 8,orange,naranja
 Unidad 8,grau,gris
-Unidad 8,braun,marrón
-Unidad 8,das Vorstellungsgespräch,la entrevista (de trabajo)
+Unidad 8,braun,marrÃ³n
+Unidad 8,das VorstellungsgesprÃ¤ch,la entrevista (de trabajo)
 Unidad 8,einige,"algunos, -as"
 Unidad 8,die Firma,la empresa
 Unidad 8,der Stil,el estilo
 Unidad 8,jdm etw. zeigen,mostrar algo a alguien
 Unidad 8,dieser / diese / dieses,"este, esta"
 Unidad 8,jener / jene,"aquel, aquella"
-Unidad 8,welche(r/s)?,¿Cuál…?
+Unidad 8,welche(r/s)?,Â¿CuÃ¡lâ€¦?
 Unidad 9,das Projekt,el proyecto
-Unidad 9,an etw. grenzen,limitar (con …)
+Unidad 9,an etw. grenzen,limitar (con â€¦)
 Unidad 9,der Regenwald / der Dschungel,la selva
-Unidad 9,der Kondor,el cóndor
+Unidad 9,der Kondor,el cÃ³ndor
 Unidad 9,der Soldat / die Soldatin,el/la soldado
 Unidad 9,die Eroberung,la conquista
 Unidad 9,das Reich,el imperio
-Unidad 9,der Anführer / die Anführerin,el/la líder
-Unidad 9,jdn töten,matar a alguien
+Unidad 9,der AnfÃ¼hrer / die AnfÃ¼hrerin,el/la lÃ­der
+Unidad 9,jdn tÃ¶ten,matar a alguien
 Unidad 9,die Kolonie,la colonia
-Unidad 9,der Präsident / die Präsidentin,el presidente / la presidenta
-Unidad 9,indigen / eingeboren,indígena
+Unidad 9,der PrÃ¤sident / die PrÃ¤sidentin,el presidente / la presidenta
+Unidad 9,indigen / eingeboren,indÃ­gena
 Unidad 9,etw. erreichen / schaffen,lograr algo
-Unidad 9,die Unabhängigkeit,la independencia
-Unidad 9,während,durante
+Unidad 9,die UnabhÃ¤ngigkeit,la independencia
+Unidad 9,wÃ¤hrend,durante
 Unidad 9,das Jahrhundert,el siglo
 Unidad 9,passieren / geschehen,pasar
 Unidad 9,das Territorium / das Gebiet,el territorio
-Unidad 9,die Religion,la religión
+Unidad 9,die Religion,la religiÃ³n
 Unidad 9,die Architektur,la arquitectura
-Unidad 9,die Erziehung,la educación
+Unidad 9,die Erziehung,la educaciÃ³n
 Unidad 9,etw. einnehmen / besetzen,ocupar algo
 Unidad 9,der Teil,la parte
-Unidad 9,der Gott / die Göttin,el dios / la diosa
+Unidad 9,der Gott / die GÃ¶ttin,el dios / la diosa
 Unidad 9,das Meerschweinchen,el conejillo de Indias
-Unidad 9,früher / damals,antes
+Unidad 9,frÃ¼her / damals,antes
 Unidad 9,etw. anbauen,cultivar algo
 Unidad 9,schon,ya
 Unidad 9,der Adlige / die Adlige,el/la noble
 Unidad 9,das Wissen,el saber
 Unidad 9,etw. lernen,aprender (a hacer) algo
-Unidad 9,sich um jdn kümmern,cuidar algo / a alguien
-Unidad 9,die Flöte,la flauta
+Unidad 9,sich um jdn kÃ¼mmern,cuidar algo / a alguien
+Unidad 9,die FlÃ¶te,la flauta
 Unidad 9,der Knochen,el hueso
 Unidad 9,menschlich,"humano, -a"
 Unidad 9,das Quechua,el quechua
-Unidad 9,immer noch,todavía
+Unidad 9,immer noch,todavÃ­a
 Unidad 9,etw. (er)bauen,construir algo
-Unidad 9,die Brücke,el puente
-Unidad 9,die Hängebrücke,el puente colgante
+Unidad 9,die BrÃ¼cke,el puente
+Unidad 9,die HÃ¤ngebrÃ¼cke,el puente colgante
 Unidad 9,das System,el sistema
 Unidad 9,der Knoten,el nudo
 Unidad 9,mit jdm kommunizieren,comunicarse con alguien
@@ -904,10 +904,10 @@ Unidad 9,verkleidet,"disfrazado, -a"
 Unidad 9,fliegen,volar
 Unidad 9,etw./jdn mitnehmen,llevarse algo / a alguien
 Unidad 9,die Schlucht,el barranco
-Unidad 9,glücklich,feliz
+Unidad 9,glÃ¼cklich,feliz
 Unidad 9,weinen,llorar
 Unidad 9,etw./jdn vermissen,echar de menos algo / a alguien
-Unidad 9,der Vogel,el pájaro
+Unidad 9,der Vogel,el pÃ¡jaro
 Unidad 9,jdm antworten,contestar algo a alguien
 Unidad 9,die Blume,la flor
 Unidad 9,jdn befreien,liberar a alguien
@@ -916,40 +916,41 @@ Unidad 9,der Esel,el burro
 Unidad 9,alt,"viejo, -a"
 Unidad 9,sterben,morir(se)
 Unidad 9,geboren werden,nacer
-Unidad 9,während,mientras
-Unidad 9,die Kröte,el sapo
+Unidad 9,wÃ¤hrend,mientras
+Unidad 9,die KrÃ¶te,el sapo
 Unidad 9,das Haar,el pelo
 Unidad 9,blond,"rubio, -a"
 Unidad 9,dunkelhaarig,"moreno, -a"
-Unidad 9,kastanienbraun,"castaño, -a"
+Unidad 9,kastanienbraun,"castaÃ±o, -a"
 Unidad 9,rothaarig,"pelirrojo, -a"
 Unidad 9,die Haut,la piel
 Unidad 9,hell,"claro, -a"
 Unidad 9,das Auge,el ojo
 Unidad 9,die Brille,las gafas
 Unidad 9,der Bart,la barba
-Unidad 9,klein (Körpergröße),"bajo, -a"
+Unidad 9,klein (KÃ¶rpergrÃ¶ÃŸe),"bajo, -a"
 Unidad 9,schlank,"delgado, -a"
 Unidad 9,dick,"gordo, -a"
-Unidad 9,dünn,delgado
+Unidad 9,dÃ¼nn,delgado
 Unidad 9,der/die Freiwillige,el voluntario / la voluntaria
 Unidad 9,peruanisch,"peruano, -a"
 Unidad 9,NGO,ONG
 Unidad 9,etw./jdn finden,encontrar algo / a alguien
-Unidad 9,jdm etw. unterrichten,enseñar algo a alguien
+Unidad 9,jdm etw. unterrichten,enseÃ±ar algo a alguien
 Unidad 9,die Gesellschaftsschicht,la clase social
 Unidad 9,wohlhabend,"acomodado, -a"
 Unidad 9,arm,pobre
 Unidad 9,der/die Quechua-Indianer(in),el/la quechua
 Unidad 9,das Volk,el pueblo
-Unidad 9,die Integration,la integración
+Unidad 9,die Integration,la integraciÃ³n
 Unidad 9,bedauerlich,lamentable
-Unidad 9,die Lage / die Situation,la situación
+Unidad 9,die Lage / die Situation,la situaciÃ³n
 Unidad 9,kompliziert,"complicado, -a"
-Unidad 9,(zu Fuß) gehen,andar
+Unidad 9,(zu FuÃŸ) gehen,andar
 Unidad 9,der Alkohol,el alcohol
 Unidad 9,die Gewalt,la violencia
 Unidad 9,das Feld,el campo
 Unidad 9,das Ziel,el objetivo
 Unidad 9,die Zukunft,el futuro
-Unidad 9,jdm etw. erklären,explicar algo a alguien
+Unidad 9,jdm etw. erklÃ¤ren,explicar algo a alguien
+
