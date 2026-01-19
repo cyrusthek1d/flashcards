@@ -52,7 +52,10 @@ function buildDropdowns() {
     updateUnitSelect(gradeSelect.value, gradeUnits);
   });
 
-  updateUnitSelect(gradeSelect.value || [...gradeUnits.keys()][0], gradeUnits);
+  // Initiales Setzen
+  const defaultGrade = [...gradeUnits.keys()][0];
+  gradeSelect.value = defaultGrade;
+  updateUnitSelect(defaultGrade, gradeUnits);
 }
 
 function updateUnitSelect(grade, gradeUnits) {
@@ -63,18 +66,27 @@ function updateUnitSelect(grade, gradeUnits) {
   units.forEach((unit) => {
     const opt = document.createElement("option");
     opt.value = `${grade}|${unit}`;
-    opt.textContent = unit;
+    opt.textContent = `Lektion ${unit}`;
     unitSelect.appendChild(opt);
   });
 
   unitSelect.addEventListener("change", () => {
     currentUnit = unitSelect.value;
-    currentCards = byUnit.get(currentUnit).filter((c) => !getDone().includes(c.id));
-    currentIndex = 0;
-    updateCard();
+    loadCurrentCards();
   });
 
-  unitSelect.dispatchEvent(new Event("change"));
+  // Initiales Setzen
+  const firstUnit = unitSelect.options[0]?.value;
+  unitSelect.value = firstUnit;
+  currentUnit = firstUnit;
+  loadCurrentCards();
+}
+
+function loadCurrentCards() {
+  const done = getDone();
+  currentCards = (byUnit.get(currentUnit) || []).filter((c) => !done.includes(c.id));
+  currentIndex = 0;
+  updateCard();
 }
 
 function setupButtons() {
@@ -102,7 +114,7 @@ function setupButtons() {
   document.getElementById("resetBtn").addEventListener("click", () => {
     if (confirm("Bist du sicher, dass du deinen Fortschritt löschen willst?")) {
       localStorage.removeItem("done");
-      updateCard();
+      loadCurrentCards();
     }
   });
 
@@ -124,8 +136,8 @@ function updateCard() {
   const progressText = document.getElementById("progressText");
 
   if (!currentCards || currentCards.length === 0) {
-    cardText.textContent = "🎉 All done!";
-    hintText.textContent = "Du kannst den Fortschritt im Speicher zurücksetzen.";
+    cardText.textContent = "🎉 Alle Vokabeln gelernt!";
+    hintText.textContent = "Du kannst den Fortschritt zurücksetzen.";
     showBtn.disabled = true;
     rightBtn.disabled = true;
     wrongBtn.disabled = true;
@@ -141,6 +153,7 @@ function updateCard() {
   showBtn.disabled = false;
   rightBtn.disabled = true;
   wrongBtn.disabled = true;
+
   progressText.textContent = `${getDone().filter(id => id.startsWith(currentUnit)).length} von ${byUnit.get(currentUnit).length} gelernt`;
 }
 
