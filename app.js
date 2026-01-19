@@ -1,140 +1,154 @@
-const CSV_URL = 'vocab.csv';
-const LS_KEY = 'flashcard_progress';
-
-const unitSelect = document.getElementById("unitSelect");
-const cardText = document.getElementById("cardText");
-const hintText = document.getElementById("hintText");
-const showBtn = document.getElementById("showBtn");
-const wrongBtn = document.getElementById("wrongBtn");
-const rightBtn = document.getElementById("rightBtn");
-const resetBtn = document.getElementById("resetBtn");
-const progressText = document.getElementById("progressText");
-
-let allCards = [];
+let rows = [];
+let byUnit = new Map();
 let currentCards = [];
-let currentCard = null;
-let progress = loadProgress();
-let revealed = false;
+let currentIndex = 0;
+let currentUnit = null;
+let showGermanFirst = true;
 
-function loadProgress() {
-  try { return JSON.parse(localStorage.getItem(LS_KEY)) || {}; }
-  catch { return {}; }
-}
+fetch("vocab.csv")
+  .then((r) => r.text())
+  .then(init);
 
-function saveProgress() {
-  localStorage.setItem(LS_KEY, JSON.stringify(progress));
-}
-
-function parseCSV(text) {
-  const lines = text.trim().split("\n");
-  const headers = lines[0].split(",");
-  return lines.slice(1).map(line => {
-    const parts = line.split(",");
+function init(csvText) {
+  const lines = csvText.trim().split("\n");
+  lines.shift(); // skip header
+  rows = lines.map((line, i) => {
+    const [grade, unit, german, spanish] = line.split(",");
     return {
-      unit: parts[0],
-      german: parts[1],
-      spanish: parts[2],
-      id: parts.join("||")
+      grade: grade.trim(),
+      unit: unit.trim(),
+      german: german.trim(),
+      spanish: spanish.trim(),
+      id: `${grade}|${unit}|${i}`,
     };
   });
+
+  buildDropdowns();
+  setupButtons();
 }
 
-function buildUnits() {
-  const units = [...new Set(allCards.map(c => c.unit))];
-  unitSelect.innerHTML = "";
-  units.forEach(unit => {
+function buildDropdowns() {
+  const gradeUnits = new Map();
+
+  rows.forEach((r) => {
+    const key = `${r.grade}|${r.unit}`;
+    if (!byUnit.has(key)) byUnit.set(key, []);
+    byUnit.get(key).push(r);
+
+    if (!gradeUnits.has(r.grade)) gradeUnits.set(r.grade, new Set());
+    gradeUnits.get(r.grade).add(r.unit);
+  });
+
+  const gradeSelect = document.getElementById("gradeSelect");
+  gradeSelect.innerHTML = "";
+  [...gradeUnits.keys()].sort().forEach((grade) => {
     const opt = document.createElement("option");
-    opt.value = unit;
-    opt.textContent = "Lektion " + unit;
+    opt.value = grade;
+    opt.textContent = `Klasse ${grade}`;
+    gradeSelect.appendChild(opt);
+  });
+
+  gradeSelect.addEventListener("change", () => {
+    updateUnitSelect(gradeSelect.value, gradeUnits);
+  });
+
+  updateUnitSelect(gradeSelect.value || [...gradeUnits.keys()][0], gradeUnits);
+}
+
+function updateUnitSelect(grade, gradeUnits) {
+  const unitSelect = document.getElementById("unitSelect");
+  unitSelect.innerHTML = "";
+
+  const units = [...(gradeUnits.get(grade) || [])].sort();
+  units.forEach((unit) => {
+    const opt = document.createElement("option");
+    opt.value = `${grade}|${unit}`;
+    opt.textContent = unit;
     unitSelect.appendChild(opt);
+  });
+
+  unitSelect.addEventListener("change", () => {
+    currentUnit = unitSelect.value;
+    currentCards = byUnit.get(currentUnit).filter((c) => !getDone().includes(c.id));
+    currentIndex = 0;
+    updateCard();
+  });
+
+  unitSelect.dispatchEvent(new Event("change"));
+}
+
+function setupButtons() {
+  document.getElementById("showBtn").addEventListener("click", () => {
+    const card = currentCards[currentIndex];
+    document.getElementById("hintText").textContent = showGermanFirst
+      ? card.spanish
+      : card.german;
+    document.getElementById("rightBtn").disabled = false;
+    document.getElementById("wrongBtn").disabled = false;
+  });
+
+  document.getElementById("rightBtn").addEventListener("click", () => {
+    const card = currentCards[currentIndex];
+    const done = getDone();
+    if (!done.includes(card.id)) {
+      done.push(card.id);
+      localStorage.setItem("done", JSON.stringify(done));
+    }
+    nextCard();
+  });
+
+  document.getElementById("wrongBtn").addEventListener("click", nextCard);
+
+  document.getElementById("resetBtn").addEventListener("click", () => {
+    if (confirm("Bist du sicher, dass du deinen Fortschritt löschen willst?")) {
+      localStorage.removeItem("done");
+      updateCard();
+    }
+  });
+
+  document.getElementById("langSwitchBtn").addEventListener("click", () => {
+    showGermanFirst = !showGermanFirst;
+    document.getElementById("langIcon").src = showGermanFirst
+      ? "german to spanish.png"
+      : "spanish to german.png";
+    updateCard();
   });
 }
 
-function filterCards() {
-  const selectedUnit = unitSelect.value;
-  const cards = allCards.filter(c => c.unit === selectedUnit);
-  currentCards = cards.filter(c => progress[c.id] !== "done");
-  shuffle(currentCards);
-}
+function updateCard() {
+  const cardText = document.getElementById("cardText");
+  const hintText = document.getElementById("hintText");
+  const showBtn = document.getElementById("showBtn");
+  const rightBtn = document.getElementById("rightBtn");
+  const wrongBtn = document.getElementById("wrongBtn");
+  const progressText = document.getElementById("progressText");
 
-function shuffle(arr) {
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-}
-
-function showNextCard() {
-  revealed = false;
-  wrongBtn.disabled = true;
-  rightBtn.disabled = true;
-  showBtn.disabled = false;
-
-  if (currentCards.length === 0) {
-    cardText.textContent = "🎉 Alles erledigt!";
-    hintText.textContent = "Super gemacht!";
+  if (!currentCards || currentCards.length === 0) {
+    cardText.textContent = "🎉 All done!";
+    hintText.textContent = "Du kannst den Fortschritt im Speicher zurücksetzen.";
+    showBtn.disabled = true;
+    rightBtn.disabled = true;
+    wrongBtn.disabled = true;
     progressText.textContent = "";
     return;
   }
 
-  currentCard = currentCards[0];
-  cardText.textContent = currentCard.german;
-  hintText.textContent = "Was heißt das auf Spanisch?";
-  updateProgressText();
+  const card = currentCards[currentIndex];
+  cardText.textContent = showGermanFirst ? card.german : card.spanish;
+  hintText.textContent = showGermanFirst
+    ? "Was heißt das auf Spanisch?"
+    : "Wie heißt das auf Deutsch?";
+  showBtn.disabled = false;
+  rightBtn.disabled = true;
+  wrongBtn.disabled = true;
+  progressText.textContent = `${getDone().filter(id => id.startsWith(currentUnit)).length} von ${byUnit.get(currentUnit).length} gelernt`;
 }
 
-function revealAnswer() {
-  if (!currentCard) return;
-  cardText.textContent = currentCard.spanish;
-  hintText.textContent = currentCard.german;
-  revealed = true;
-  wrongBtn.disabled = false;
-  rightBtn.disabled = false;
-  showBtn.disabled = true;
+function nextCard() {
+  currentIndex = (currentIndex + 1) % currentCards.length;
+  updateCard();
 }
 
-function mark(answer) {
-  if (!currentCard) return;
-  if (answer === "right") progress[currentCard.id] = "done";
-  saveProgress();
-  currentCards.shift();
-  showNextCard();
+function getDone() {
+  return JSON.parse(localStorage.getItem("done") || "[]");
 }
-
-function updateProgressText() {
-  const total = allCards.filter(c => c.unit === unitSelect.value).length;
-  const done = total - currentCards.length;
-  progressText.textContent = `${done} von ${total} gelernt`;
-}
-
-function resetProgress() {
-  if (confirm("Willst du wirklich alles zurücksetzen?")) {
-    progress = {};
-    saveProgress();
-    filterCards();
-    showNextCard();
-  }
-}
-
-async function init() {
-  const res = await fetch(CSV_URL);
-  const text = await res.text();
-  allCards = parseCSV(text);
-
-  buildUnits();
-  unitSelect.addEventListener("change", () => {
-    filterCards();
-    showNextCard();
-  });
-
-  showBtn.addEventListener("click", revealAnswer);
-  wrongBtn.addEventListener("click", () => mark("wrong"));
-  rightBtn.addEventListener("click", () => mark("right"));
-  resetBtn.addEventListener("click", resetProgress);
-
-  unitSelect.value = unitSelect.options[0]?.value;
-  filterCards();
-  showNextCard();
-}
-
-init();

@@ -4,7 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Flashcards: Deutsch → Spanisch</title>
-
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -15,13 +14,51 @@
       align-items: center;
       height: 100vh;
       margin: 0;
+      flex-direction: column;
     }
 
     .app {
-      max-width: 400px;
+      max-width: 500px;
       width: 100%;
       padding: 20px;
       text-align: center;
+    }
+
+    .dropdowns {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    select {
+      padding: 10px;
+      border-radius: 8px;
+      background: #333;
+      color: white;
+      border: none;
+    }
+
+    #gradeSelect {
+      width: 25%;
+    }
+
+    #unitSelect {
+      width: 75%;
+    }
+
+    .lang-switch {
+      text-align: left;
+      margin: 10px 0;
+    }
+
+    .lang-switch button {
+      background: none;
+      border: none;
+      cursor: pointer;
+    }
+
+    .lang-switch img {
+      width: 40px;
     }
 
     .card {
@@ -45,21 +82,41 @@
     .btn-wrong { background: #b22222; color: white; }
     .btn-reset { background: #555; margin-top: 20px; }
 
-    select {
-      padding: 10px;
-      margin-bottom: 10px;
-      width: 100%;
-      border-radius: 8px;
-      background: #333;
-      color: white;
-      border: none;
+    .footer {
+      margin-top: 30px;
+      text-align: center;
+      font-size: 13px;
+      color: #888;
+    }
+
+    .footer a {
+      color: #ccc;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 5px;
+    }
+
+    .footer img {
+      width: 16px;
+      height: 16px;
+      border-radius: 3px;
     }
   </style>
 </head>
-
 <body>
   <div class="app">
-    <select id="unitSelect"></select>
+    <div class="dropdowns">
+      <select id="gradeSelect"></select>
+      <select id="unitSelect"></select>
+    </div>
+
+    <div class="lang-switch">
+      <button id="langSwitchBtn">
+        <img id="langIcon" src="german to spanish.png" alt="Sprache wechseln" />
+      </button>
+    </div>
 
     <div class="card">
       <h2 id="cardText">Lade Vokabeln...</h2>
@@ -70,25 +127,15 @@
     <button class="btn-wrong" id="wrongBtn" disabled>Falsch</button>
     <button class="btn-right" id="rightBtn" disabled>Richtig</button>
     <button class="btn-reset" id="resetBtn">Fortschritt zurücksetzen</button>
-
     <p id="progressText"></p>
+  </div>
 
-    <!-- ✅ INSTAGRAM FOOTER – JETZT RICHTIG -->
-    <div style="margin-top: 30px; width: 100%; text-align: center;">
-      <a href="https://instagram.com/cyrusthekid2.0" target="_blank"
-         style="color:#ccc; text-decoration:none; font-size:13px;">
-        <div style="display:flex; justify-content:center; align-items:center; gap:6px;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
-               alt="Instagram"
-               style="width:16px; height:16px; border-radius:3px;" />
-          <span>@cyrusthekid2.0</span>
-        </div>
-        <div style="color:#888; margin-top:4px;">
-          Wenn ihr Fehler findet, bitte melden
-        </div>
-      </a>
-    </div>
-
+  <div class="footer">
+    <div>Wenn ihr Fehler findet, bitte melden:</div>
+    <a href="https://instagram.com/cyrusthekid2.0" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" />
+      @cyrusthekid2.0
+    </a>
   </div>
 
   <script src="app.js"></script>
