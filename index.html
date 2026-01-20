@@ -2,8 +2,18 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Flashcards: Deutsch → Spanisch</title>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-340EV98RDZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-340EV98RDZ');
+  </script>
+
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -38,13 +48,8 @@
       border: none;
     }
 
-    #gradeSelect {
-      width: 25%;
-    }
-
-    #unitSelect {
-      width: 75%;
-    }
+    #gradeSelect { width: 25%; }
+    #unitSelect  { width: 75%; }
 
     .lang-switch {
       text-align: left;
@@ -77,10 +82,10 @@
       font-weight: bold;
     }
 
-    .btn-show { background: #444; color: white; }
+    .btn-show  { background: #444;   color: white; }
     .btn-right { background: #2e8b57; color: white; }
     .btn-wrong { background: #b22222; color: white; }
-    .btn-reset { background: #555; margin-top: 20px; }
+    .btn-reset { background: #555;   margin-top: 20px; }
 
     .footer {
       margin-top: 30px;
@@ -105,6 +110,7 @@
     }
   </style>
 </head>
+
 <body>
   <div class="app">
     <div class="dropdowns">
@@ -123,7 +129,7 @@
       <p id="hintText"></p>
     </div>
 
-    <button class="btn-show" id="showBtn">Zeige Antwort</button><br/>
+    <button class="btn-show"  id="showBtn">Zeige Antwort</button><br/>
     <button class="btn-wrong" id="wrongBtn" disabled>Falsch</button>
     <button class="btn-right" id="rightBtn" disabled>Richtig</button>
     <button class="btn-reset" id="resetBtn">Fortschritt zurücksetzen</button>
